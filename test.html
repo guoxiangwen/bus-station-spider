@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title></title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="css/style.css" rel="stylesheet">
+    <script src="https://cdn.bootcss.com/jquery/3.2.1/jquery.min.js"></script>
+</head>
+
+<body>
+    <script>
+        $.getScript('http://int.dpool.sina.com.cn/iplookup/iplookup.php?format=js', function() {
+            alert(remote_ip_info.country); //国家  
+            alert(remote_ip_info.province); //省份  
+            alert(remote_ip_info.city); //城市  
+        });
+    </script>
+</body>
+
+</html>
