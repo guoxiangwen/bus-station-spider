@@ -6,13 +6,6 @@ exports.data = [{
     "name": "北京",
     "level": 1
 }, {
-    "code": "110100",
-    "sheng": "11",
-    "di": "01",
-    "xian": "00",
-    "name": "辖",
-    "level": 2
-}, {
     "code": "110101",
     "sheng": "11",
     "di": "01",
@@ -111,13 +104,6 @@ exports.data = [{
     "name": "平谷",
     "level": 3
 }, {
-    "code": "110200",
-    "sheng": "11",
-    "di": "02",
-    "xian": "00",
-    "name": "",
-    "level": 2
-}, {
     "code": "110228",
     "sheng": "11",
     "di": "02",
@@ -138,13 +124,6 @@ exports.data = [{
     "xian": "00",
     "name": "天津",
     "level": 1
-}, {
-    "code": "120100",
-    "sheng": "12",
-    "di": "01",
-    "xian": "00",
-    "name": "辖",
-    "level": 2
 }, {
     "code": "120101",
     "sheng": "12",
@@ -237,13 +216,6 @@ exports.data = [{
     "name": "滨海新",
     "level": 3
 }, {
-    "code": "120200",
-    "sheng": "12",
-    "di": "02",
-    "xian": "00",
-    "name": "",
-    "level": 2
-}, {
     "code": "120221",
     "sheng": "12",
     "di": "02",
@@ -278,13 +250,6 @@ exports.data = [{
     "xian": "00",
     "name": "石家庄",
     "level": 2
-}, {
-    "code": "130101",
-    "sheng": "13",
-    "di": "01",
-    "xian": "01",
-    "name": "辖",
-    "level": 3
 }, {
     "code": "130102",
     "sheng": "13",
@@ -6137,13 +6102,6 @@ exports.data = [{
     "xian": "20",
     "name": "奉贤",
     "level": 3
-}, {
-    "code": "310200",
-    "sheng": "31",
-    "di": "02",
-    "xian": "00",
-    "name": "",
-    "level": 2
 }, {
     "code": "310230",
     "sheng": "31",
@@ -17386,13 +17344,6 @@ exports.data = [{
     "xian": "51",
     "name": "铜梁",
     "level": 3
-}, {
-    "code": "500200",
-    "sheng": "50",
-    "di": "02",
-    "xian": "00",
-    "name": "",
-    "level": 2
 }, {
     "code": "500223",
     "sheng": "50",
