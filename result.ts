@@ -12862,1049 +12862,1056 @@ let data = [{
     "di": "01",
     "xian": "00",
     "name": "长沙",
+    "station":[
+    {
+        "station_id": "138",
+        "city_name": "长沙",
+        "station_name": "长沙汽车南站",
+        "station_pinyin": "changshaqichenanzhan"
+    },
+    {
+        "station_id": "141",
+        "city_name": "长沙",
+        "station_name": "长株潭汽车站",
+        "station_pinyin": "changzhutanqichezhan"
+    },
+    {
+        "station_id": "139",
+        "city_name": "长沙",
+        "station_name": "长沙汽车西站",
+        "station_pinyin": "changshaqichexizhan"
+    },
+    {
+        "station_id": "140",
+        "city_name": "长沙",
+        "station_name": "长沙汽车东站",
+        "station_pinyin": "changshaqichedongzhan"
+    },
+    {
+        "station_id": "142",
+        "city_name": "长沙",
+        "station_name": "长沙高铁汽车站",
+        "station_pinyin": "changshagaotieqichezhan"
+    },
+    {
+        "station_id": "20645",
+        "city_name": "浏阳",
+        "station_name": "浏阳汽车西站",
+        "station_pinyin": "liuyangqichexizhan"
+    }
+],
     "level": 2
-}, {
-    "code": "430101",
-    "sheng": "43",
-    "di": "01",
-    "xian": "01",
-    "name": "辖",
-    "level": 3
-}, {
-    "code": "430102",
-    "sheng": "43",
-    "di": "01",
-    "xian": "02",
-    "name": "芙蓉",
-    "level": 3
-}, {
-    "code": "430103",
-    "sheng": "43",
-    "di": "01",
-    "xian": "03",
-    "name": "天心",
-    "level": 3
-}, {
-    "code": "430104",
-    "sheng": "43",
-    "di": "01",
-    "xian": "04",
-    "name": "岳麓",
-    "level": 3
-}, {
-    "code": "430105",
-    "sheng": "43",
-    "di": "01",
-    "xian": "05",
-    "name": "开福",
-    "level": 3
-}, {
-    "code": "430111",
-    "sheng": "43",
-    "di": "01",
-    "xian": "11",
-    "name": "雨花",
-    "level": 3
-}, {
-    "code": "430112",
-    "sheng": "43",
-    "di": "01",
-    "xian": "12",
-    "name": "望城",
-    "level": 3
-}, {
-    "code": "430121",
-    "sheng": "43",
-    "di": "01",
-    "xian": "21",
-    "name": "长沙",
-    "level": 3
-}, {
-    "code": "430124",
-    "sheng": "43",
-    "di": "01",
-    "xian": "24",
-    "name": "宁乡",
-    "level": 3
-}, {
-    "code": "430181",
-    "sheng": "43",
-    "di": "01",
-    "xian": "81",
-    "name": "浏阳",
-    "level": 3
 }, {
     "code": "430200",
     "sheng": "43",
     "di": "02",
     "xian": "00",
     "name": "株洲",
+    "station":[
+    {
+        "station_id": "2310",
+        "city_name": "茶陵",
+        "station_name": "茶陵县客运站",
+        "station_pinyin": "chalingxiankeyunzhan"
+    },
+    {
+        "station_id": "2317",
+        "city_name": "株洲",
+        "station_name": "株洲汽车南站",
+        "station_pinyin": "zhuzhouqichenanzhan"
+    },
+    {
+        "station_id": "2312",
+        "city_name": "炎陵",
+        "station_name": "炎陵汽车中心站",
+        "station_pinyin": "yanlingqichezhongxinzhan"
+    },
+    {
+        "station_id": "2306",
+        "city_name": "株洲",
+        "station_name": "株洲汽车中心站",
+        "station_pinyin": "zhuzhouqichezhongxinzhan"
+    },
+    {
+        "station_id": "2308",
+        "city_name": "株洲",
+        "station_name": "株洲汽车站",
+        "station_pinyin": "zhuzhouqichezhan"
+    },
+    {
+        "station_id": "2309",
+        "city_name": "醴陵",
+        "station_name": "醴陵汽车站",
+        "station_pinyin": "lilingqichezhan"
+    },
+    {
+        "station_id": "2311",
+        "city_name": "茶陵",
+        "station_name": "茶陵汽车中心站",
+        "station_pinyin": "chalingqichezhongxinzhan"
+    },
+    {
+        "station_id": "2365",
+        "city_name": "醴陵",
+        "station_name": "醴陵中心站",
+        "station_pinyin": "lilingzhongxinzhan"
+    },
+    {
+        "station_id": "2307",
+        "city_name": "攸县",
+        "station_name": "攸县汽车站",
+        "station_pinyin": "youxianqichezhan"
+    },
+    {
+        "station_id": "8387",
+        "city_name": "株洲",
+        "station_name": "株洲市长途汽车站",
+        "station_pinyin": "zhuzhoushichangtuqichezhan"
+    }
+],
     "level": 2
-}, {
-    "code": "430201",
-    "sheng": "43",
-    "di": "02",
-    "xian": "01",
-    "name": "辖",
-    "level": 3
-}, {
-    "code": "430202",
-    "sheng": "43",
-    "di": "02",
-    "xian": "02",
-    "name": "荷塘",
-    "level": 3
-}, {
-    "code": "430203",
-    "sheng": "43",
-    "di": "02",
-    "xian": "03",
-    "name": "芦淞",
-    "level": 3
-}, {
-    "code": "430204",
-    "sheng": "43",
-    "di": "02",
-    "xian": "04",
-    "name": "石峰",
-    "level": 3
-}, {
-    "code": "430211",
-    "sheng": "43",
-    "di": "02",
-    "xian": "11",
-    "name": "天元",
-    "level": 3
-}, {
-    "code": "430221",
-    "sheng": "43",
-    "di": "02",
-    "xian": "21",
-    "name": "株洲",
-    "level": 3
-}, {
-    "code": "430223",
-    "sheng": "43",
-    "di": "02",
-    "xian": "23",
-    "name": "攸",
-    "level": 3
-}, {
-    "code": "430224",
-    "sheng": "43",
-    "di": "02",
-    "xian": "24",
-    "name": "茶陵",
-    "level": 3
-}, {
-    "code": "430225",
-    "sheng": "43",
-    "di": "02",
-    "xian": "25",
-    "name": "炎陵",
-    "level": 3
-}, {
-    "code": "430281",
-    "sheng": "43",
-    "di": "02",
-    "xian": "81",
-    "name": "醴陵",
-    "level": 3
-}, {
+},  {
     "code": "430300",
     "sheng": "43",
     "di": "03",
     "xian": "00",
     "name": "湘潭",
+    "station":[
+    {
+        "station_id": "1486",
+        "city_name": "湘潭",
+        "station_name": "湘潭汽车站",
+        "station_pinyin": "xiangtanqichezhan"
+    },
+    {
+        "station_id": "1701",
+        "city_name": "湘乡",
+        "station_name": "湘乡汽车站",
+        "station_pinyin": "xiangxiangqichezhan"
+    },
+    {
+        "station_id": "1700",
+        "city_name": "湘潭县",
+        "station_name": "湘潭县汽车站",
+        "station_pinyin": "xiangtanxianqichezhan"
+    },
+    {
+        "station_id": "1699",
+        "city_name": "湘潭",
+        "station_name": "湘潭西站",
+        "station_pinyin": "xiangtanxizhan"
+    },
+    {
+        "station_id": "1702",
+        "city_name": "韶山",
+        "station_name": "韶山汽车站",
+        "station_pinyin": "shaoshanqichezhan"
+    }
+],
     "level": 2
-}, {
-    "code": "430301",
-    "sheng": "43",
-    "di": "03",
-    "xian": "01",
-    "name": "辖",
-    "level": 3
-}, {
-    "code": "430302",
-    "sheng": "43",
-    "di": "03",
-    "xian": "02",
-    "name": "雨湖",
-    "level": 3
-}, {
-    "code": "430304",
-    "sheng": "43",
-    "di": "03",
-    "xian": "04",
-    "name": "岳塘",
-    "level": 3
-}, {
-    "code": "430321",
-    "sheng": "43",
-    "di": "03",
-    "xian": "21",
-    "name": "湘潭",
-    "level": 3
-}, {
-    "code": "430381",
-    "sheng": "43",
-    "di": "03",
-    "xian": "81",
-    "name": "湘乡",
-    "level": 3
-}, {
-    "code": "430382",
-    "sheng": "43",
-    "di": "03",
-    "xian": "82",
-    "name": "韶山",
-    "level": 3
 }, {
     "code": "430400",
     "sheng": "43",
     "di": "04",
     "xian": "00",
     "name": "衡阳",
+    "station":[
+    {
+        "station_id": "152",
+        "city_name": "衡东",
+        "station_name": "衡东汽车站",
+        "station_pinyin": "hengdongqichezhan"
+    },
+    {
+        "station_id": "146",
+        "city_name": "衡阳",
+        "station_name": "南岳汽车站",
+        "station_pinyin": "nanyueqichezhan"
+    },
+    {
+        "station_id": "150",
+        "city_name": "常宁",
+        "station_name": "常宁汽车站",
+        "station_pinyin": "changningqichezhan"
+    },
+    {
+        "station_id": "147",
+        "city_name": "祁东",
+        "station_name": "祁东汽车站",
+        "station_pinyin": "qidongqichezhan1"
+    },
+    {
+        "station_id": "155",
+        "city_name": "衡阳县",
+        "station_name": "衡阳县车站",
+        "station_pinyin": "hengyangxianchezhan"
+    },
+    {
+        "station_id": "151",
+        "city_name": "耒阳",
+        "station_name": "耒阳汽车站",
+        "station_pinyin": "leiyangqichezhan"
+    },
+    {
+        "station_id": "145",
+        "city_name": "衡阳",
+        "station_name": "王江汽车站",
+        "station_pinyin": "wangjiangqichezhan1"
+    },
+    {
+        "station_id": "154",
+        "city_name": "常宁",
+        "station_name": "松柏汽车站",
+        "station_pinyin": "songbaiqichezhan"
+    },
+    {
+        "station_id": "8369",
+        "city_name": "衡阳",
+        "station_name": "衡阳酃湖汽车站",
+        "station_pinyin": "hengyanglinghuqichezhan"
+    },
+    {
+        "station_id": "149",
+        "city_name": "衡阳",
+        "station_name": "白沙洲汽车南站",
+        "station_pinyin": "baishazhouqichenanzhan"
+    },
+    {
+        "station_id": "156",
+        "city_name": "衡南",
+        "station_name": "云集汽车站",
+        "station_pinyin": "yunjiqichezhan"
+    },
+    {
+        "station_id": "148",
+        "city_name": "祁东",
+        "station_name": "白地市汽车站",
+        "station_pinyin": "baidishiqichezhan"
+    },
+    {
+        "station_id": "144",
+        "city_name": "衡阳",
+        "station_name": "华新汽车站",
+        "station_pinyin": "huaxinqichezhan"
+    },
+    {
+        "station_id": "143",
+        "city_name": "衡阳",
+        "station_name": "中心汽车站",
+        "station_pinyin": "zhongxinqichezhan"
+    },
+    {
+        "station_id": "153",
+        "city_name": "衡山",
+        "station_name": "衡山汽车站",
+        "station_pinyin": "hengshanqichezhan"
+    },
+    {
+        "station_id": "5048",
+        "city_name": "衡阳县",
+        "station_name": "蒸阳汽车站",
+        "station_pinyin": "zhengyangqichezhan1"
+    },
+    {
+        "station_id": "20896",
+        "city_name": "耒阳",
+        "station_name": "耒阳市五里牌汽车站",
+        "station_pinyin": "leiyangshiwulipaiqichezhan"
+    }
+],
     "level": 2
-}, {
-    "code": "430401",
-    "sheng": "43",
-    "di": "04",
-    "xian": "01",
-    "name": "辖",
-    "level": 3
-}, {
-    "code": "430405",
-    "sheng": "43",
-    "di": "04",
-    "xian": "05",
-    "name": "珠晖",
-    "level": 3
-}, {
-    "code": "430406",
-    "sheng": "43",
-    "di": "04",
-    "xian": "06",
-    "name": "雁峰",
-    "level": 3
-}, {
-    "code": "430407",
-    "sheng": "43",
-    "di": "04",
-    "xian": "07",
-    "name": "石鼓",
-    "level": 3
-}, {
-    "code": "430408",
-    "sheng": "43",
-    "di": "04",
-    "xian": "08",
-    "name": "蒸湘",
-    "level": 3
-}, {
-    "code": "430412",
-    "sheng": "43",
-    "di": "04",
-    "xian": "12",
-    "name": "南岳",
-    "level": 3
-}, {
-    "code": "430421",
-    "sheng": "43",
-    "di": "04",
-    "xian": "21",
-    "name": "衡阳",
-    "level": 3
-}, {
-    "code": "430422",
-    "sheng": "43",
-    "di": "04",
-    "xian": "22",
-    "name": "衡南",
-    "level": 3
-}, {
-    "code": "430423",
-    "sheng": "43",
-    "di": "04",
-    "xian": "23",
-    "name": "衡山",
-    "level": 3
-}, {
-    "code": "430424",
-    "sheng": "43",
-    "di": "04",
-    "xian": "24",
-    "name": "衡东",
-    "level": 3
-}, {
-    "code": "430426",
-    "sheng": "43",
-    "di": "04",
-    "xian": "26",
-    "name": "祁东",
-    "level": 3
-}, {
-    "code": "430481",
-    "sheng": "43",
-    "di": "04",
-    "xian": "81",
-    "name": "耒阳",
-    "level": 3
-}, {
-    "code": "430482",
-    "sheng": "43",
-    "di": "04",
-    "xian": "82",
-    "name": "常宁",
-    "level": 3
-}, {
+},{
     "code": "430500",
     "sheng": "43",
     "di": "05",
     "xian": "00",
     "name": "邵阳",
+    "station":[
+    {
+        "station_id": "21283",
+        "city_name": "隆回",
+        "station_name": "隆回汽车西站",
+        "station_pinyin": "longhuiqichexizhan"
+    },
+    {
+        "station_id": "1513",
+        "city_name": "邵东",
+        "station_name": "邵东汽车西站",
+        "station_pinyin": "shaodongqichexizhan"
+    },
+    {
+        "station_id": "1515",
+        "city_name": "新宁",
+        "station_name": "新宁汽车西站",
+        "station_pinyin": "xinningqichexizhan"
+    },
+    {
+        "station_id": "1519",
+        "city_name": "武冈",
+        "station_name": "武冈汽车西站",
+        "station_pinyin": "wugangqichexizhan"
+    },
+    {
+        "station_id": "1494",
+        "city_name": "邵阳",
+        "station_name": "邵阳汽车南站",
+        "station_pinyin": "shaoyangqichenanzhan"
+    },
+    {
+        "station_id": "1514",
+        "city_name": "邵阳县",
+        "station_name": "邵阳县汽车站",
+        "station_pinyin": "shaoyangxianqichezhan"
+    },
+    {
+        "station_id": "1493",
+        "city_name": "邵阳",
+        "station_name": "邵阳汽车北站",
+        "station_pinyin": "shaoyangqichebeizhan"
+    },
+    {
+        "station_id": "1512",
+        "city_name": "洞口",
+        "station_name": "洞口高沙汽车站",
+        "station_pinyin": "dongkougaoshaqichezhan"
+    },
+    {
+        "station_id": "1520",
+        "city_name": "城步",
+        "station_name": "城步汽车南站",
+        "station_pinyin": "chengbuqichenanzhan"
+    },
+    {
+        "station_id": "21312",
+        "city_name": "武冈",
+        "station_name": "武冈汽车北站",
+        "station_pinyin": "wugangqichebeizhan"
+    },
+    {
+        "station_id": "1509",
+        "city_name": "隆回",
+        "station_name": "隆回汽车东站",
+        "station_pinyin": "longhuiqichedongzhan"
+    },
+    {
+        "station_id": "1521",
+        "city_name": "城步",
+        "station_name": "城步汽车北站",
+        "station_pinyin": "chengbuqichebeizhan"
+    },
+    {
+        "station_id": "1516",
+        "city_name": "绥宁",
+        "station_name": "绥宁汽车站",
+        "station_pinyin": "suiningqichezhan1"
+    },
+    {
+        "station_id": "1510",
+        "city_name": "隆回",
+        "station_name": "隆回汽车总站",
+        "station_pinyin": "longhuiqichezongzhan"
+    },
+    {
+        "station_id": "1517",
+        "city_name": "绥宁",
+        "station_name": "绥宁汽车南站",
+        "station_pinyin": "suiningqichenanzhan"
+    },
+    {
+        "station_id": "1726",
+        "city_name": "新邵",
+        "station_name": "新邵汽车站",
+        "station_pinyin": "xinshaoqichezhan"
+    },
+    {
+        "station_id": "1492",
+        "city_name": "邵阳",
+        "station_name": "邵阳汽车东站",
+        "station_pinyin": "shaoyangqichedongzhan"
+    },
+    {
+        "station_id": "1511",
+        "city_name": "洞口",
+        "station_name": "洞口汽车总站",
+        "station_pinyin": "dongkouqichezongzhan"
+    },
+    {
+        "station_id": "1518",
+        "city_name": "武冈",
+        "station_name": "武冈汽车东站",
+        "station_pinyin": "wugangqichedongzhan"
+    }
+],
     "level": 2
-}, {
-    "code": "430501",
-    "sheng": "43",
-    "di": "05",
-    "xian": "01",
-    "name": "辖",
-    "level": 3
-}, {
-    "code": "430502",
-    "sheng": "43",
-    "di": "05",
-    "xian": "02",
-    "name": "双清",
-    "level": 3
-}, {
-    "code": "430503",
-    "sheng": "43",
-    "di": "05",
-    "xian": "03",
-    "name": "大祥",
-    "level": 3
-}, {
-    "code": "430511",
-    "sheng": "43",
-    "di": "05",
-    "xian": "11",
-    "name": "北塔",
-    "level": 3
-}, {
-    "code": "430521",
-    "sheng": "43",
-    "di": "05",
-    "xian": "21",
-    "name": "邵东",
-    "level": 3
-}, {
-    "code": "430522",
-    "sheng": "43",
-    "di": "05",
-    "xian": "22",
-    "name": "新邵",
-    "level": 3
-}, {
-    "code": "430523",
-    "sheng": "43",
-    "di": "05",
-    "xian": "23",
-    "name": "邵阳",
-    "level": 3
-}, {
-    "code": "430524",
-    "sheng": "43",
-    "di": "05",
-    "xian": "24",
-    "name": "隆回",
-    "level": 3
-}, {
-    "code": "430525",
-    "sheng": "43",
-    "di": "05",
-    "xian": "25",
-    "name": "洞口",
-    "level": 3
-}, {
-    "code": "430527",
-    "sheng": "43",
-    "di": "05",
-    "xian": "27",
-    "name": "绥宁",
-    "level": 3
-}, {
-    "code": "430528",
-    "sheng": "43",
-    "di": "05",
-    "xian": "28",
-    "name": "新宁",
-    "level": 3
-}, {
-    "code": "430529",
-    "sheng": "43",
-    "di": "05",
-    "xian": "29",
-    "name": "城步苗族自治",
-    "level": 3
-}, {
-    "code": "430581",
-    "sheng": "43",
-    "di": "05",
-    "xian": "81",
-    "name": "武冈",
-    "level": 3
 }, {
     "code": "430600",
     "sheng": "43",
     "di": "06",
     "xian": "00",
     "name": "岳阳",
+    "station":[
+    {
+        "station_id": "1485",
+        "city_name": "岳阳",
+        "station_name": "岳阳汽车站",
+        "station_pinyin": "yueyangqichezhan"
+    },
+    {
+        "station_id": "5069",
+        "city_name": "岳阳",
+        "station_name": "岳阳洞庭站",
+        "station_pinyin": "yueyangdongtingzhan"
+    },
+    {
+        "station_id": "8386",
+        "city_name": "汨罗",
+        "station_name": "汨罗中心汽车站",
+        "station_pinyin": "miluozhongxinqichezhan"
+    },
+    {
+        "station_id": "5028",
+        "city_name": "临湘",
+        "station_name": "临湘客运中心站",
+        "station_pinyin": "linxiangkeyunzhongxinzhan"
+    },
+    {
+        "station_id": "21390",
+        "city_name": "华容",
+        "station_name": "华容汽车中心站",
+        "station_pinyin": "huarongqichezhongxinzhan"
+    }
+],
     "level": 2
-}, {
-    "code": "430601",
-    "sheng": "43",
-    "di": "06",
-    "xian": "01",
-    "name": "辖",
-    "level": 3
-}, {
-    "code": "430602",
-    "sheng": "43",
-    "di": "06",
-    "xian": "02",
-    "name": "岳阳楼",
-    "level": 3
-}, {
-    "code": "430603",
-    "sheng": "43",
-    "di": "06",
-    "xian": "03",
-    "name": "云溪",
-    "level": 3
-}, {
-    "code": "430611",
-    "sheng": "43",
-    "di": "06",
-    "xian": "11",
-    "name": "君山",
-    "level": 3
-}, {
-    "code": "430621",
-    "sheng": "43",
-    "di": "06",
-    "xian": "21",
-    "name": "岳阳",
-    "level": 3
-}, {
-    "code": "430623",
-    "sheng": "43",
-    "di": "06",
-    "xian": "23",
-    "name": "华容",
-    "level": 3
-}, {
-    "code": "430624",
-    "sheng": "43",
-    "di": "06",
-    "xian": "24",
-    "name": "湘阴",
-    "level": 3
-}, {
-    "code": "430626",
-    "sheng": "43",
-    "di": "06",
-    "xian": "26",
-    "name": "平江",
-    "level": 3
-}, {
-    "code": "430681",
-    "sheng": "43",
-    "di": "06",
-    "xian": "81",
-    "name": "汨罗",
-    "level": 3
-}, {
-    "code": "430682",
-    "sheng": "43",
-    "di": "06",
-    "xian": "82",
-    "name": "临湘",
-    "level": 3
-}, {
+},  {
     "code": "430700",
     "sheng": "43",
     "di": "07",
     "xian": "00",
     "name": "常德",
+    "station":[
+    {
+        "station_id": "8367",
+        "city_name": "常德",
+        "station_name": "柳叶湖客运站",
+        "station_pinyin": "liuyehukeyunzhan"
+    },
+    {
+        "station_id": "1704",
+        "city_name": "临澧",
+        "station_name": "临澧汽车站",
+        "station_pinyin": "linliqichezhan"
+    },
+    {
+        "station_id": "1706",
+        "city_name": "石门",
+        "station_name": "石门汽车站",
+        "station_pinyin": "shimenqichezhan"
+    },
+    {
+        "station_id": "21140",
+        "city_name": "安乡",
+        "station_name": "安乡县子龙汽车站",
+        "station_pinyin": "anxiangxianzilongqichezhan"
+    },
+    {
+        "station_id": "1490",
+        "city_name": "常德",
+        "station_name": "常德汽车总站",
+        "station_pinyin": "changdeqichezongzhan"
+    },
+    {
+        "station_id": "1707",
+        "city_name": "安乡",
+        "station_name": "安乡汽车站",
+        "station_pinyin": "anxiangqichezhan"
+    },
+    {
+        "station_id": "1703",
+        "city_name": "常德",
+        "station_name": "常德客运北站",
+        "station_pinyin": "changdekeyunbeizhan"
+    },
+    {
+        "station_id": "1491",
+        "city_name": "常德",
+        "station_name": "常德常南汽车总站",
+        "station_pinyin": "changdechangnanqichezongzhan"
+    },
+    {
+        "station_id": "1710",
+        "city_name": "桃源",
+        "station_name": "桃源汽车站",
+        "station_pinyin": "taoyuanqichezhan"
+    },
+    {
+        "station_id": "21233",
+        "city_name": "汉寿",
+        "station_name": "太子庙汽车站",
+        "station_pinyin": "taizimiaoqichezhan"
+    },
+    {
+        "station_id": "1709",
+        "city_name": "汉寿",
+        "station_name": "汉寿汽车站",
+        "station_pinyin": "hanshouqichezhan"
+    },
+    {
+        "station_id": "21138",
+        "city_name": "临澧",
+        "station_name": "临澧安福汽车站",
+        "station_pinyin": "linlianfuqichezhan"
+    },
+    {
+        "station_id": "1705",
+        "city_name": "澧县",
+        "station_name": "澧县汽车站",
+        "station_pinyin": "lixianqichezhan"
+    },
+    {
+        "station_id": "1708",
+        "city_name": "津市",
+        "station_name": "津市汽车站",
+        "station_pinyin": "jinshiqichezhan"
+    }
+],
     "level": 2
-}, {
-    "code": "430701",
-    "sheng": "43",
-    "di": "07",
-    "xian": "01",
-    "name": "辖",
-    "level": 3
-}, {
-    "code": "430702",
-    "sheng": "43",
-    "di": "07",
-    "xian": "02",
-    "name": "武陵",
-    "level": 3
-}, {
-    "code": "430703",
-    "sheng": "43",
-    "di": "07",
-    "xian": "03",
-    "name": "鼎城",
-    "level": 3
-}, {
-    "code": "430721",
-    "sheng": "43",
-    "di": "07",
-    "xian": "21",
-    "name": "安乡",
-    "level": 3
-}, {
-    "code": "430722",
-    "sheng": "43",
-    "di": "07",
-    "xian": "22",
-    "name": "汉寿",
-    "level": 3
-}, {
-    "code": "430723",
-    "sheng": "43",
-    "di": "07",
-    "xian": "23",
-    "name": "澧",
-    "level": 3
-}, {
-    "code": "430724",
-    "sheng": "43",
-    "di": "07",
-    "xian": "24",
-    "name": "临澧",
-    "level": 3
-}, {
-    "code": "430725",
-    "sheng": "43",
-    "di": "07",
-    "xian": "25",
-    "name": "桃源",
-    "level": 3
-}, {
-    "code": "430726",
-    "sheng": "43",
-    "di": "07",
-    "xian": "26",
-    "name": "石门",
-    "level": 3
-}, {
-    "code": "430781",
-    "sheng": "43",
-    "di": "07",
-    "xian": "81",
-    "name": "津",
-    "level": 3
-}, {
+},  {
     "code": "430800",
     "sheng": "43",
     "di": "08",
     "xian": "00",
     "name": "张家界",
+    "station":[
+    {
+        "station_id": "21229",
+        "city_name": "慈利",
+        "station_name": "慈利西站",
+        "station_pinyin": "cilixizhan"
+    },
+    {
+        "station_id": "20447",
+        "city_name": "武陵源",
+        "station_name": "武陵源客运站",
+        "station_pinyin": "wulingyuankeyunzhan"
+    },
+    {
+        "station_id": "4893",
+        "city_name": "慈利",
+        "station_name": "慈利汽车东站",
+        "station_pinyin": "ciliqichedongzhan"
+    },
+    {
+        "station_id": "1845",
+        "city_name": "张家界",
+        "station_name": "张家界中心汽车站",
+        "station_pinyin": "zhangjiajiezhongxinqichezhan"
+    }
+],
     "level": 2
-}, {
-    "code": "430801",
-    "sheng": "43",
-    "di": "08",
-    "xian": "01",
-    "name": "辖",
-    "level": 3
-}, {
-    "code": "430802",
-    "sheng": "43",
-    "di": "08",
-    "xian": "02",
-    "name": "永定",
-    "level": 3
-}, {
-    "code": "430811",
-    "sheng": "43",
-    "di": "08",
-    "xian": "11",
-    "name": "武陵源",
-    "level": 3
-}, {
-    "code": "430821",
-    "sheng": "43",
-    "di": "08",
-    "xian": "21",
-    "name": "慈利",
-    "level": 3
-}, {
-    "code": "430822",
-    "sheng": "43",
-    "di": "08",
-    "xian": "22",
-    "name": "桑植",
-    "level": 3
 }, {
     "code": "430900",
     "sheng": "43",
     "di": "09",
     "xian": "00",
     "name": "益阳",
+    "station":[
+    {
+        "station_id": "1529",
+        "city_name": "沅江",
+        "station_name": "沅江客运站",
+        "station_pinyin": "yuanjiangkeyunzhan"
+    },
+    {
+        "station_id": "1525",
+        "city_name": "安化",
+        "station_name": "安化汽车站",
+        "station_pinyin": "anhuaqichezhan"
+    },
+    {
+        "station_id": "1528",
+        "city_name": "南县",
+        "station_name": "南县湘北汽车客运站",
+        "station_pinyin": "nanxianxiangbeiqichekeyunzhan"
+    },
+    {
+        "station_id": "159",
+        "city_name": "益阳",
+        "station_name": "益阳汽车北站",
+        "station_pinyin": "yiyangqichebeizhan"
+    },
+    {
+        "station_id": "1526",
+        "city_name": "桃江",
+        "station_name": "桃江汽车站",
+        "station_pinyin": "taojiangqichezhan"
+    },
+    {
+        "station_id": "1527",
+        "city_name": "南县",
+        "station_name": "南县兴盛南站",
+        "station_pinyin": "nanxianxingshengnanzhan"
+    },
+    {
+        "station_id": "1531",
+        "city_name": "安化",
+        "station_name": "安化梅城汽车站",
+        "station_pinyin": "anhuameichengqichezhan"
+    },
+    {
+        "station_id": "1530",
+        "city_name": "大通湖",
+        "station_name": "大通湖汽车站",
+        "station_pinyin": "datonghuqichezhan"
+    },
+    {
+        "station_id": "158",
+        "city_name": "益阳",
+        "station_name": "朝阳汽车南站",
+        "station_pinyin": "chaoyangqichenanzhan"
+    },
+    {
+        "station_id": "157",
+        "city_name": "益阳",
+        "station_name": "赫山汽东站",
+        "station_pinyin": "heshanqidongzhan"
+    },
+    {
+        "station_id": "1532",
+        "city_name": "桃江",
+        "station_name": "灰山港汽车站",
+        "station_pinyin": "huishangangqichezhan"
+    }
+],
     "level": 2
-}, {
-    "code": "430901",
-    "sheng": "43",
-    "di": "09",
-    "xian": "01",
-    "name": "辖",
-    "level": 3
-}, {
-    "code": "430902",
-    "sheng": "43",
-    "di": "09",
-    "xian": "02",
-    "name": "资阳",
-    "level": 3
-}, {
-    "code": "430903",
-    "sheng": "43",
-    "di": "09",
-    "xian": "03",
-    "name": "赫山",
-    "level": 3
-}, {
-    "code": "430921",
-    "sheng": "43",
-    "di": "09",
-    "xian": "21",
-    "name": "南",
-    "level": 3
-}, {
-    "code": "430922",
-    "sheng": "43",
-    "di": "09",
-    "xian": "22",
-    "name": "桃江",
-    "level": 3
-}, {
-    "code": "430923",
-    "sheng": "43",
-    "di": "09",
-    "xian": "23",
-    "name": "安化",
-    "level": 3
-}, {
-    "code": "430981",
-    "sheng": "43",
-    "di": "09",
-    "xian": "81",
-    "name": "沅江",
-    "level": 3
-}, {
+},  {
     "code": "431000",
     "sheng": "43",
     "di": "10",
     "xian": "00",
     "name": "郴州",
+    "station":[
+    {
+        "station_id": "556",
+        "city_name": "郴州",
+        "station_name": "骏马亭汽车站",
+        "station_pinyin": "junmatingqichezhan"
+    },
+    {
+        "station_id": "270",
+        "city_name": "桂阳",
+        "station_name": "桂阳车站",
+        "station_pinyin": "guiyangchezhan"
+    },
+    {
+        "station_id": "161",
+        "city_name": "郴州",
+        "station_name": "天龙汽车站",
+        "station_pinyin": "tianlongqichezhan"
+    },
+    {
+        "station_id": "2425",
+        "city_name": "嘉禾",
+        "station_name": "金田汽车站",
+        "station_pinyin": "jintianqichezhan"
+    },
+    {
+        "station_id": "2426",
+        "city_name": "汝城",
+        "station_name": "汝城车站",
+        "station_pinyin": "ruchengchezhan"
+    },
+    {
+        "station_id": "2422",
+        "city_name": "永兴",
+        "station_name": "永兴车站",
+        "station_pinyin": "yongxingchezhan"
+    },
+    {
+        "station_id": "2418",
+        "city_name": "嘉禾",
+        "station_name": "嘉禾车站",
+        "station_pinyin": "jiahechezhan"
+    },
+    {
+        "station_id": "1153",
+        "city_name": "郴州",
+        "station_name": "郴州城际大巴站",
+        "station_pinyin": "chenzhouchengjidabazhan"
+    },
+    {
+        "station_id": "563",
+        "city_name": "郴州",
+        "station_name": "金都汽车站",
+        "station_pinyin": "jinduqichezhan"
+    },
+    {
+        "station_id": "2416",
+        "city_name": "郴州",
+        "station_name": "万华车站",
+        "station_pinyin": "wanhuachezhan"
+    },
+    {
+        "station_id": "2412",
+        "city_name": "宜章",
+        "station_name": "宜章县汽车站",
+        "station_pinyin": "yizhangxianqichezhan"
+    },
+    {
+        "station_id": "2429",
+        "city_name": "郴州",
+        "station_name": "郴州总站",
+        "station_pinyin": "chenzhouzongzhan"
+    },
+    {
+        "station_id": "2421",
+        "city_name": "安仁",
+        "station_name": "安仁车站",
+        "station_pinyin": "anrenchezhan"
+    },
+    {
+        "station_id": "512",
+        "city_name": "临武",
+        "station_name": "临武车站",
+        "station_pinyin": "linwuchezhan"
+    },
+    {
+        "station_id": "564",
+        "city_name": "永兴",
+        "station_name": "银都汽车站",
+        "station_pinyin": "yinduqichezhan"
+    },
+    {
+        "station_id": "2424",
+        "city_name": "资兴",
+        "station_name": "资兴汽车总站",
+        "station_pinyin": "zixingqichezongzhan"
+    },
+    {
+        "station_id": "2427",
+        "city_name": "永兴",
+        "station_name": "马田车站",
+        "station_pinyin": "matianchezhan"
+    },
+    {
+        "station_id": "2423",
+        "city_name": "安仁",
+        "station_name": "安平车站",
+        "station_pinyin": "anpingchezhan"
+    },
+    {
+        "station_id": "2449",
+        "city_name": "资兴",
+        "station_name": "兴宁汽车站",
+        "station_pinyin": "xingningqichezhan"
+    },
+    {
+        "station_id": "2450",
+        "city_name": "资兴",
+        "station_name": "鲤鱼江汽车站",
+        "station_pinyin": "liyujiangqichezhan"
+    },
+    {
+        "station_id": "2428",
+        "city_name": "桂东",
+        "station_name": "桂东汽车站",
+        "station_pinyin": "guidongqichezhan"
+    },
+    {
+        "station_id": "2451",
+        "city_name": "临武",
+        "station_name": "东塔汽车站",
+        "station_pinyin": "dongtaqichezhan"
+    }
+],
     "level": 2
-}, {
-    "code": "431001",
-    "sheng": "43",
-    "di": "10",
-    "xian": "01",
-    "name": "辖",
-    "level": 3
-}, {
-    "code": "431002",
-    "sheng": "43",
-    "di": "10",
-    "xian": "02",
-    "name": "北湖",
-    "level": 3
-}, {
-    "code": "431003",
-    "sheng": "43",
-    "di": "10",
-    "xian": "03",
-    "name": "苏仙",
-    "level": 3
-}, {
-    "code": "431021",
-    "sheng": "43",
-    "di": "10",
-    "xian": "21",
-    "name": "桂阳",
-    "level": 3
-}, {
-    "code": "431022",
-    "sheng": "43",
-    "di": "10",
-    "xian": "22",
-    "name": "宜章",
-    "level": 3
-}, {
-    "code": "431023",
-    "sheng": "43",
-    "di": "10",
-    "xian": "23",
-    "name": "永兴",
-    "level": 3
-}, {
-    "code": "431024",
-    "sheng": "43",
-    "di": "10",
-    "xian": "24",
-    "name": "嘉禾",
-    "level": 3
-}, {
-    "code": "431025",
-    "sheng": "43",
-    "di": "10",
-    "xian": "25",
-    "name": "临武",
-    "level": 3
-}, {
-    "code": "431026",
-    "sheng": "43",
-    "di": "10",
-    "xian": "26",
-    "name": "汝城",
-    "level": 3
-}, {
-    "code": "431027",
-    "sheng": "43",
-    "di": "10",
-    "xian": "27",
-    "name": "桂东",
-    "level": 3
-}, {
-    "code": "431028",
-    "sheng": "43",
-    "di": "10",
-    "xian": "28",
-    "name": "安仁",
-    "level": 3
-}, {
-    "code": "431081",
-    "sheng": "43",
-    "di": "10",
-    "xian": "81",
-    "name": "资兴",
-    "level": 3
 }, {
     "code": "431100",
     "sheng": "43",
     "di": "11",
     "xian": "00",
     "name": "永州",
+    "station":[
+    {
+        "station_id": "8382",
+        "city_name": "东安",
+        "station_name": "东安交通运输服务站",
+        "station_pinyin": "donganjiaotongyunshufuwuzhan"
+    },
+    {
+        "station_id": "8381",
+        "city_name": "道县",
+        "station_name": "道州汽车北站",
+        "station_pinyin": "daozhouqichebeizhan"
+    },
+    {
+        "station_id": "8383",
+        "city_name": "江永",
+        "station_name": "江永汽车总站",
+        "station_pinyin": "jiangyongqichezongzhan"
+    },
+    {
+        "station_id": "8385",
+        "city_name": "新田",
+        "station_name": "新田汽车站",
+        "station_pinyin": "xintianqichezhan"
+    },
+    {
+        "station_id": "4870",
+        "city_name": "蓝山",
+        "station_name": "蓝山汽车站",
+        "station_pinyin": "lanshanqichezhan1"
+    },
+    {
+        "station_id": "1852",
+        "city_name": "永州",
+        "station_name": "零陵汽车站",
+        "station_pinyin": "linglingqichezhan"
+    },
+    {
+        "station_id": "8384",
+        "city_name": "双牌",
+        "station_name": "双牌汽车站",
+        "station_pinyin": "shuangpaiqichezhan"
+    },
+    {
+        "station_id": "21389",
+        "city_name": "道县",
+        "station_name": "道县交通运输服务站",
+        "station_pinyin": "daoxianjiaotongyunshufuwuzhan"
+    },
+    {
+        "station_id": "1848",
+        "city_name": "永州",
+        "station_name": "永州市汽车北站",
+        "station_pinyin": "yongzhoushiqichebeizhan"
+    }
+],
     "level": 2
-}, {
-    "code": "431101",
-    "sheng": "43",
-    "di": "11",
-    "xian": "01",
-    "name": "辖",
-    "level": 3
-}, {
-    "code": "431102",
-    "sheng": "43",
-    "di": "11",
-    "xian": "02",
-    "name": "零陵",
-    "level": 3
-}, {
-    "code": "431103",
-    "sheng": "43",
-    "di": "11",
-    "xian": "03",
-    "name": "冷水滩",
-    "level": 3
-}, {
-    "code": "431121",
-    "sheng": "43",
-    "di": "11",
-    "xian": "21",
-    "name": "祁阳",
-    "level": 3
-}, {
-    "code": "431122",
-    "sheng": "43",
-    "di": "11",
-    "xian": "22",
-    "name": "东安",
-    "level": 3
-}, {
-    "code": "431123",
-    "sheng": "43",
-    "di": "11",
-    "xian": "23",
-    "name": "双牌",
-    "level": 3
-}, {
-    "code": "431124",
-    "sheng": "43",
-    "di": "11",
-    "xian": "24",
-    "name": "道",
-    "level": 3
-}, {
-    "code": "431125",
-    "sheng": "43",
-    "di": "11",
-    "xian": "25",
-    "name": "江永",
-    "level": 3
-}, {
-    "code": "431126",
-    "sheng": "43",
-    "di": "11",
-    "xian": "26",
-    "name": "宁远",
-    "level": 3
-}, {
-    "code": "431127",
-    "sheng": "43",
-    "di": "11",
-    "xian": "27",
-    "name": "蓝山",
-    "level": 3
-}, {
-    "code": "431128",
-    "sheng": "43",
-    "di": "11",
-    "xian": "28",
-    "name": "新田",
-    "level": 3
-}, {
-    "code": "431129",
-    "sheng": "43",
-    "di": "11",
-    "xian": "29",
-    "name": "江华瑶族自治",
-    "level": 3
 }, {
     "code": "431200",
     "sheng": "43",
     "di": "12",
     "xian": "00",
     "name": "怀化",
+    "station":[
+    {
+        "station_id": "4897",
+        "city_name": "怀化",
+        "station_name": "怀化汽车东站",
+        "station_pinyin": "huaihuaqichedongzhan"
+    },
+    {
+        "station_id": "8376",
+        "city_name": "新晃",
+        "station_name": "新晃汽车站",
+        "station_pinyin": "xinhuangqichezhan"
+    },
+    {
+        "station_id": "8370",
+        "city_name": "辰溪",
+        "station_name": "辰溪汽车站",
+        "station_pinyin": "chenxiqichezhan"
+    },
+    {
+        "station_id": "8371",
+        "city_name": "安江",
+        "station_name": "洪江安江汽车站",
+        "station_pinyin": "hongjianganjiangqichezhan"
+    },
+    {
+        "station_id": "8372",
+        "city_name": "洪江",
+        "station_name": "洪江汽车站",
+        "station_pinyin": "hongjiangqichezhan"
+    },
+    {
+        "station_id": "8373",
+        "city_name": "会同",
+        "station_name": "会同汽车站",
+        "station_pinyin": "huitongqichezhan"
+    },
+    {
+        "station_id": "20443",
+        "city_name": "麻阳",
+        "station_name": "麻阳汽车站",
+        "station_pinyin": "mayangqichezhan"
+    },
+    {
+        "station_id": "21137",
+        "city_name": "沅陵",
+        "station_name": "沅陵官庄汽车站",
+        "station_pinyin": "yuanlingguanzhuangqichezhan"
+    },
+    {
+        "station_id": "4898",
+        "city_name": "沅陵",
+        "station_name": "沅陵汽车站",
+        "station_pinyin": "yuanlingqichezhan"
+    },
+    {
+        "station_id": "20444",
+        "city_name": "芷江",
+        "station_name": "芷江汽车站",
+        "station_pinyin": "zhijiangqichezhan"
+    },
+    {
+        "station_id": "4900",
+        "city_name": "怀化",
+        "station_name": "怀化汽车南站",
+        "station_pinyin": "huaihuaqichenanzhan"
+    },
+    {
+        "station_id": "8374",
+        "city_name": "靖州",
+        "station_name": "靖州汽车站",
+        "station_pinyin": "jingzhouqichezhan"
+    },
+    {
+        "station_id": "20728",
+        "city_name": "黔城",
+        "station_name": "洪江黔城汽车站",
+        "station_pinyin": "hongjiangqianchengqichezhan"
+    },
+    {
+        "station_id": "4899",
+        "city_name": "怀化",
+        "station_name": "怀化汽车西站",
+        "station_pinyin": "huaihuaqichexizhan"
+    },
+    {
+        "station_id": "8375",
+        "city_name": "通道",
+        "station_name": "通道汽车站",
+        "station_pinyin": "tongdaoqichezhan"
+    },
+    {
+        "station_id": "20576",
+        "city_name": "溆浦",
+        "station_name": "溆浦汽车站",
+        "station_pinyin": "xupuqichezhan"
+    }
+],
     "level": 2
-}, {
-    "code": "431201",
-    "sheng": "43",
-    "di": "12",
-    "xian": "01",
-    "name": "辖",
-    "level": 3
-}, {
-    "code": "431202",
-    "sheng": "43",
-    "di": "12",
-    "xian": "02",
-    "name": "鹤城",
-    "level": 3
-}, {
-    "code": "431221",
-    "sheng": "43",
-    "di": "12",
-    "xian": "21",
-    "name": "中方",
-    "level": 3
-}, {
-    "code": "431222",
-    "sheng": "43",
-    "di": "12",
-    "xian": "22",
-    "name": "沅陵",
-    "level": 3
-}, {
-    "code": "431223",
-    "sheng": "43",
-    "di": "12",
-    "xian": "23",
-    "name": "辰溪",
-    "level": 3
-}, {
-    "code": "431224",
-    "sheng": "43",
-    "di": "12",
-    "xian": "24",
-    "name": "溆浦",
-    "level": 3
-}, {
-    "code": "431225",
-    "sheng": "43",
-    "di": "12",
-    "xian": "25",
-    "name": "会同",
-    "level": 3
-}, {
-    "code": "431226",
-    "sheng": "43",
-    "di": "12",
-    "xian": "26",
-    "name": "麻阳苗族自治",
-    "level": 3
-}, {
-    "code": "431227",
-    "sheng": "43",
-    "di": "12",
-    "xian": "27",
-    "name": "新晃侗族自治",
-    "level": 3
-}, {
-    "code": "431228",
-    "sheng": "43",
-    "di": "12",
-    "xian": "28",
-    "name": "芷江侗族自治",
-    "level": 3
-}, {
-    "code": "431229",
-    "sheng": "43",
-    "di": "12",
-    "xian": "29",
-    "name": "靖州苗族侗族自治",
-    "level": 3
-}, {
-    "code": "431230",
-    "sheng": "43",
-    "di": "12",
-    "xian": "30",
-    "name": "通道侗族自治",
-    "level": 3
-}, {
-    "code": "431281",
-    "sheng": "43",
-    "di": "12",
-    "xian": "81",
-    "name": "洪江",
-    "level": 3
-}, {
+},{
     "code": "431300",
     "sheng": "43",
     "di": "13",
     "xian": "00",
     "name": "娄底",
+    "station":[
+    {
+        "station_id": "1748",
+        "city_name": "娄底",
+        "station_name": "娄底汽车南站",
+        "station_pinyin": "loudiqichenanzhan"
+    },
+    {
+        "station_id": "1747",
+        "city_name": "娄底",
+        "station_name": "娄底汽车站",
+        "station_pinyin": "loudiqichezhan"
+    },
+    {
+        "station_id": "1750",
+        "city_name": "双峰",
+        "station_name": "双峰汽车站",
+        "station_pinyin": "shuangfengqichezhan"
+    },
+    {
+        "station_id": "1752",
+        "city_name": "新化",
+        "station_name": "新化汽车西站",
+        "station_pinyin": "xinhuaqichexizhan"
+    },
+    {
+        "station_id": "1749",
+        "city_name": "涟源",
+        "station_name": "涟源汽车站",
+        "station_pinyin": "lianyuanqichezhan"
+    },
+    {
+        "station_id": "1751",
+        "city_name": "冷水江",
+        "station_name": "金竹汽车站",
+        "station_pinyin": "jinzhuqichezhan"
+    },
+    {
+        "station_id": "20449",
+        "city_name": "新化",
+        "station_name": "新化梅苑汽车站",
+        "station_pinyin": "xinhuameiyuanqichezhan"
+    }
+],
     "level": 2
-}, {
-    "code": "431301",
-    "sheng": "43",
-    "di": "13",
-    "xian": "01",
-    "name": "辖",
-    "level": 3
-}, {
-    "code": "431302",
-    "sheng": "43",
-    "di": "13",
-    "xian": "02",
-    "name": "娄星",
-    "level": 3
-}, {
-    "code": "431321",
-    "sheng": "43",
-    "di": "13",
-    "xian": "21",
-    "name": "双峰",
-    "level": 3
-}, {
-    "code": "431322",
-    "sheng": "43",
-    "di": "13",
-    "xian": "22",
-    "name": "新化",
-    "level": 3
-}, {
-    "code": "431381",
-    "sheng": "43",
-    "di": "13",
-    "xian": "81",
-    "name": "冷水江",
-    "level": 3
-}, {
-    "code": "431382",
-    "sheng": "43",
-    "di": "13",
-    "xian": "82",
-    "name": "涟源",
-    "level": 3
-}, {
+},  {
     "code": "433100",
     "sheng": "43",
     "di": "31",
     "xian": "00",
-    "name": "湘西土家族苗族自治州",
+    "name": "湘西",
+    "station":[
+    {
+        "station_id": "8377",
+        "city_name": "古丈",
+        "station_name": "古丈客运总站",
+        "station_pinyin": "guzhangkeyunzongzhan"
+    },
+    {
+        "station_id": "4807",
+        "city_name": "凤凰",
+        "station_name": "凤凰汽车客运总站",
+        "station_pinyin": "fenghuangqichezhan"
+    },
+    {
+        "station_id": "4869",
+        "city_name": "永顺",
+        "station_name": "永顺汽车站",
+        "station_pinyin": "yongshunqichezhan"
+    },
+    {
+        "station_id": "8379",
+        "city_name": "吉首",
+        "station_name": "吉首市汽车北站",
+        "station_pinyin": "jishoushiqichebeizhan"
+    },
+    {
+        "station_id": "8380",
+        "city_name": "泸溪",
+        "station_name": "泸溪县汽车站",
+        "station_pinyin": "luxixianqichezhan"
+    },
+    {
+        "station_id": "4868",
+        "city_name": "保靖",
+        "station_name": "保靖汽车站",
+        "station_pinyin": "baojingqichezhan"
+    },
+    {
+        "station_id": "2360",
+        "city_name": "吉首",
+        "station_name": "吉首西口站",
+        "station_pinyin": "jishouxikouzhan"
+    },
+    {
+        "station_id": "8378",
+        "city_name": "花垣",
+        "station_name": "花垣县汽车站",
+        "station_pinyin": "huayuanxianqichezhan"
+    },
+    {
+        "station_id": "20433",
+        "city_name": "龙山",
+        "station_name": "龙山汽车站",
+        "station_pinyin": "longshanqichezhan"
+    }
+],
     "level": 2
-}, {
-    "code": "433101",
-    "sheng": "43",
-    "di": "31",
-    "xian": "01",
-    "name": "吉首",
-    "level": 3
-}, {
-    "code": "433122",
-    "sheng": "43",
-    "di": "31",
-    "xian": "22",
-    "name": "泸溪",
-    "level": 3
-}, {
-    "code": "433123",
-    "sheng": "43",
-    "di": "31",
-    "xian": "23",
-    "name": "凤凰",
-    "level": 3
-}, {
-    "code": "433124",
-    "sheng": "43",
-    "di": "31",
-    "xian": "24",
-    "name": "花垣",
-    "level": 3
-}, {
-    "code": "433125",
-    "sheng": "43",
-    "di": "31",
-    "xian": "25",
-    "name": "保靖",
-    "level": 3
-}, {
-    "code": "433126",
-    "sheng": "43",
-    "di": "31",
-    "xian": "26",
-    "name": "古丈",
-    "level": 3
-}, {
-    "code": "433127",
-    "sheng": "43",
-    "di": "31",
-    "xian": "27",
-    "name": "永顺",
-    "level": 3
-}, {
-    "code": "433130",
-    "sheng": "43",
-    "di": "31",
-    "xian": "30",
-    "name": "龙山",
-    "level": 3
 }, {
     "code": "440000",
     "sheng": "44",
     "di": "00",
     "xian": "00",
-    "name": "广东省",
+    "name": "广东",
     "level": 1
 }, {
     "code": "440100",
@@ -13912,979 +13919,3350 @@ let data = [{
     "di": "01",
     "xian": "00",
     "name": "广州",
+    "station":[
+    {
+        "station_id": "469",
+        "city_name": "广州白云",
+        "station_name": "夏茅汽车客运站",
+        "station_pinyin": "xiamaoqichekeyunzhan"
+    },
+    {
+        "station_id": "500",
+        "city_name": "广州从化",
+        "station_name": "从化吕田客运站",
+        "station_pinyin": "conghualvtiankeyunzhan"
+    },
+    {
+        "station_id": "486",
+        "city_name": "广州增城",
+        "station_name": "增城石滩客运站",
+        "station_pinyin": "zengchengshitankeyunzhan"
+    },
+    {
+        "station_id": "466",
+        "city_name": "广州黄埔",
+        "station_name": "黄埔汽车客运站",
+        "station_pinyin": "huangpuqichekeyunzhan"
+    },
+    {
+        "station_id": "476",
+        "city_name": "花都",
+        "station_name": "二汽公司花都客运站",
+        "station_pinyin": "erqigongsihuadukeyunzhan"
+    },
+    {
+        "station_id": "479",
+        "city_name": "花都",
+        "station_name": "花都区汽车客运站",
+        "station_pinyin": "huaduquqichekeyunzhan"
+    },
+    {
+        "station_id": "20760",
+        "city_name": "广州",
+        "station_name": "广州中信广场",
+        "station_pinyin": "guangzhouzhongxinguangchang"
+    },
+    {
+        "station_id": "467",
+        "city_name": "广州白云",
+        "station_name": "广园汽车客运站",
+        "station_pinyin": "guangyuanqichekeyunzhan"
+    },
+    {
+        "station_id": "20765",
+        "city_name": "广州",
+        "station_name": "广州日航酒店",
+        "station_pinyin": "guangzhourihangjiudian"
+    },
+    {
+        "station_id": "20764",
+        "city_name": "广州",
+        "station_name": "广州海涛酒店",
+        "station_pinyin": "guangzhouhaitaojiudian"
+    },
+    {
+        "station_id": "478",
+        "city_name": "花都",
+        "station_name": "梯面汽车站",
+        "station_pinyin": "timianqichezhan"
+    },
+    {
+        "station_id": "480",
+        "city_name": "花都",
+        "station_name": "北站汽车客运站",
+        "station_pinyin": "beizhanqichekeyunzhan"
+    },
+    {
+        "station_id": "472",
+        "city_name": "广州天河",
+        "station_name": "东站汽车客运站",
+        "station_pinyin": "dongzhanqichekeyunzhan"
+    },
+    {
+        "station_id": "504",
+        "city_name": "广州番禺",
+        "station_name": "广州大学城客运站",
+        "station_pinyin": "guangzhoudaxuechengkeyunzhan"
+    },
+    {
+        "station_id": "492",
+        "city_name": "广州番禺",
+        "station_name": "市桥汽车站",
+        "station_pinyin": "shiqiaoqichezhan"
+    },
+    {
+        "station_id": "490",
+        "city_name": "广州增城",
+        "station_name": "增城福和客运站",
+        "station_pinyin": "zengchengfuhekeyunzhan"
+    },
+    {
+        "station_id": "464",
+        "city_name": "广州荔湾",
+        "station_name": "芳村汽车客运站",
+        "station_pinyin": "fangcunqichekeyunzhan"
+    },
+    {
+        "station_id": "502",
+        "city_name": "广州增城",
+        "station_name": "增城职教园客运站",
+        "station_pinyin": "zengchengzhijiaoyuankeyunzhan"
+    },
+    {
+        "station_id": "489",
+        "city_name": "广州增城",
+        "station_name": "中新汽车客运站",
+        "station_pinyin": "zhongxinqichekeyunzhan"
+    },
+    {
+        "station_id": "1395",
+        "city_name": "广州越秀",
+        "station_name": "广州宾馆",
+        "station_pinyin": "guangzhoubinguan"
+    },
+    {
+        "station_id": "488",
+        "city_name": "广州增城",
+        "station_name": "交通集团新塘客运站",
+        "station_pinyin": "jiaotongjituanxintangkeyunzhan"
+    },
+    {
+        "station_id": "475",
+        "city_name": "花都",
+        "station_name": "花都花东客运站",
+        "station_pinyin": "huaduhuadongkeyunzhan"
+    },
+    {
+        "station_id": "463",
+        "city_name": "广州荔湾",
+        "station_name": "滘口汽车客运站",
+        "station_pinyin": "jiaokouqichekeyunzhan"
+    },
+    {
+        "station_id": "498",
+        "city_name": "广州增城",
+        "station_name": "新塘星之岛客运站",
+        "station_pinyin": "xintangxingzhidaokeyunzhan"
+    },
+    {
+        "station_id": "497",
+        "city_name": "广州从化",
+        "station_name": "从化鳌头客运站",
+        "station_pinyin": "conghuaaotoukeyunzhan"
+    },
+    {
+        "station_id": "496",
+        "city_name": "广州从化",
+        "station_name": "从化分公司客运站",
+        "station_pinyin": "conghuafengongsikeyunzhan"
+    },
+    {
+        "station_id": "1398",
+        "city_name": "广州番禺",
+        "station_name": "广州南站客运站",
+        "station_pinyin": "guangzhounanzhankeyunzhan"
+    },
+    {
+        "station_id": "1397",
+        "city_name": "广州越秀",
+        "station_name": "以太广场",
+        "station_pinyin": "yitaiguangchang"
+    },
+    {
+        "station_id": "20758",
+        "city_name": "广州",
+        "station_name": "广州番禺宾馆",
+        "station_pinyin": "guangzhoufanyubinguan"
+    },
+    {
+        "station_id": "20757",
+        "city_name": "广州",
+        "station_name": "广州翡翠皇冠假日酒店",
+        "station_pinyin": "guangzhoufeicuihuangguanjiarijiudian"
+    },
+    {
+        "station_id": "474",
+        "city_name": "花都",
+        "station_name": "花都芙蓉客运站",
+        "station_pinyin": "huadufurongkeyunzhan"
+    },
+    {
+        "station_id": "20761",
+        "city_name": "广州",
+        "station_name": "威尔登酒店",
+        "station_pinyin": "weierdengjiudian"
+    },
+    {
+        "station_id": "457",
+        "city_name": "广州越秀",
+        "station_name": "广东省汽车客运站",
+        "station_pinyin": "guangdongshengqichekeyunzhan"
+    },
+    {
+        "station_id": "482",
+        "city_name": "广州从化",
+        "station_name": "广州从化汽车站",
+        "station_pinyin": "guangzhouconghuaqichezhan"
+    },
+    {
+        "station_id": "1396",
+        "city_name": "广州越秀",
+        "station_name": "广东大厦",
+        "station_pinyin": "guangdongdaxia"
+    },
+    {
+        "station_id": "20763",
+        "city_name": "广州",
+        "station_name": "广州丽江明珠大酒店",
+        "station_pinyin": "guangzhoulijiangmingzhudajiudian"
+    },
+    {
+        "station_id": "465",
+        "city_name": "广州天河",
+        "station_name": "锦汉天河大厦客运站",
+        "station_pinyin": "jinhantianhedaxiakeyunzhan"
+    },
+    {
+        "station_id": "501",
+        "city_name": "广州番禺",
+        "station_name": "大石富丽客运站",
+        "station_pinyin": "dashifulikeyunzhan"
+    },
+    {
+        "station_id": "459",
+        "city_name": "广州天河",
+        "station_name": "天河汽车客运站",
+        "station_pinyin": "tianheqichekeyunzhan"
+    },
+    {
+        "station_id": "494",
+        "city_name": "广州番禺",
+        "station_name": "番禺汽车客运站",
+        "station_pinyin": "fanyuqichekeyunzhan"
+    },
+    {
+        "station_id": "468",
+        "city_name": "广州海珠",
+        "station_name": "海珠汽车客运站",
+        "station_pinyin": "haizhuqichekeyunzhan"
+    },
+    {
+        "station_id": "20762",
+        "city_name": "广州",
+        "station_name": "广州华厦国际商务酒店",
+        "station_pinyin": "guangzhouhuaxiaguojishangwujiudian"
+    },
+    {
+        "station_id": "20759",
+        "city_name": "广州",
+        "station_name": "广州长隆酒店",
+        "station_pinyin": "guangzhouchanglongjiudian"
+    },
+    {
+        "station_id": "20756",
+        "city_name": "广州",
+        "station_name": "广州白云国际机场",
+        "station_pinyin": "guangzhoubaiyunguojijichang"
+    },
+    {
+        "station_id": "477",
+        "city_name": "花都",
+        "station_name": "花都赤坭客运站",
+        "station_pinyin": "huaduchinikeyunzhan"
+    },
+    {
+        "station_id": "458",
+        "city_name": "广州越秀",
+        "station_name": "广州市汽车客运站",
+        "station_pinyin": "guangzhoushiqichekeyunzhan"
+    },
+    {
+        "station_id": "20753",
+        "city_name": "东方宾馆",
+        "station_name": "东方宾馆",
+        "station_pinyin": "dongfangbinguan"
+    },
+    {
+        "station_id": "485",
+        "city_name": "广州增城",
+        "station_name": "二汽公司增城客运站",
+        "station_pinyin": "erqigongsizengchengkeyunzhan"
+    },
+    {
+        "station_id": "20766",
+        "city_name": "广州",
+        "station_name": "太阳城大酒店",
+        "station_pinyin": "taiyangchengdajiudian"
+    },
+    {
+        "station_id": "499",
+        "city_name": "广州从化",
+        "station_name": "从化安顺客运站",
+        "station_pinyin": "conghuaanshunkeyunzhan"
+    },
+    {
+        "station_id": "20481",
+        "city_name": "广州越秀",
+        "station_name": "流花车站",
+        "station_pinyin": "liuhuachezhan"
+    },
+    {
+        "station_id": "20767",
+        "city_name": "广州",
+        "station_name": "正佳广场",
+        "station_pinyin": "zhengjiaguangchang"
+    },
+    {
+        "station_id": "491",
+        "city_name": "广州增城",
+        "station_name": "增城派潭客运站",
+        "station_pinyin": "zengchengpaitankeyunzhan"
+    },
+    {
+        "station_id": "460",
+        "city_name": "广州越秀",
+        "station_name": "越秀南汽车客运站",
+        "station_pinyin": "yuexiunanqichekeyunzhan"
+    },
+    {
+        "station_id": "473",
+        "city_name": "广州南沙",
+        "station_name": "南沙客运站",
+        "station_pinyin": "nanshakeyunzhan"
+    },
+    {
+        "station_id": "505",
+        "city_name": "花都",
+        "station_name": "花都狮岭客运站",
+        "station_pinyin": "huadushilingkeyunzhan"
+    },
+    {
+        "station_id": "471",
+        "city_name": "广州天河",
+        "station_name": "东圃汽车客运站",
+        "station_pinyin": "dongpuqichekeyunzhan"
+    },
+    {
+        "station_id": "461",
+        "city_name": "广州荔湾",
+        "station_name": "广佛汽车客运站",
+        "station_pinyin": "guangfoqichekeyunzhan"
+    },
+    {
+        "station_id": "20768",
+        "city_name": "广州",
+        "station_name": "广州轻纺交易园",
+        "station_pinyin": "guangzhouqingfangjiaoyiyuan"
+    },
+    {
+        "station_id": "20769",
+        "city_name": "广州",
+        "station_name": "凤凰城候机楼",
+        "station_pinyin": "fenghuangchenghoujilou"
+    },
+    {
+        "station_id": "20775",
+        "city_name": "广州",
+        "station_name": "和君广场",
+        "station_pinyin": "hejunguangchang"
+    },
+    {
+        "station_id": "20771",
+        "city_name": "广州",
+        "station_name": "广州喜尔宾酒店",
+        "station_pinyin": "guangzhouxierbinjiudian"
+    },
+    {
+        "station_id": "20755",
+        "city_name": "萝岗",
+        "station_name": "广州香雪国际酒店公寓",
+        "station_pinyin": "guangzhouxiangxueguojijiudiangongyu"
+    },
+    {
+        "station_id": "20773",
+        "city_name": "广州",
+        "station_name": "新珠江大酒店",
+        "station_pinyin": "xinzhujiangdajiudian"
+    },
+    {
+        "station_id": "487",
+        "city_name": "广州增城",
+        "station_name": "二汽公司新塘客运站",
+        "station_pinyin": "erqigongsixintangkeyunzhan"
+    },
+    {
+        "station_id": "503",
+        "city_name": "花都",
+        "station_name": "花都炭步客运站",
+        "station_pinyin": "huadutanbukeyunzhan"
+    },
+    {
+        "station_id": "462",
+        "city_name": "广州白云",
+        "station_name": "罗冲围汽车客运站",
+        "station_pinyin": "luochongweiqichekeyunzhan"
+    },
+    {
+        "station_id": "470",
+        "city_name": "广州白云",
+        "station_name": "永泰汽车客运站",
+        "station_pinyin": "yongtaiqichekeyunzhan"
+    },
+    {
+        "station_id": "483",
+        "city_name": "广州增城",
+        "station_name": "增城光明客运站",
+        "station_pinyin": "zengchengguangmingkeyunzhan"
+    },
+    {
+        "station_id": "20754",
+        "city_name": "黄埔",
+        "station_name": "万好万家商务酒店",
+        "station_pinyin": "wanhaowanjiashangwujiudian"
+    },
+    {
+        "station_id": "20770",
+        "city_name": "广州",
+        "station_name": "永成大酒店",
+        "station_pinyin": "yongchengdajiudian"
+    },
+    {
+        "station_id": "20772",
+        "city_name": "广州",
+        "station_name": "广州奥园高尔夫酒店",
+        "station_pinyin": "guangzhouaoyuangaoerfujiudian"
+    },
+    {
+        "station_id": "20844",
+        "city_name": "广州",
+        "station_name": "保利假日酒店",
+        "station_pinyin": "baolijiarijiudian"
+    },
+    {
+        "station_id": "20774",
+        "city_name": "广州",
+        "station_name": "海珠广场",
+        "station_pinyin": "haizhuguangchang"
+    }
+],
     "level": 2
-}, {
-    "code": "440101",
-    "sheng": "44",
-    "di": "01",
-    "xian": "01",
-    "name": "辖",
-    "level": 3
-}, {
-    "code": "440103",
-    "sheng": "44",
-    "di": "01",
-    "xian": "03",
-    "name": "荔湾",
-    "level": 3
-}, {
-    "code": "440104",
-    "sheng": "44",
-    "di": "01",
-    "xian": "04",
-    "name": "越秀",
-    "level": 3
-}, {
-    "code": "440105",
-    "sheng": "44",
-    "di": "01",
-    "xian": "05",
-    "name": "海珠",
-    "level": 3
-}, {
-    "code": "440106",
-    "sheng": "44",
-    "di": "01",
-    "xian": "06",
-    "name": "天河",
-    "level": 3
-}, {
-    "code": "440111",
-    "sheng": "44",
-    "di": "01",
-    "xian": "11",
-    "name": "白云",
-    "level": 3
-}, {
-    "code": "440112",
-    "sheng": "44",
-    "di": "01",
-    "xian": "12",
-    "name": "黄埔",
-    "level": 3
-}, {
-    "code": "440113",
-    "sheng": "44",
-    "di": "01",
-    "xian": "13",
-    "name": "番禺",
-    "level": 3
-}, {
-    "code": "440114",
-    "sheng": "44",
-    "di": "01",
-    "xian": "14",
-    "name": "花都",
-    "level": 3
-}, {
-    "code": "440115",
-    "sheng": "44",
-    "di": "01",
-    "xian": "15",
-    "name": "南沙",
-    "level": 3
-}, {
-    "code": "440116",
-    "sheng": "44",
-    "di": "01",
-    "xian": "16",
-    "name": "萝岗",
-    "level": 3
-}, {
-    "code": "440117",
-    "sheng": "44",
-    "di": "01",
-    "xian": "17",
-    "name": "从化",
-    "level": 3
-}, {
-    "code": "440118",
-    "sheng": "44",
-    "di": "01",
-    "xian": "18",
-    "name": "增城",
-    "level": 3
 }, {
     "code": "440200",
     "sheng": "44",
     "di": "02",
     "xian": "00",
     "name": "韶关",
+    "station":[
+    {
+        "station_id": "644",
+        "city_name": "韶关",
+        "station_name": "韶关西站",
+        "station_pinyin": "shaoguanxizhan"
+    },
+    {
+        "station_id": "664",
+        "city_name": "南雄",
+        "station_name": "南雄界址客运站",
+        "station_pinyin": "nanxiongjiezhikeyunzhan"
+    },
+    {
+        "station_id": "662",
+        "city_name": "新丰",
+        "station_name": "新丰县回龙客运站",
+        "station_pinyin": "xinfengxianhuilongkeyunzhan"
+    },
+    {
+        "station_id": "659",
+        "city_name": "乳源",
+        "station_name": "韶关乳源客运站",
+        "station_pinyin": "shaoguanruyuankeyunzhan"
+    },
+    {
+        "station_id": "650",
+        "city_name": "仁化",
+        "station_name": "仁化客运站",
+        "station_pinyin": "renhuakeyunzhan"
+    },
+    {
+        "station_id": "660",
+        "city_name": "韶关",
+        "station_name": "韶关大坑口客运站",
+        "station_pinyin": "shaoguandakengkoukeyunzhan"
+    },
+    {
+        "station_id": "651",
+        "city_name": "南雄",
+        "station_name": "韶关南雄客运站",
+        "station_pinyin": "shaoguannanxiongkeyunzhan"
+    },
+    {
+        "station_id": "645",
+        "city_name": "韶关",
+        "station_name": "韶关东站",
+        "station_pinyin": "shaoguandongzhan"
+    },
+    {
+        "station_id": "654",
+        "city_name": "翁源",
+        "station_name": "韶关翁源客运站",
+        "station_pinyin": "shaoguanwengyuankeyunzhan"
+    },
+    {
+        "station_id": "647",
+        "city_name": "乐昌",
+        "station_name": "乐昌客运站",
+        "station_pinyin": "lechangkeyunzhan"
+    },
+    {
+        "station_id": "656",
+        "city_name": "翁源",
+        "station_name": "翁源翁城客运站",
+        "station_pinyin": "wengyuanwengchengkeyunzhan"
+    },
+    {
+        "station_id": "648",
+        "city_name": "乐昌",
+        "station_name": "坪石客运站",
+        "station_pinyin": "pingshikeyunzhan"
+    },
+    {
+        "station_id": "658",
+        "city_name": "韶关",
+        "station_name": "韶关曲江客运站",
+        "station_pinyin": "shaoguanqujiangkeyunzhan"
+    },
+    {
+        "station_id": "661",
+        "city_name": "翁源",
+        "station_name": "翁源县官渡客运站",
+        "station_pinyin": "wengyuanxianguandukeyunzhan"
+    },
+    {
+        "station_id": "646",
+        "city_name": "韶关",
+        "station_name": "五里亭客运站",
+        "station_pinyin": "wulitingkeyunzhan"
+    },
+    {
+        "station_id": "655",
+        "city_name": "翁源",
+        "station_name": "翁源龙仙客运站",
+        "station_pinyin": "wengyuanlongxiankeyunzhan"
+    },
+    {
+        "station_id": "657",
+        "city_name": "新丰",
+        "station_name": "新丰汽车客运站",
+        "station_pinyin": "xinfengqichekeyunzhan"
+    },
+    {
+        "station_id": "649",
+        "city_name": "乐昌",
+        "station_name": "花苑客运站",
+        "station_pinyin": "huayuankeyunzhan"
+    },
+    {
+        "station_id": "652",
+        "city_name": "南雄",
+        "station_name": "南雄乌迳客运站",
+        "station_pinyin": "nanxiongwujingkeyunzhan"
+    },
+    {
+        "station_id": "663",
+        "city_name": "韶关",
+        "station_name": "韶关站南路客运站",
+        "station_pinyin": "shaoguanzhannanlukeyunzhan"
+    },
+    {
+        "station_id": "653",
+        "city_name": "始兴",
+        "station_name": "韶关始兴客运站",
+        "station_pinyin": "shaoguanshixingkeyunzhan"
+    },
+    {
+        "station_id": "20878",
+        "city_name": "韶关",
+        "station_name": "韶关汽车南站",
+        "station_pinyin": "shaoguanqichenanzhan"
+    }
+],
     "level": 2
-}, {
-    "code": "440201",
-    "sheng": "44",
-    "di": "02",
-    "xian": "01",
-    "name": "辖",
-    "level": 3
-}, {
-    "code": "440203",
-    "sheng": "44",
-    "di": "02",
-    "xian": "03",
-    "name": "武江",
-    "level": 3
-}, {
-    "code": "440204",
-    "sheng": "44",
-    "di": "02",
-    "xian": "04",
-    "name": "浈江",
-    "level": 3
-}, {
-    "code": "440205",
-    "sheng": "44",
-    "di": "02",
-    "xian": "05",
-    "name": "曲江",
-    "level": 3
-}, {
-    "code": "440222",
-    "sheng": "44",
-    "di": "02",
-    "xian": "22",
-    "name": "始兴",
-    "level": 3
-}, {
-    "code": "440224",
-    "sheng": "44",
-    "di": "02",
-    "xian": "24",
-    "name": "仁化",
-    "level": 3
-}, {
-    "code": "440229",
-    "sheng": "44",
-    "di": "02",
-    "xian": "29",
-    "name": "翁源",
-    "level": 3
-}, {
-    "code": "440232",
-    "sheng": "44",
-    "di": "02",
-    "xian": "32",
-    "name": "乳源瑶族自治",
-    "level": 3
-}, {
-    "code": "440233",
-    "sheng": "44",
-    "di": "02",
-    "xian": "33",
-    "name": "新丰",
-    "level": 3
-}, {
-    "code": "440281",
-    "sheng": "44",
-    "di": "02",
-    "xian": "81",
-    "name": "乐昌",
-    "level": 3
-}, {
-    "code": "440282",
-    "sheng": "44",
-    "di": "02",
-    "xian": "82",
-    "name": "南雄",
-    "level": 3
-}, {
+},  {
     "code": "440300",
     "sheng": "44",
     "di": "03",
     "xian": "00",
     "name": "深圳",
+    "station":[
+    {
+        "station_id": "532",
+        "city_name": "深圳宝安",
+        "station_name": "运发西乡站",
+        "station_pinyin": "yunfaxixiangzhan"
+    },
+    {
+        "station_id": "520",
+        "city_name": "深圳宝安",
+        "station_name": "宝安松岗客运站",
+        "station_pinyin": "baoansonggangkeyunzhan"
+    },
+    {
+        "station_id": "528",
+        "city_name": "深圳宝安",
+        "station_name": "宝安公明客运站",
+        "station_pinyin": "baoangongmingkeyunzhan"
+    },
+    {
+        "station_id": "507",
+        "city_name": "深圳",
+        "station_name": "深圳罗湖客运站",
+        "station_pinyin": "shenzhenluohukeyunzhan"
+    },
+    {
+        "station_id": "530",
+        "city_name": "深圳宝安",
+        "station_name": "宝安客运中心站",
+        "station_pinyin": "baoankeyunzhongxinzhan"
+    },
+    {
+        "station_id": "524",
+        "city_name": "深圳宝安",
+        "station_name": "宝安石岩客运站",
+        "station_pinyin": "baoanshiyankeyunzhan"
+    },
+    {
+        "station_id": "509",
+        "city_name": "深圳南山",
+        "station_name": "南山汽车客运站",
+        "station_pinyin": "nanshanqichekeyunzhan"
+    },
+    {
+        "station_id": "521",
+        "city_name": "深圳宝安",
+        "station_name": "宝安新城客运站",
+        "station_pinyin": "baoanxinchengkeyunzhan"
+    },
+    {
+        "station_id": "510",
+        "city_name": "深圳盐田",
+        "station_name": "盐田汽车客运站",
+        "station_pinyin": "yantianqichekeyunzhan"
+    },
+    {
+        "station_id": "531",
+        "city_name": "深圳宝安",
+        "station_name": "沙井中心客运站",
+        "station_pinyin": "shajingzhongxinkeyunzhan"
+    },
+    {
+        "station_id": "522",
+        "city_name": "深圳宝安",
+        "station_name": "宝安福永客运站",
+        "station_pinyin": "baoanfuyongkeyunzhan"
+    },
+    {
+        "station_id": "519",
+        "city_name": "深圳宝安",
+        "station_name": "宝安汽车站",
+        "station_pinyin": "baoanqichezhan"
+    },
+    {
+        "station_id": "2471",
+        "city_name": "深圳宝安",
+        "station_name": "黄田客运站",
+        "station_pinyin": "huangtiankeyunzhan"
+    },
+    {
+        "station_id": "514",
+        "city_name": "深圳蛇口",
+        "station_name": "深圳蛇口客运站",
+        "station_pinyin": "shenzhenshekoukeyunzhan"
+    },
+    {
+        "station_id": "511",
+        "city_name": "深圳罗湖",
+        "station_name": "东湖汽车客运站",
+        "station_pinyin": "donghuqichekeyunzhan"
+    },
+    {
+        "station_id": "525",
+        "city_name": "深圳宝安",
+        "station_name": "沙井镇汽车客运站",
+        "station_pinyin": "shajingzhenqichekeyunzhan"
+    },
+    {
+        "station_id": "536",
+        "city_name": "深圳龙岗",
+        "station_name": "平湖汽车站",
+        "station_pinyin": "pinghuqichezhan"
+    },
+    {
+        "station_id": "21131",
+        "city_name": "深圳",
+        "station_name": "葵涌站",
+        "station_pinyin": "kuiyongzhan"
+    },
+    {
+        "station_id": "552",
+        "city_name": "深圳龙岗",
+        "station_name": "平湖客货客运站",
+        "station_pinyin": "pinghukehuokeyunzhan"
+    },
+    {
+        "station_id": "506",
+        "city_name": "深圳",
+        "station_name": "银湖汽车站",
+        "station_pinyin": "yinhuqichezhan"
+    },
+    {
+        "station_id": "529",
+        "city_name": "深圳",
+        "station_name": "龙华汽车客运站",
+        "station_pinyin": "longhuaqichekeyunzhan"
+    },
+    {
+        "station_id": "539",
+        "city_name": "深圳龙岗",
+        "station_name": "龙岗丹竹头客运站",
+        "station_pinyin": "longgangdanzhutoukeyunzhan"
+    },
+    {
+        "station_id": "515",
+        "city_name": "深圳福田",
+        "station_name": "皇岗汽车客运站",
+        "station_pinyin": "huanggangqichekeyunzhan"
+    },
+    {
+        "station_id": "508",
+        "city_name": "深圳",
+        "station_name": "深圳福田客运站",
+        "station_pinyin": "shenzhenfutiankeyunzhan"
+    },
+    {
+        "station_id": "516",
+        "city_name": "深圳罗湖",
+        "station_name": "粤运文锦渡汽车站",
+        "station_pinyin": "yueyunwenjinduqichezhan"
+    },
+    {
+        "station_id": "543",
+        "city_name": "深圳龙岗",
+        "station_name": "龙岗坂田客运站",
+        "station_pinyin": "longgangbantiankeyunzhan"
+    },
+    {
+        "station_id": "1729",
+        "city_name": "深圳南山",
+        "station_name": "深圳湾口岸",
+        "station_pinyin": "shenzhenwankouan"
+    },
+    {
+        "station_id": "1723",
+        "city_name": "深圳宝安",
+        "station_name": "深圳北站",
+        "station_pinyin": "shenzhenbeizhan"
+    },
+    {
+        "station_id": "551",
+        "city_name": "深圳龙岗",
+        "station_name": "布吉客货站",
+        "station_pinyin": "bujikekuozhan"
+    },
+    {
+        "station_id": "527",
+        "city_name": "深圳",
+        "station_name": "观澜汽车客运站",
+        "station_pinyin": "guanlanqichekeyunzhan"
+    },
+    {
+        "station_id": "518",
+        "city_name": "深圳龙岗",
+        "station_name": "深圳坪山客运总站",
+        "station_pinyin": "shenzhenpingshankeyunzongzhan"
+    },
+    {
+        "station_id": "513",
+        "city_name": "深圳罗湖",
+        "station_name": "侨社汽车客运站",
+        "station_pinyin": "qiaosheqichekeyunzhan"
+    },
+    {
+        "station_id": "544",
+        "city_name": "深圳龙岗",
+        "station_name": "龙岗大鹏客运站",
+        "station_pinyin": "longgangdapengkeyunzhan"
+    },
+    {
+        "station_id": "1724",
+        "city_name": "深圳罗湖",
+        "station_name": "深圳文锦渡口岸",
+        "station_pinyin": "shenzhenwenjindukouan"
+    },
+    {
+        "station_id": "547",
+        "city_name": "深圳龙岗",
+        "station_name": "布吉总站",
+        "station_pinyin": "bujizongzhan"
+    },
+    {
+        "station_id": "20879",
+        "city_name": "深圳宝安",
+        "station_name": "西乡客运站",
+        "station_pinyin": "xixiangkeyunzhan"
+    },
+    {
+        "station_id": "537",
+        "city_name": "深圳龙岗",
+        "station_name": "龙岗总站",
+        "station_pinyin": "longgangzongzhan"
+    },
+    {
+        "station_id": "541",
+        "city_name": "深圳龙岗",
+        "station_name": "沙湾汽车客运站",
+        "station_pinyin": "shawanqichekeyunzhan"
+    },
+    {
+        "station_id": "542",
+        "city_name": "深圳龙岗",
+        "station_name": "龙岗坪地客运站",
+        "station_pinyin": "longgangpingdikeyunzhan"
+    },
+    {
+        "station_id": "550",
+        "city_name": "深圳龙岗",
+        "station_name": "龙岗坑梓客运站",
+        "station_pinyin": "longgangkengzikeyunzhan"
+    },
+    {
+        "station_id": "517",
+        "city_name": "深圳福田",
+        "station_name": "福田汽车站",
+        "station_pinyin": "futianqichezhan"
+    },
+    {
+        "station_id": "535",
+        "city_name": "深圳宝安",
+        "station_name": "深圳北汽车客运站",
+        "station_pinyin": "shenzhenbeiqichekeyunzhan"
+    },
+    {
+        "station_id": "21422",
+        "city_name": "深圳",
+        "station_name": "光明客运中心",
+        "station_pinyin": "guangmingkeyunzhongxin"
+    },
+    {
+        "station_id": "540",
+        "city_name": "深圳龙岗",
+        "station_name": "龙岗龙东客运站",
+        "station_pinyin": "longganglongdongkeyunzhan"
+    },
+    {
+        "station_id": "553",
+        "city_name": "深圳龙岗",
+        "station_name": "龙岗客货运输站",
+        "station_pinyin": "longgangkehuoyunshuzhan"
+    },
+    {
+        "station_id": "546",
+        "city_name": "深圳龙岗",
+        "station_name": "龙岗镇站",
+        "station_pinyin": "longgangzhenzhan"
+    },
+    {
+        "station_id": "545",
+        "city_name": "深圳龙岗",
+        "station_name": "运发坪山站",
+        "station_pinyin": "yunfapingshanzhan"
+    },
+    {
+        "station_id": "1722",
+        "city_name": "深圳宝安",
+        "station_name": "深圳机场站",
+        "station_pinyin": "shenzhenjichangzhan"
+    }
+],
     "level": 2
-}, {
-    "code": "440301",
-    "sheng": "44",
-    "di": "03",
-    "xian": "01",
-    "name": "辖",
-    "level": 3
-}, {
-    "code": "440303",
-    "sheng": "44",
-    "di": "03",
-    "xian": "03",
-    "name": "罗湖",
-    "level": 3
-}, {
-    "code": "440304",
-    "sheng": "44",
-    "di": "03",
-    "xian": "04",
-    "name": "福田",
-    "level": 3
-}, {
-    "code": "440305",
-    "sheng": "44",
-    "di": "03",
-    "xian": "05",
-    "name": "南山",
-    "level": 3
-}, {
-    "code": "440306",
-    "sheng": "44",
-    "di": "03",
-    "xian": "06",
-    "name": "宝安",
-    "level": 3
-}, {
-    "code": "440307",
-    "sheng": "44",
-    "di": "03",
-    "xian": "07",
-    "name": "龙岗",
-    "level": 3
-}, {
-    "code": "440308",
-    "sheng": "44",
-    "di": "03",
-    "xian": "08",
-    "name": "盐田",
-    "level": 3
 }, {
     "code": "440400",
     "sheng": "44",
     "di": "04",
     "xian": "00",
     "name": "珠海",
+    "station":[
+    {
+        "station_id": "565",
+        "city_name": "珠海",
+        "station_name": "九洲港汽车客运站",
+        "station_pinyin": "jiuzhougangqichekeyunzhan"
+    },
+    {
+        "station_id": "568",
+        "city_name": "珠海",
+        "station_name": "斗门井岸客运站",
+        "station_pinyin": "doumenjingankeyunzhan"
+    },
+    {
+        "station_id": "566",
+        "city_name": "珠海",
+        "station_name": "上冲长途站",
+        "station_pinyin": "shangchongchangtuzhan"
+    },
+    {
+        "station_id": "560",
+        "city_name": "珠海",
+        "station_name": "珠海平沙客运站",
+        "station_pinyin": "zhuhaipingshakeyunzhan"
+    },
+    {
+        "station_id": "20710",
+        "city_name": "唐家聚龙酒店",
+        "station_name": "唐家聚龙酒店",
+        "station_pinyin": "tangjiajulongjiudian"
+    },
+    {
+        "station_id": "558",
+        "city_name": "珠海",
+        "station_name": "拱北通大客运站",
+        "station_pinyin": "gongbeitongdakeyunzhan"
+    },
+    {
+        "station_id": "20703",
+        "city_name": "天鹅酒店",
+        "station_name": "天鹅酒店",
+        "station_pinyin": "tianejiudian"
+    },
+    {
+        "station_id": "20709",
+        "city_name": "华发商都",
+        "station_name": "华发商都",
+        "station_pinyin": "huafashangdu"
+    },
+    {
+        "station_id": "567",
+        "city_name": "珠海",
+        "station_name": "珠海机场客运站",
+        "station_pinyin": "zhuhaijichangkeyunzhan"
+    },
+    {
+        "station_id": "555",
+        "city_name": "珠海",
+        "station_name": "珠海香洲长途客运站",
+        "station_pinyin": "zhuhaixiangzhouchangtukeyunzhan"
+    },
+    {
+        "station_id": "2431",
+        "city_name": "珠海",
+        "station_name": "拱北汽车客运站",
+        "station_pinyin": "gongbeiqichekeyunzhan"
+    },
+    {
+        "station_id": "20707",
+        "city_name": "锦江之星",
+        "station_name": "锦江之星",
+        "station_pinyin": "jinjiangzhixing"
+    },
+    {
+        "station_id": "20464",
+        "city_name": "珠海",
+        "station_name": "湾仔汽车站",
+        "station_pinyin": "wanziqichezhan"
+    },
+    {
+        "station_id": "557",
+        "city_name": "珠海",
+        "station_name": "珠海三灶客运站",
+        "station_pinyin": "zhuhaisanzaokeyunzhan"
+    },
+    {
+        "station_id": "570",
+        "city_name": "珠海",
+        "station_name": "珠海海洲客运站",
+        "station_pinyin": "zhuhaihaizhoukeyunzhan"
+    },
+    {
+        "station_id": "562",
+        "city_name": "珠海",
+        "station_name": "珠海南溪客运站",
+        "station_pinyin": "zhuhainanxikeyunzhan"
+    },
+    {
+        "station_id": "2432",
+        "city_name": "珠海",
+        "station_name": "吉大汽车客运站",
+        "station_pinyin": "jidaqichekeyunzhan"
+    },
+    {
+        "station_id": "20708",
+        "city_name": "中珠大厦",
+        "station_name": "中珠大厦",
+        "station_pinyin": "zhongzhudaxia"
+    },
+    {
+        "station_id": "561",
+        "city_name": "珠海",
+        "station_name": "珠海南水客运站",
+        "station_pinyin": "zhuhainanshuikeyunzhan"
+    },
+    {
+        "station_id": "569",
+        "city_name": "珠海",
+        "station_name": "斗门汽车客运站",
+        "station_pinyin": "doumenqichekeyunzhan"
+    },
+    {
+        "station_id": "20706",
+        "city_name": "明珠城轨站",
+        "station_name": "明珠城轨站",
+        "station_pinyin": "mingzhuchengguizhan"
+    },
+    {
+        "station_id": "20704",
+        "city_name": "西藏大厦",
+        "station_name": "千鹏酒店",
+        "station_pinyin": "qianpengjiudian"
+    },
+    {
+        "station_id": "559",
+        "city_name": "珠海",
+        "station_name": "珠海红旗客运站",
+        "station_pinyin": "zhuhaihongqikeyunzhan"
+    },
+    {
+        "station_id": "2433",
+        "city_name": "珠海",
+        "station_name": "岐关口岸车站",
+        "station_pinyin": "qiguankouanchezhan"
+    },
+    {
+        "station_id": "20705",
+        "city_name": "拱北城轨站",
+        "station_name": "拱北城轨站",
+        "station_pinyin": "gongbeichengguizhan"
+    },
+    {
+        "station_id": "20465",
+        "city_name": "珠海",
+        "station_name": "横琴汽车站",
+        "station_pinyin": "hengqinqichezhan"
+    }
+],
     "level": 2
-}, {
-    "code": "440401",
-    "sheng": "44",
-    "di": "04",
-    "xian": "01",
-    "name": "辖",
-    "level": 3
-}, {
-    "code": "440402",
-    "sheng": "44",
-    "di": "04",
-    "xian": "02",
-    "name": "香洲",
-    "level": 3
-}, {
-    "code": "440403",
-    "sheng": "44",
-    "di": "04",
-    "xian": "03",
-    "name": "斗门",
-    "level": 3
-}, {
-    "code": "440404",
-    "sheng": "44",
-    "di": "04",
-    "xian": "04",
-    "name": "金湾",
-    "level": 3
-}, {
+},  {
     "code": "440500",
     "sheng": "44",
     "di": "05",
     "xian": "00",
     "name": "汕头",
+    "station":[
+    {
+        "station_id": "575",
+        "city_name": "汕头",
+        "station_name": "汕头岐山客运站",
+        "station_pinyin": "shantouqishankeyunzhan"
+    },
+    {
+        "station_id": "586",
+        "city_name": "潮南",
+        "station_name": "潮南陈店客运站",
+        "station_pinyin": "chaonanchendiankeyunzhan"
+    },
+    {
+        "station_id": "582",
+        "city_name": "潮阳",
+        "station_name": "潮阳谷饶客运站",
+        "station_pinyin": "chaoyangguraokeyunzhan"
+    },
+    {
+        "station_id": "580",
+        "city_name": "潮阳",
+        "station_name": "汕头潮阳客运站",
+        "station_pinyin": "shantouchaoyangkeyunzhan"
+    },
+    {
+        "station_id": "584",
+        "city_name": "潮阳",
+        "station_name": "潮阳关埠客运站",
+        "station_pinyin": "chaoyangguanbukeyunzhan"
+    },
+    {
+        "station_id": "583",
+        "city_name": "潮阳",
+        "station_name": "潮阳金玉客运站",
+        "station_pinyin": "chaoyangjinyukeyunzhan"
+    },
+    {
+        "station_id": "591",
+        "city_name": "潮阳",
+        "station_name": "潮阳谷饶西园客运站",
+        "station_pinyin": "chaoyangguraoxiyuankeyunzhan"
+    },
+    {
+        "station_id": "573",
+        "city_name": "汕头",
+        "station_name": "汕头中旅客运站",
+        "station_pinyin": "shantouzhonglvkeyunzhan"
+    },
+    {
+        "station_id": "593",
+        "city_name": "潮南",
+        "station_name": "潮南峡山客运站",
+        "station_pinyin": "chaonanxiashankeyunzhan"
+    },
+    {
+        "station_id": "594",
+        "city_name": "汕头",
+        "station_name": "汕头南翔客运站",
+        "station_pinyin": "shantounanxiangkeyunzhan"
+    },
+    {
+        "station_id": "579",
+        "city_name": "汕头",
+        "station_name": "澄海鹏达客运站",
+        "station_pinyin": "chenghaipengdakeyunzhan"
+    },
+    {
+        "station_id": "590",
+        "city_name": "潮阳",
+        "station_name": "潮阳区北光客运站",
+        "station_pinyin": "chaoyangqubeiguangkeyunzhan"
+    },
+    {
+        "station_id": "595",
+        "city_name": "汕头",
+        "station_name": "汕头东厦客运站",
+        "station_pinyin": "shantoudongxiakeyunzhan"
+    },
+    {
+        "station_id": "588",
+        "city_name": "潮南",
+        "station_name": "潮南司马浦客运站",
+        "station_pinyin": "chaonansimapukeyunzhan"
+    },
+    {
+        "station_id": "589",
+        "city_name": "潮南",
+        "station_name": "潮南成田客运站",
+        "station_pinyin": "chaonanchengtiankeyunzhan"
+    },
+    {
+        "station_id": "572",
+        "city_name": "汕头",
+        "station_name": "汕头礐石客运站",
+        "station_pinyin": "shantouqueshikeyunzhan"
+    },
+    {
+        "station_id": "581",
+        "city_name": "潮阳",
+        "station_name": "潮阳区西丽园客运站",
+        "station_pinyin": "chaoyangquxiliyuankeyunzhan"
+    },
+    {
+        "station_id": "578",
+        "city_name": "汕头",
+        "station_name": "澄海樟东客运站",
+        "station_pinyin": "chenghaizhangdongkeyunzhan"
+    },
+    {
+        "station_id": "585",
+        "city_name": "潮阳",
+        "station_name": "潮阳贵屿客运站",
+        "station_pinyin": "chaoyangguiyukeyunzhan"
+    },
+    {
+        "station_id": "587",
+        "city_name": "潮阳",
+        "station_name": "潮阳和平客运站",
+        "station_pinyin": "chaoyanghepingkeyunzhan"
+    },
+    {
+        "station_id": "576",
+        "city_name": "汕头",
+        "station_name": "汕头客运中心站",
+        "station_pinyin": "shantoukeyunzhongxinzhan"
+    },
+    {
+        "station_id": "577",
+        "city_name": "汕头",
+        "station_name": "澄海汽车客运站",
+        "station_pinyin": "chenghaiqichekeyunzhan"
+    },
+    {
+        "station_id": "574",
+        "city_name": "汕头",
+        "station_name": "汕头西湖客运站",
+        "station_pinyin": "shantouxihukeyunzhan"
+    },
+    {
+        "station_id": "571",
+        "city_name": "汕头",
+        "station_name": "汕头汽车客运站",
+        "station_pinyin": "shantouqichekeyunzhan"
+    },
+    {
+        "station_id": "592",
+        "city_name": "汕头",
+        "station_name": "南澳客运站",
+        "station_pinyin": "nanaokeyunzhan"
+    }
+],
     "level": 2
-}, {
-    "code": "440501",
-    "sheng": "44",
-    "di": "05",
-    "xian": "01",
-    "name": "辖",
-    "level": 3
-}, {
-    "code": "440507",
-    "sheng": "44",
-    "di": "05",
-    "xian": "07",
-    "name": "龙湖",
-    "level": 3
-}, {
-    "code": "440511",
-    "sheng": "44",
-    "di": "05",
-    "xian": "11",
-    "name": "金平",
-    "level": 3
-}, {
-    "code": "440512",
-    "sheng": "44",
-    "di": "05",
-    "xian": "12",
-    "name": "濠江",
-    "level": 3
-}, {
-    "code": "440513",
-    "sheng": "44",
-    "di": "05",
-    "xian": "13",
-    "name": "潮阳",
-    "level": 3
-}, {
-    "code": "440514",
-    "sheng": "44",
-    "di": "05",
-    "xian": "14",
-    "name": "潮南",
-    "level": 3
-}, {
-    "code": "440515",
-    "sheng": "44",
-    "di": "05",
-    "xian": "15",
-    "name": "澄海",
-    "level": 3
-}, {
-    "code": "440523",
-    "sheng": "44",
-    "di": "05",
-    "xian": "23",
-    "name": "南澳",
-    "level": 3
-}, {
+},  {
     "code": "440600",
     "sheng": "44",
     "di": "06",
     "xian": "00",
     "name": "佛山",
+    "station":[
+    {
+        "station_id": "600",
+        "city_name": "佛山",
+        "station_name": "石湾汽车客运站",
+        "station_pinyin": "shiwanqichekeyunzhan"
+    },
+    {
+        "station_id": "629",
+        "city_name": "佛山",
+        "station_name": "龙山客运站",
+        "station_pinyin": "longshankeyunzhan"
+    },
+    {
+        "station_id": "628",
+        "city_name": "顺德",
+        "station_name": "顺德龙山候机楼",
+        "station_pinyin": "shundelongshanhoujilou"
+    },
+    {
+        "station_id": "615",
+        "city_name": "南海",
+        "station_name": "南海大沥候机楼",
+        "station_pinyin": "nanhaidalihoujilou"
+    },
+    {
+        "station_id": "599",
+        "city_name": "佛山",
+        "station_name": "粤运汽车客运站",
+        "station_pinyin": "yueyunqichekeyunzhan"
+    },
+    {
+        "station_id": "602",
+        "city_name": "南海",
+        "station_name": "南海区官窑客运站",
+        "station_pinyin": "nanhaiquguanyaokeyunzhan"
+    },
+    {
+        "station_id": "601",
+        "city_name": "佛山",
+        "station_name": "东方广场客运站",
+        "station_pinyin": "dongfangguangchangkeyunzhan"
+    },
+    {
+        "station_id": "617",
+        "city_name": "南海",
+        "station_name": "南海区九江客运站",
+        "station_pinyin": "nanhaiqujiujiangkeyunzhan"
+    },
+    {
+        "station_id": "608",
+        "city_name": "南海",
+        "station_name": "南海区西樵客运站",
+        "station_pinyin": "nanhaiquxiqiaokeyunzhan"
+    },
+    {
+        "station_id": "596",
+        "city_name": "佛山",
+        "station_name": "佛山汽车客运站",
+        "station_pinyin": "foshanqichekeyunzhan"
+    },
+    {
+        "station_id": "621",
+        "city_name": "顺德",
+        "station_name": "顺德伦教客运站",
+        "station_pinyin": "shundelunjiaokeyunzhan"
+    },
+    {
+        "station_id": "618",
+        "city_name": "佛山",
+        "station_name": "南海区里水客运站",
+        "station_pinyin": "nanhaiqulishuikeyunzhan"
+    },
+    {
+        "station_id": "604",
+        "city_name": "南海",
+        "station_name": "南海区客运站",
+        "station_pinyin": "nanhaiqukeyunzhan"
+    },
+    {
+        "station_id": "622",
+        "city_name": "顺德",
+        "station_name": "杏坛汽车客运站",
+        "station_pinyin": "xingtanqichekeyunzhan"
+    },
+    {
+        "station_id": "598",
+        "city_name": "佛山",
+        "station_name": "佛山迳口客运站",
+        "station_pinyin": "foshanjingkoukeyunzhan"
+    },
+    {
+        "station_id": "624",
+        "city_name": "顺德",
+        "station_name": "顺德勒流客运站",
+        "station_pinyin": "shundeleliukeyunzhan"
+    },
+    {
+        "station_id": "620",
+        "city_name": "顺德",
+        "station_name": "顺德汽车客运站",
+        "station_pinyin": "shundeqichekeyunzhan"
+    },
+    {
+        "station_id": "626",
+        "city_name": "顺德",
+        "station_name": "顺德均安客运站",
+        "station_pinyin": "shundejunankeyunzhan"
+    },
+    {
+        "station_id": "607",
+        "city_name": "佛山",
+        "station_name": "广佛路口客运站",
+        "station_pinyin": "guangfolukoukeyunzhan"
+    },
+    {
+        "station_id": "631",
+        "city_name": "佛山",
+        "station_name": "高明合水客运站",
+        "station_pinyin": "gaomingheshuikeyunzhan"
+    },
+    {
+        "station_id": "625",
+        "city_name": "佛山",
+        "station_name": "容桂汽车客运站",
+        "station_pinyin": "rongguiqichekeyunzhan"
+    },
+    {
+        "station_id": "630",
+        "city_name": "顺德",
+        "station_name": "顺德大良候机楼",
+        "station_pinyin": "shundedalianghoujilou"
+    },
+    {
+        "station_id": "610",
+        "city_name": "南海",
+        "station_name": "南海区平洲客运站",
+        "station_pinyin": "nanhaiqupingzhoukeyunzhan1"
+    },
+    {
+        "station_id": "640",
+        "city_name": "佛山",
+        "station_name": "城巴客运站",
+        "station_pinyin": "chengbakeyunzhan"
+    },
+    {
+        "station_id": "632",
+        "city_name": "佛山",
+        "station_name": "高明明城客运站",
+        "station_pinyin": "gaomingmingchengkeyunzhan"
+    },
+    {
+        "station_id": "612",
+        "city_name": "南海",
+        "station_name": "南海区和顺客运站",
+        "station_pinyin": "nanhaiquheshunkeyunzhan"
+    },
+    {
+        "station_id": "605",
+        "city_name": "南海",
+        "station_name": "南海区丹灶客运站",
+        "station_pinyin": "nanhaiqudanzaokeyunzhan"
+    },
+    {
+        "station_id": "637",
+        "city_name": "顺德",
+        "station_name": "顺德容奇客运站",
+        "station_pinyin": "shunderongqikeyunzhan"
+    },
+    {
+        "station_id": "611",
+        "city_name": "南海",
+        "station_name": "南海九江协和客运站",
+        "station_pinyin": "nanhaijiujiangxiehekeyunzhan"
+    },
+    {
+        "station_id": "643",
+        "city_name": "佛山",
+        "station_name": "禅城南庄客运站",
+        "station_pinyin": "chanchengnanzhuangkeyunzhan"
+    },
+    {
+        "station_id": "606",
+        "city_name": "南海",
+        "station_name": "南海官窑分站客运站",
+        "station_pinyin": "nanhaiguanyaofenzhankeyunzhan"
+    },
+    {
+        "station_id": "623",
+        "city_name": "顺德",
+        "station_name": "顺德乐从客运站",
+        "station_pinyin": "shundelecongkeyunzhan"
+    },
+    {
+        "station_id": "609",
+        "city_name": "南海",
+        "station_name": "南海区小塘客运站",
+        "station_pinyin": "nanhaiquxiaotangkeyunzhan"
+    },
+    {
+        "station_id": "597",
+        "city_name": "佛山",
+        "station_name": "佛山祖庙客运站",
+        "station_pinyin": "foshanzumiaokeyunzhan"
+    },
+    {
+        "station_id": "639",
+        "city_name": "顺德",
+        "station_name": "顺德陈村客运站",
+        "station_pinyin": "shundechencunkeyunzhan"
+    },
+    {
+        "station_id": "614",
+        "city_name": "佛山",
+        "station_name": "大沥客运站",
+        "station_pinyin": "dalikeyunzhan"
+    },
+    {
+        "station_id": "638",
+        "city_name": "顺德",
+        "station_name": "顺德桂洲客运站",
+        "station_pinyin": "shundeguizhoukeyunzhan"
+    },
+    {
+        "station_id": "619",
+        "city_name": "顺德",
+        "station_name": "顺德龙江客运站",
+        "station_pinyin": "shundelongjiangkeyunzhan"
+    },
+    {
+        "station_id": "627",
+        "city_name": "佛山",
+        "station_name": "顺德北滘客运站",
+        "station_pinyin": "shundebeijiaokeyunzhan"
+    },
+    {
+        "station_id": "642",
+        "city_name": "佛山",
+        "station_name": "澜石客运站",
+        "station_pinyin": "lanshikeyunzhan"
+    },
+    {
+        "station_id": "633",
+        "city_name": "佛山",
+        "station_name": "高明汽车客运站",
+        "station_pinyin": "gaomingqichekeyunzhan"
+    },
+    {
+        "station_id": "634",
+        "city_name": "佛山",
+        "station_name": "三水汽车客运站",
+        "station_pinyin": "sanshuiqichekeyunzhan"
+    },
+    {
+        "station_id": "636",
+        "city_name": "佛山",
+        "station_name": "白坭汽车客运站",
+        "station_pinyin": "bainiqichekeyunzhan"
+    },
+    {
+        "station_id": "641",
+        "city_name": "佛山",
+        "station_name": "佛山城北客运站",
+        "station_pinyin": "foshanchengbeikeyunzhan"
+    }
+],
     "level": 2
-}, {
-    "code": "440601",
-    "sheng": "44",
-    "di": "06",
-    "xian": "01",
-    "name": "辖",
-    "level": 3
-}, {
-    "code": "440604",
-    "sheng": "44",
-    "di": "06",
-    "xian": "04",
-    "name": "禅城",
-    "level": 3
-}, {
-    "code": "440605",
-    "sheng": "44",
-    "di": "06",
-    "xian": "05",
-    "name": "南海",
-    "level": 3
-}, {
-    "code": "440606",
-    "sheng": "44",
-    "di": "06",
-    "xian": "06",
-    "name": "顺德",
-    "level": 3
-}, {
-    "code": "440607",
-    "sheng": "44",
-    "di": "06",
-    "xian": "07",
-    "name": "三水",
-    "level": 3
-}, {
-    "code": "440608",
-    "sheng": "44",
-    "di": "06",
-    "xian": "08",
-    "name": "高明",
-    "level": 3
 }, {
     "code": "440700",
     "sheng": "44",
     "di": "07",
     "xian": "00",
     "name": "江门",
+    "station":[
+    {
+        "station_id": "756",
+        "city_name": "开平",
+        "station_name": "开平荻海客运站",
+        "station_pinyin": "kaipingdihaikeyunzhan"
+    },
+    {
+        "station_id": "767",
+        "city_name": "台山",
+        "station_name": "台山深井客运站",
+        "station_pinyin": "taishanshenjingkeyunzhan"
+    },
+    {
+        "station_id": "760",
+        "city_name": "鹤山",
+        "station_name": "鹤山汽车客运站",
+        "station_pinyin": "heshanqichekeyunzhan"
+    },
+    {
+        "station_id": "744",
+        "city_name": "江门",
+        "station_name": "江门汽车客运站",
+        "station_pinyin": "jiangmenqichekeyunzhan"
+    },
+    {
+        "station_id": "753",
+        "city_name": "台山",
+        "station_name": "台山城市候机楼",
+        "station_pinyin": "taishanchengshihoujilou"
+    },
+    {
+        "station_id": "771",
+        "city_name": "恩平",
+        "station_name": "恩平西门客运站",
+        "station_pinyin": "enpingximenkeyunzhan"
+    },
+    {
+        "station_id": "762",
+        "city_name": "台山",
+        "station_name": "台山山咀港客运站",
+        "station_pinyin": "taishanshanjugangkeyunzhan"
+    },
+    {
+        "station_id": "759",
+        "city_name": "恩平",
+        "station_name": "恩平汽车客运站",
+        "station_pinyin": "enpingqichekeyunzhan"
+    },
+    {
+        "station_id": "746",
+        "city_name": "江门",
+        "station_name": "江门胜利客运站",
+        "station_pinyin": "jiangmenshenglikeyunzhan"
+    },
+    {
+        "station_id": "769",
+        "city_name": "开平",
+        "station_name": "开平勒冲客运站",
+        "station_pinyin": "kaipinglechongkeyunzhan"
+    },
+    {
+        "station_id": "747",
+        "city_name": "江门",
+        "station_name": "新会汽车客运站",
+        "station_pinyin": "xinhuiqichekeyunzhan"
+    },
+    {
+        "station_id": "764",
+        "city_name": "台山",
+        "station_name": "台山广海客运站",
+        "station_pinyin": "taishanguanghaikeyunzhan"
+    },
+    {
+        "station_id": "770",
+        "city_name": "台山",
+        "station_name": "台山北陡客运站",
+        "station_pinyin": "taishanbeidoukeyunzhan"
+    },
+    {
+        "station_id": "751",
+        "city_name": "台山",
+        "station_name": "台山白沙镇客运站",
+        "station_pinyin": "taishanbaishazhenkeyunzhan"
+    },
+    {
+        "station_id": "761",
+        "city_name": "鹤山",
+        "station_name": "鹤山宅悟客运站",
+        "station_pinyin": "heshanzhaiwukeyunzhan"
+    },
+    {
+        "station_id": "754",
+        "city_name": "开平",
+        "station_name": "开平汽车客运站",
+        "station_pinyin": "kaipingqichekeyunzhan"
+    },
+    {
+        "station_id": "750",
+        "city_name": "台山",
+        "station_name": "塔山汽车客运站",
+        "station_pinyin": "tashanqichekeyunzhan"
+    },
+    {
+        "station_id": "768",
+        "city_name": "江门",
+        "station_name": "江门双龙客运站",
+        "station_pinyin": "jiangmenshuanglongkeyunzhan"
+    },
+    {
+        "station_id": "749",
+        "city_name": "台山",
+        "station_name": "台山汽车客运站",
+        "station_pinyin": "taishanqichekeyunzhan"
+    },
+    {
+        "station_id": "752",
+        "city_name": "台山",
+        "station_name": "横山汽车客运站",
+        "station_pinyin": "hengshanqichekeyunzhan"
+    },
+    {
+        "station_id": "766",
+        "city_name": "台山",
+        "station_name": "台山南门客运站",
+        "station_pinyin": "taishannanmenkeyunzhan"
+    },
+    {
+        "station_id": "748",
+        "city_name": "江门",
+        "station_name": "江门荷塘客运站",
+        "station_pinyin": "jiangmenhetangkeyunzhan"
+    },
+    {
+        "station_id": "763",
+        "city_name": "开平",
+        "station_name": "开平八一客运站",
+        "station_pinyin": "kaipingbayikeyunzhan"
+    },
+    {
+        "station_id": "755",
+        "city_name": "开平",
+        "station_name": "义祠汽车客运站",
+        "station_pinyin": "yiciqichekeyunzhan"
+    },
+    {
+        "station_id": "757",
+        "city_name": "开平",
+        "station_name": "水口汽车客运站",
+        "station_pinyin": "shuikouqichekeyunzhan"
+    },
+    {
+        "station_id": "758",
+        "city_name": "开平",
+        "station_name": "开平大沙客运站",
+        "station_pinyin": "kaipingdashakeyunzhan"
+    },
+    {
+        "station_id": "765",
+        "city_name": "台山",
+        "station_name": "台山都斛客运站",
+        "station_pinyin": "taishanduhukeyunzhan"
+    }
+],
     "level": 2
-}, {
-    "code": "440701",
-    "sheng": "44",
-    "di": "07",
-    "xian": "01",
-    "name": "辖",
-    "level": 3
-}, {
-    "code": "440703",
-    "sheng": "44",
-    "di": "07",
-    "xian": "03",
-    "name": "蓬江",
-    "level": 3
-}, {
-    "code": "440704",
-    "sheng": "44",
-    "di": "07",
-    "xian": "04",
-    "name": "江海",
-    "level": 3
-}, {
-    "code": "440705",
-    "sheng": "44",
-    "di": "07",
-    "xian": "05",
-    "name": "新会",
-    "level": 3
-}, {
-    "code": "440781",
-    "sheng": "44",
-    "di": "07",
-    "xian": "81",
-    "name": "台山",
-    "level": 3
-}, {
-    "code": "440783",
-    "sheng": "44",
-    "di": "07",
-    "xian": "83",
-    "name": "开平",
-    "level": 3
-}, {
-    "code": "440784",
-    "sheng": "44",
-    "di": "07",
-    "xian": "84",
-    "name": "鹤山",
-    "level": 3
-}, {
-    "code": "440785",
-    "sheng": "44",
-    "di": "07",
-    "xian": "85",
-    "name": "恩平",
-    "level": 3
-}, {
+},  {
     "code": "440800",
     "sheng": "44",
     "di": "08",
     "xian": "00",
     "name": "湛江",
+    "station":[
+    {
+        "station_id": "710",
+        "city_name": "徐闻",
+        "station_name": "徐闻城北客运站",
+        "station_pinyin": "xuwenchengbeikeyunzhan"
+    },
+    {
+        "station_id": "701",
+        "city_name": "徐闻",
+        "station_name": "徐闻汽车客运站",
+        "station_pinyin": "xuwenqichekeyunzhan"
+    },
+    {
+        "station_id": "676",
+        "city_name": "雷州",
+        "station_name": "湛江雷州客运站",
+        "station_pinyin": "zhanjiangleizhoukeyunzhan"
+    },
+    {
+        "station_id": "686",
+        "city_name": "雷州",
+        "station_name": "雷州唐家客运站",
+        "station_pinyin": "leizhoutangjiakeyunzhan"
+    },
+    {
+        "station_id": "709",
+        "city_name": "雷州",
+        "station_name": "雷州流沙客运站",
+        "station_pinyin": "leizhouliushakeyunzhan"
+    },
+    {
+        "station_id": "703",
+        "city_name": "徐闻",
+        "station_name": "徐闻迈陈客运站",
+        "station_pinyin": "xuwenmaichenkeyunzhan"
+    },
+    {
+        "station_id": "678",
+        "city_name": "雷州",
+        "station_name": "雷州城区客运站",
+        "station_pinyin": "leizhouchengqukeyunzhan"
+    },
+    {
+        "station_id": "1808",
+        "city_name": "吴川",
+        "station_name": "海滨汽车客运站",
+        "station_pinyin": "haibinqichekeyunzhan"
+    },
+    {
+        "station_id": "681",
+        "city_name": "雷州",
+        "station_name": "雷州松竹客运站",
+        "station_pinyin": "leizhousongzhukeyunzhan"
+    },
+    {
+        "station_id": "671",
+        "city_name": "湛江",
+        "station_name": "湛江东海岛客运站",
+        "station_pinyin": "zhanjiangdonghaidaokeyunzhan"
+    },
+    {
+        "station_id": "674",
+        "city_name": "湛江",
+        "station_name": "坡头区龙头顺达站",
+        "station_pinyin": "potouqulongtoushundazhan"
+    },
+    {
+        "station_id": "696",
+        "city_name": "吴川",
+        "station_name": "吴川东升客运站",
+        "station_pinyin": "wuchuandongshengkeyunzhan"
+    },
+    {
+        "station_id": "698",
+        "city_name": "吴川",
+        "station_name": "吴川覃巴客运站",
+        "station_pinyin": "wuchuantanbakeyunzhan"
+    },
+    {
+        "station_id": "680",
+        "city_name": "雷州",
+        "station_name": "雷州邦塘客运站",
+        "station_pinyin": "leizhoubangtangkeyunzhan"
+    },
+    {
+        "station_id": "699",
+        "city_name": "吴川",
+        "station_name": "吴川吴阳客运站",
+        "station_pinyin": "wuchuanwuyangkeyunzhan"
+    },
+    {
+        "station_id": "683",
+        "city_name": "雷州",
+        "station_name": "雷州纪家客运站",
+        "station_pinyin": "leizhoujijiakeyunzhan"
+    },
+    {
+        "station_id": "702",
+        "city_name": "徐闻",
+        "station_name": "徐闻中心客运站",
+        "station_pinyin": "xuwenzhongxinkeyunzhan"
+    },
+    {
+        "station_id": "677",
+        "city_name": "雷州",
+        "station_name": "雷州英利客运站",
+        "station_pinyin": "leizhouyinglikeyunzhan"
+    },
+    {
+        "station_id": "691",
+        "city_name": "廉江",
+        "station_name": "廉江汽车客运站",
+        "station_pinyin": "lianjiangqichekeyunzhan"
+    },
+    {
+        "station_id": "720",
+        "city_name": "遂溪",
+        "station_name": "遂溪陆通客运站",
+        "station_pinyin": "suixilutongkeyunzhan"
+    },
+    {
+        "station_id": "690",
+        "city_name": "雷州",
+        "station_name": "雷州雷城客运站",
+        "station_pinyin": "leizhouleichengkeyunzhan"
+    },
+    {
+        "station_id": "682",
+        "city_name": "雷州",
+        "station_name": "雷州沈塘客运站",
+        "station_pinyin": "leizhoushentangkeyunzhan"
+    },
+    {
+        "station_id": "684",
+        "city_name": "雷州",
+        "station_name": "雷州调风客运站",
+        "station_pinyin": "leizhoudiaofengkeyunzhan"
+    },
+    {
+        "station_id": "694",
+        "city_name": "廉江",
+        "station_name": "廉江城南客运站",
+        "station_pinyin": "lianjiangchengnankeyunzhan"
+    },
+    {
+        "station_id": "679",
+        "city_name": "雷州",
+        "station_name": "雷州东里客运站",
+        "station_pinyin": "leizhoudonglikeyunzhan"
+    },
+    {
+        "station_id": "675",
+        "city_name": "湛江",
+        "station_name": "湛江海田客运站",
+        "station_pinyin": "zhanjianghaitiankeyunzhan"
+    },
+    {
+        "station_id": "666",
+        "city_name": "湛江",
+        "station_name": "湛江麻章客运站",
+        "station_pinyin": "zhanjiangmazhangkeyunzhan"
+    },
+    {
+        "station_id": "1806",
+        "city_name": "雷州",
+        "station_name": "上坡汽车客运站",
+        "station_pinyin": "shangpoqichekeyunzhan"
+    },
+    {
+        "station_id": "705",
+        "city_name": "徐闻",
+        "station_name": "徐闻下桥客运站",
+        "station_pinyin": "xuwenxiaqiaokeyunzhan"
+    },
+    {
+        "station_id": "718",
+        "city_name": "廉江",
+        "station_name": "廉江良垌客运站",
+        "station_pinyin": "lianjiangliangdongkeyunzhan"
+    },
+    {
+        "station_id": "672",
+        "city_name": "湛江",
+        "station_name": "麻章区太平客运站",
+        "station_pinyin": "mazhangqutaipingkeyunzhan"
+    },
+    {
+        "station_id": "715",
+        "city_name": "雷州",
+        "station_name": "雷州客路客运站",
+        "station_pinyin": "leizhoukelukeyunzhan"
+    },
+    {
+        "station_id": "719",
+        "city_name": "遂溪",
+        "station_name": "遂溪界炮客运站",
+        "station_pinyin": "suixijiepaokeyunzhan"
+    },
+    {
+        "station_id": "717",
+        "city_name": "雷州",
+        "station_name": "雷州附城客运站",
+        "station_pinyin": "leizhoufuchengkeyunzhan"
+    },
+    {
+        "station_id": "706",
+        "city_name": "遂溪",
+        "station_name": "湛江遂溪客运站",
+        "station_pinyin": "zhanjiangsuixikeyunzhan"
+    },
+    {
+        "station_id": "688",
+        "city_name": "雷州",
+        "station_name": "雷州北和客运站",
+        "station_pinyin": "leizhoubeihekeyunzhan"
+    },
+    {
+        "station_id": "695",
+        "city_name": "吴川",
+        "station_name": "吴川汽车客运站",
+        "station_pinyin": "wuchuanqichekeyunzhan"
+    },
+    {
+        "station_id": "704",
+        "city_name": "徐闻",
+        "station_name": "徐闻海安客运站",
+        "station_pinyin": "xuwenhaiankeyunzhan"
+    },
+    {
+        "station_id": "20890",
+        "city_name": "湛江",
+        "station_name": "南桥客运站",
+        "station_pinyin": "nanqiaokeyunzhan"
+    },
+    {
+        "station_id": "667",
+        "city_name": "湛江",
+        "station_name": "湛江东堤客运站",
+        "station_pinyin": "zhanjiangdongdikeyunzhan"
+    },
+    {
+        "station_id": "716",
+        "city_name": "徐闻",
+        "station_name": "徐闻县曲界客运站",
+        "station_pinyin": "xuwenxianqujiekeyunzhan"
+    },
+    {
+        "station_id": "668",
+        "city_name": "湛江",
+        "station_name": "湛江南站客运站",
+        "station_pinyin": "zhanjiangnanzhankeyunzhan"
+    },
+    {
+        "station_id": "714",
+        "city_name": "遂溪",
+        "station_name": "遂溪城月镇客运站",
+        "station_pinyin": "suixichengyuezhenkeyunzhan"
+    },
+    {
+        "station_id": "708",
+        "city_name": "雷州",
+        "station_name": "雷州龙门镇客运站",
+        "station_pinyin": "leizhoulongmenzhenkeyunzhan"
+    },
+    {
+        "station_id": "697",
+        "city_name": "吴川",
+        "station_name": "吴川旅游客运站",
+        "station_pinyin": "wuchuanlvyoukeyunzhan"
+    },
+    {
+        "station_id": "685",
+        "city_name": "雷州",
+        "station_name": "雷州乌石客运站",
+        "station_pinyin": "leizhouwushikeyunzhan"
+    },
+    {
+        "station_id": "693",
+        "city_name": "廉江",
+        "station_name": "廉江安铺客运站",
+        "station_pinyin": "lianjianganpukeyunzhan"
+    },
+    {
+        "station_id": "713",
+        "city_name": "遂溪",
+        "station_name": "遂溪河头镇客运站",
+        "station_pinyin": "suixihetouzhenkeyunzhan"
+    },
+    {
+        "station_id": "689",
+        "city_name": "雷州",
+        "station_name": "雷州杨家客运站",
+        "station_pinyin": "leizhouyangjiakeyunzhan"
+    },
+    {
+        "station_id": "670",
+        "city_name": "湛江",
+        "station_name": "东海龙海天客运站",
+        "station_pinyin": "donghailonghaitiankeyunzhan"
+    },
+    {
+        "station_id": "665",
+        "city_name": "湛江",
+        "station_name": "湛江金纺客运站",
+        "station_pinyin": "zhanjiangjinfangkeyunzhan"
+    },
+    {
+        "station_id": "692",
+        "city_name": "廉江",
+        "station_name": "廉江石岭客运站",
+        "station_pinyin": "lianjiangshilingkeyunzhan"
+    },
+    {
+        "station_id": "711",
+        "city_name": "遂溪",
+        "station_name": "遂溪北潭客运站",
+        "station_pinyin": "suixibeitankeyunzhan"
+    },
+    {
+        "station_id": "687",
+        "city_name": "雷州",
+        "station_name": "雷州企水客运站",
+        "station_pinyin": "leizhouqishuikeyunzhan"
+    },
+    {
+        "station_id": "669",
+        "city_name": "湛江",
+        "station_name": "东南海码头客运站",
+        "station_pinyin": "dongnanhaimatoukeyunzhan"
+    },
+    {
+        "station_id": "700",
+        "city_name": "吴川",
+        "station_name": "吴川黄坡客运站",
+        "station_pinyin": "wuchuanhuangpokeyunzhan"
+    },
+    {
+        "station_id": "673",
+        "city_name": "湛江",
+        "station_name": "坡头区麻斜客运站",
+        "station_pinyin": "potouqumaxiekeyunzhan"
+    },
+    {
+        "station_id": "712",
+        "city_name": "遂溪",
+        "station_name": "遂溪北坡客运站",
+        "station_pinyin": "suixibeipokeyunzhan"
+    },
+    {
+        "station_id": "707",
+        "city_name": "遂溪",
+        "station_name": "遂溪客运中心站",
+        "station_pinyin": "suixikeyunzhongxinzhan"
+    }
+],
     "level": 2
-}, {
-    "code": "440801",
-    "sheng": "44",
-    "di": "08",
-    "xian": "01",
-    "name": "辖",
-    "level": 3
-}, {
-    "code": "440802",
-    "sheng": "44",
-    "di": "08",
-    "xian": "02",
-    "name": "赤坎",
-    "level": 3
-}, {
-    "code": "440803",
-    "sheng": "44",
-    "di": "08",
-    "xian": "03",
-    "name": "霞山",
-    "level": 3
-}, {
-    "code": "440804",
-    "sheng": "44",
-    "di": "08",
-    "xian": "04",
-    "name": "坡头",
-    "level": 3
-}, {
-    "code": "440811",
-    "sheng": "44",
-    "di": "08",
-    "xian": "11",
-    "name": "麻章",
-    "level": 3
-}, {
-    "code": "440823",
-    "sheng": "44",
-    "di": "08",
-    "xian": "23",
-    "name": "遂溪",
-    "level": 3
-}, {
-    "code": "440825",
-    "sheng": "44",
-    "di": "08",
-    "xian": "25",
-    "name": "徐闻",
-    "level": 3
-}, {
-    "code": "440881",
-    "sheng": "44",
-    "di": "08",
-    "xian": "81",
-    "name": "廉江",
-    "level": 3
-}, {
-    "code": "440882",
-    "sheng": "44",
-    "di": "08",
-    "xian": "82",
-    "name": "雷州",
-    "level": 3
-}, {
-    "code": "440883",
-    "sheng": "44",
-    "di": "08",
-    "xian": "83",
-    "name": "吴川",
-    "level": 3
 }, {
     "code": "440900",
     "sheng": "44",
     "di": "09",
     "xian": "00",
     "name": "茂名",
+    "station":[
+    {
+        "station_id": "802",
+        "city_name": "高州",
+        "station_name": "高州云潭客运站",
+        "station_pinyin": "gaozhouyuntankeyunzhan"
+    },
+    {
+        "station_id": "779",
+        "city_name": "信宜",
+        "station_name": "信宜城北客运站",
+        "station_pinyin": "xinyichengbeikeyunzhan"
+    },
+    {
+        "station_id": "784",
+        "city_name": "电白",
+        "station_name": "电白二运客运站",
+        "station_pinyin": "dianbaieryunkeyunzhan"
+    },
+    {
+        "station_id": "794",
+        "city_name": "信宜",
+        "station_name": "交运公司信宜新宝站",
+        "station_pinyin": "jiaoyungongsixinyixinbaozhan"
+    },
+    {
+        "station_id": "774",
+        "city_name": "茂名",
+        "station_name": "茂名河西客运站",
+        "station_pinyin": "maominghexikeyunzhan"
+    },
+    {
+        "station_id": "796",
+        "city_name": "高州",
+        "station_name": "高州马贵客运站",
+        "station_pinyin": "gaozhoumaguikeyunzhan"
+    },
+    {
+        "station_id": "800",
+        "city_name": "高州",
+        "station_name": "高州东岸客运站",
+        "station_pinyin": "gaozhoudongankeyunzhan"
+    },
+    {
+        "station_id": "780",
+        "city_name": "信宜",
+        "station_name": "信宜城东客运站",
+        "station_pinyin": "xinyichengdongkeyunzhan"
+    },
+    {
+        "station_id": "801",
+        "city_name": "信宜",
+        "station_name": "信宜贵子客运站",
+        "station_pinyin": "xinyiguizikeyunzhan"
+    },
+    {
+        "station_id": "781",
+        "city_name": "信宜",
+        "station_name": "信宜镇隆客运站",
+        "station_pinyin": "xinyizhenlongkeyunzhan"
+    },
+    {
+        "station_id": "777",
+        "city_name": "信宜",
+        "station_name": "信宜汽车客运站",
+        "station_pinyin": "xinyiqichekeyunzhan"
+    },
+    {
+        "station_id": "799",
+        "city_name": "高州",
+        "station_name": "高州荷花客运站",
+        "station_pinyin": "gaozhouhehuakeyunzhan"
+    },
+    {
+        "station_id": "785",
+        "city_name": "电白",
+        "station_name": "电白旦场客运站",
+        "station_pinyin": "dianbaidanchangkeyunzhan"
+    },
+    {
+        "station_id": "791",
+        "city_name": "化州",
+        "station_name": "化州播扬客运站",
+        "station_pinyin": "huazhouboyangkeyunzhan"
+    },
+    {
+        "station_id": "797",
+        "city_name": "电白",
+        "station_name": "电白沙琅客运站",
+        "station_pinyin": "dianbaishalangkeyunzhan"
+    },
+    {
+        "station_id": "789",
+        "city_name": "化州",
+        "station_name": "化州平定镇客运站",
+        "station_pinyin": "huazhoupingdingzhenkeyunzhan"
+    },
+    {
+        "station_id": "792",
+        "city_name": "化州",
+        "station_name": "化州林尘客运站",
+        "station_pinyin": "huazhoulinchenkeyunzhan"
+    },
+    {
+        "station_id": "787",
+        "city_name": "化州",
+        "station_name": "化州河东客运站",
+        "station_pinyin": "huazhouhedongkeyunzhan"
+    },
+    {
+        "station_id": "773",
+        "city_name": "茂名",
+        "station_name": "茂名客运中心站",
+        "station_pinyin": "maomingkeyunzhongxinzhan"
+    },
+    {
+        "station_id": "795",
+        "city_name": "高州",
+        "station_name": "高州根子客运站",
+        "station_pinyin": "gaozhougenzikeyunzhan"
+    },
+    {
+        "station_id": "786",
+        "city_name": "化州",
+        "station_name": "化州汽车客运站",
+        "station_pinyin": "huazhouqichekeyunzhan"
+    },
+    {
+        "station_id": "793",
+        "city_name": "化州",
+        "station_name": "化州北岸客运站",
+        "station_pinyin": "huazhoubeiankeyunzhan"
+    },
+    {
+        "station_id": "808",
+        "city_name": "高州",
+        "station_name": "高州大坡客运站",
+        "station_pinyin": "gaozhoudapokeyunzhan"
+    },
+    {
+        "station_id": "806",
+        "city_name": "高州",
+        "station_name": "高州镇江客运站",
+        "station_pinyin": "gaozhouzhenjiangkeyunzhan"
+    },
+    {
+        "station_id": "798",
+        "city_name": "电白",
+        "station_name": "电白电城客运站",
+        "station_pinyin": "dianbaidianchengkeyunzhan"
+    },
+    {
+        "station_id": "772",
+        "city_name": "茂名",
+        "station_name": "茂名汽车客运站",
+        "station_pinyin": "maomingqichekeyunzhan"
+    },
+    {
+        "station_id": "775",
+        "city_name": "高州",
+        "station_name": "高州汽车客运站",
+        "station_pinyin": "gaozhouqichekeyunzhan"
+    },
+    {
+        "station_id": "776",
+        "city_name": "高州",
+        "station_name": "高州城东客运站",
+        "station_pinyin": "gaozhouchengdongkeyunzhan"
+    },
+    {
+        "station_id": "803",
+        "city_name": "高州",
+        "station_name": "高州石鼓客运站",
+        "station_pinyin": "gaozhoushigukeyunzhan"
+    },
+    {
+        "station_id": "2393",
+        "city_name": "茂名",
+        "station_name": "信宜市合水客运站",
+        "station_pinyin": "xinyishiheshuikeyunzhan"
+    },
+    {
+        "station_id": "804",
+        "city_name": "高州",
+        "station_name": "高州分界客运站",
+        "station_pinyin": "gaozhoufenjiekeyunzhan"
+    },
+    {
+        "station_id": "2409",
+        "city_name": "信宜",
+        "station_name": "信宜市怀乡客运站",
+        "station_pinyin": "xinyishihuaixiangkeyunzhan"
+    },
+    {
+        "station_id": "790",
+        "city_name": "化州",
+        "station_name": "化州那务客运站",
+        "station_pinyin": "huazhounawukeyunzhan"
+    },
+    {
+        "station_id": "809",
+        "city_name": "高州",
+        "station_name": "高州潭头客运站",
+        "station_pinyin": "gaozhoutantoukeyunzhan"
+    },
+    {
+        "station_id": "788",
+        "city_name": "化州",
+        "station_name": "化州河西客运站",
+        "station_pinyin": "huazhouhexikeyunzhan"
+    },
+    {
+        "station_id": "778",
+        "city_name": "信宜",
+        "station_name": "信宜城北中巴客运站",
+        "station_pinyin": "xinyichengbeizhongbakeyunzhan"
+    },
+    {
+        "station_id": "783",
+        "city_name": "电白",
+        "station_name": "电白客运中心站",
+        "station_pinyin": "dianbaikeyunzhongxinzhan"
+    },
+    {
+        "station_id": "782",
+        "city_name": "电白",
+        "station_name": "电白汽车客运站",
+        "station_pinyin": "dianbaiqichekeyunzhan"
+    },
+    {
+        "station_id": "805",
+        "city_name": "高州",
+        "station_name": "高州石板客运站",
+        "station_pinyin": "gaozhoushibankeyunzhan"
+    },
+    {
+        "station_id": "810",
+        "city_name": "高州",
+        "station_name": "高州大井客运站",
+        "station_pinyin": "gaozhoudajingkeyunzhan"
+    },
+    {
+        "station_id": "20575",
+        "city_name": "信宜",
+        "station_name": "信宜南站",
+        "station_pinyin": "xinyinanzhan"
+    },
+    {
+        "station_id": "807",
+        "city_name": "高州",
+        "station_name": "高州沙田客运站",
+        "station_pinyin": "gaozhoushatiankeyunzhan"
+    }
+],
     "level": 2
-}, {
-    "code": "440901",
-    "sheng": "44",
-    "di": "09",
-    "xian": "01",
-    "name": "辖",
-    "level": 3
-}, {
-    "code": "440902",
-    "sheng": "44",
-    "di": "09",
-    "xian": "02",
-    "name": "茂南",
-    "level": 3
-}, {
-    "code": "440904",
-    "sheng": "44",
-    "di": "09",
-    "xian": "04",
-    "name": "电白",
-    "level": 3
-}, {
-    "code": "440981",
-    "sheng": "44",
-    "di": "09",
-    "xian": "81",
-    "name": "高州",
-    "level": 3
-}, {
-    "code": "440982",
-    "sheng": "44",
-    "di": "09",
-    "xian": "82",
-    "name": "化州",
-    "level": 3
-}, {
-    "code": "440983",
-    "sheng": "44",
-    "di": "09",
-    "xian": "83",
-    "name": "信宜",
-    "level": 3
 }, {
     "code": "441200",
     "sheng": "44",
     "di": "12",
     "xian": "00",
     "name": "肇庆",
+    "station":[
+    {
+        "station_id": "741",
+        "city_name": "怀集",
+        "station_name": "怀集汽车客运站",
+        "station_pinyin": "huaijiqichekeyunzhan"
+    },
+    {
+        "station_id": "733",
+        "city_name": "四会",
+        "station_name": "四会槎山客运站",
+        "station_pinyin": "sihuichashankeyunzhan"
+    },
+    {
+        "station_id": "734",
+        "city_name": "广宁",
+        "station_name": "广宁汽车客运站",
+        "station_pinyin": "guangningqichekeyunzhan"
+    },
+    {
+        "station_id": "735",
+        "city_name": "广宁",
+        "station_name": "广宁县南街客运站",
+        "station_pinyin": "guangningxiannanjiekeyunzhan"
+    },
+    {
+        "station_id": "740",
+        "city_name": "封开",
+        "station_name": "封开南丰客运站",
+        "station_pinyin": "fengkainanfengkeyunzhan"
+    },
+    {
+        "station_id": "723",
+        "city_name": "肇庆",
+        "station_name": "肇庆桥西客运站",
+        "station_pinyin": "zhaoqingqiaoxikeyunzhan"
+    },
+    {
+        "station_id": "737",
+        "city_name": "广宁",
+        "station_name": "广宁石涧客运站",
+        "station_pinyin": "guangningshijiankeyunzhan"
+    },
+    {
+        "station_id": "725",
+        "city_name": "肇庆",
+        "station_name": "肇庆城东客运站",
+        "station_pinyin": "zhaoqingchengdongkeyunzhan"
+    },
+    {
+        "station_id": "727",
+        "city_name": "肇庆",
+        "station_name": "肇庆城西客运站",
+        "station_pinyin": "zhaoqingchengxikeyunzhan"
+    },
+    {
+        "station_id": "730",
+        "city_name": "高要",
+        "station_name": "高要金利利通站",
+        "station_pinyin": "gaoyaojinlilitongzhan"
+    },
+    {
+        "station_id": "738",
+        "city_name": "德庆",
+        "station_name": "德庆汽车客运站",
+        "station_pinyin": "deqingqichekeyunzhan"
+    },
+    {
+        "station_id": "729",
+        "city_name": "高要",
+        "station_name": "高要汽车客运站",
+        "station_pinyin": "gaoyaoqichekeyunzhan"
+    },
+    {
+        "station_id": "722",
+        "city_name": "肇庆",
+        "station_name": "肇庆客运站",
+        "station_pinyin": "zhaoqingkeyunzhan"
+    },
+    {
+        "station_id": "20843",
+        "city_name": "怀集",
+        "station_name": "怀集粤运客运站",
+        "station_pinyin": "huaijiyueyunkeyunzhan"
+    },
+    {
+        "station_id": "728",
+        "city_name": "肇庆",
+        "station_name": "肇庆大旺区客运站",
+        "station_pinyin": "zhaoqingdawangqukeyunzhan"
+    },
+    {
+        "station_id": "726",
+        "city_name": "肇庆",
+        "station_name": "肇庆鼎湖区桂城站",
+        "station_pinyin": "zhaoqingdinghuquguichengzhan"
+    },
+    {
+        "station_id": "732",
+        "city_name": "四会",
+        "station_name": "四会汽车客运站",
+        "station_pinyin": "sihuiqichekeyunzhan"
+    },
+    {
+        "station_id": "742",
+        "city_name": "怀集",
+        "station_name": "怀集城北客运站",
+        "station_pinyin": "huaijichengbeikeyunzhan"
+    },
+    {
+        "station_id": "743",
+        "city_name": "怀集",
+        "station_name": "怀集县城南客运站",
+        "station_pinyin": "huaijixianchengnankeyunzhan"
+    },
+    {
+        "station_id": "731",
+        "city_name": "高要",
+        "station_name": "高要禄步客运站",
+        "station_pinyin": "gaoyaolubukeyunzhan"
+    },
+    {
+        "station_id": "736",
+        "city_name": "广宁",
+        "station_name": "广宁县江屯客运站",
+        "station_pinyin": "guangningxianjiangtunkeyunzhan"
+    },
+    {
+        "station_id": "724",
+        "city_name": "肇庆",
+        "station_name": "肇庆长途客运站",
+        "station_pinyin": "zhaoqingchangtukeyunzhan"
+    },
+    {
+        "station_id": "739",
+        "city_name": "封开",
+        "station_name": "封开汽车客运站",
+        "station_pinyin": "fengkaiqichekeyunzhan"
+    },
+    {
+        "station_id": "20842",
+        "city_name": "四会",
+        "station_name": "四会汽车站东城站",
+        "station_pinyin": "sihuiqichezhandongchengzhan"
+    },
+    {
+        "station_id": "20478",
+        "city_name": "广宁",
+        "station_name": "广宁县古水汽车客运站",
+        "station_pinyin": "guangningxiangushuiqichekeyunzhan"
+    },
+    {
+        "station_id": "21269",
+        "city_name": "怀集",
+        "station_name": "怀集县冷坑客运站",
+        "station_pinyin": "huaijixianlengkengkeyunzhan"
+    }
+],
     "level": 2
-}, {
-    "code": "441201",
-    "sheng": "44",
-    "di": "12",
-    "xian": "01",
-    "name": "辖",
-    "level": 3
-}, {
-    "code": "441202",
-    "sheng": "44",
-    "di": "12",
-    "xian": "02",
-    "name": "端州",
-    "level": 3
-}, {
-    "code": "441203",
-    "sheng": "44",
-    "di": "12",
-    "xian": "03",
-    "name": "鼎湖",
-    "level": 3
-}, {
-    "code": "441223",
-    "sheng": "44",
-    "di": "12",
-    "xian": "23",
-    "name": "广宁",
-    "level": 3
-}, {
-    "code": "441224",
-    "sheng": "44",
-    "di": "12",
-    "xian": "24",
-    "name": "怀集",
-    "level": 3
-}, {
-    "code": "441225",
-    "sheng": "44",
-    "di": "12",
-    "xian": "25",
-    "name": "封开",
-    "level": 3
-}, {
-    "code": "441226",
-    "sheng": "44",
-    "di": "12",
-    "xian": "26",
-    "name": "德庆",
-    "level": 3
-}, {
-    "code": "441283",
-    "sheng": "44",
-    "di": "12",
-    "xian": "83",
-    "name": "高要",
-    "level": 3
-}, {
-    "code": "441284",
-    "sheng": "44",
-    "di": "12",
-    "xian": "84",
-    "name": "四会",
-    "level": 3
 }, {
     "code": "441300",
     "sheng": "44",
     "di": "13",
     "xian": "00",
     "name": "惠州",
+    "station":[
+    {
+        "station_id": "832",
+        "city_name": "博罗",
+        "station_name": "博罗环城客运站",
+        "station_pinyin": "boluohuanchengkeyunzhan"
+    },
+    {
+        "station_id": "817",
+        "city_name": "惠州",
+        "station_name": "惠州河南岸客运站",
+        "station_pinyin": "huizhouhenanankeyunzhan"
+    },
+    {
+        "station_id": "839",
+        "city_name": "惠阳",
+        "station_name": "大亚湾汽车客运站",
+        "station_pinyin": "dayawanqichekeyunzhan"
+    },
+    {
+        "station_id": "818",
+        "city_name": "惠州",
+        "station_name": "惠州城市候机楼",
+        "station_pinyin": "huizhouchengshihoujilou"
+    },
+    {
+        "station_id": "828",
+        "city_name": "惠东",
+        "station_name": "惠东县白花镇客运站",
+        "station_pinyin": "huidongxianbaihuazhenkeyunzhan"
+    },
+    {
+        "station_id": "838",
+        "city_name": "龙门",
+        "station_name": "惠州龙门麻榨站",
+        "station_pinyin": "huizhoulongmenmazhazhan"
+    },
+    {
+        "station_id": "840",
+        "city_name": "惠东",
+        "station_name": "惠东县梁化客运站",
+        "station_pinyin": "huidongxianlianghuakeyunzhan"
+    },
+    {
+        "station_id": "836",
+        "city_name": "龙门",
+        "station_name": "龙门汽车客运站",
+        "station_pinyin": "longmenqichekeyunzhan"
+    },
+    {
+        "station_id": "833",
+        "city_name": "博罗",
+        "station_name": "博罗园洲星王站",
+        "station_pinyin": "boluoyuanzhouxingwangzhan"
+    },
+    {
+        "station_id": "821",
+        "city_name": "惠阳",
+        "station_name": "惠阳区新吁汽车站",
+        "station_pinyin": "huiyangquxinyuqichezhan"
+    },
+    {
+        "station_id": "811",
+        "city_name": "博罗",
+        "station_name": "博罗县横河客运站",
+        "station_pinyin": "boluoxianhenghekeyunzhan"
+    },
+    {
+        "station_id": "814",
+        "city_name": "惠州",
+        "station_name": "惠州沥林客运站",
+        "station_pinyin": "huizhoulilinkeyunzhan"
+    },
+    {
+        "station_id": "815",
+        "city_name": "惠州",
+        "station_name": "惠州仲恺汽车客运站",
+        "station_pinyin": "huizhouzhongkaiqichekeyunzhan"
+    },
+    {
+        "station_id": "842",
+        "city_name": "博罗",
+        "station_name": "博罗县粤通客运站",
+        "station_pinyin": "boluoxianyuetongkeyunzhan"
+    },
+    {
+        "station_id": "813",
+        "city_name": "惠州",
+        "station_name": "惠州南线客运站",
+        "station_pinyin": "huizhounanxiankeyunzhan"
+    },
+    {
+        "station_id": "835",
+        "city_name": "博罗",
+        "station_name": "博罗汽车客运东站",
+        "station_pinyin": "boluoqichekeyundongzhan"
+    },
+    {
+        "station_id": "834",
+        "city_name": "博罗",
+        "station_name": "博罗县石湾汽车站",
+        "station_pinyin": "boluoxianshiwanqichezhan"
+    },
+    {
+        "station_id": "830",
+        "city_name": "惠东",
+        "station_name": "惠东县黄埠华成站",
+        "station_pinyin": "huidongxianhuangbuhuachengzhan"
+    },
+    {
+        "station_id": "820",
+        "city_name": "惠阳",
+        "station_name": "惠阳汽车客运总站",
+        "station_pinyin": "huiyangqichekeyunzongzhan"
+    },
+    {
+        "station_id": "812",
+        "city_name": "惠州",
+        "station_name": "惠州汽车客运站",
+        "station_pinyin": "huizhouqichekeyunzhan"
+    },
+    {
+        "station_id": "837",
+        "city_name": "龙门",
+        "station_name": "惠州龙门永汉站",
+        "station_pinyin": "huizhoulongmenyonghanzhan"
+    },
+    {
+        "station_id": "819",
+        "city_name": "惠州",
+        "station_name": "惠州横沥客运站",
+        "station_pinyin": "huizhouhenglikeyunzhan"
+    },
+    {
+        "station_id": "822",
+        "city_name": "惠阳",
+        "station_name": "淡水排坊客运站",
+        "station_pinyin": "danshuipaifangkeyunzhan"
+    },
+    {
+        "station_id": "841",
+        "city_name": "博罗",
+        "station_name": "博罗联运龙溪站",
+        "station_pinyin": "boluolianyunlongxizhan"
+    },
+    {
+        "station_id": "831",
+        "city_name": "博罗",
+        "station_name": "博罗汽车客运站",
+        "station_pinyin": "boluoqichekeyunzhan"
+    },
+    {
+        "station_id": "823",
+        "city_name": "惠阳",
+        "station_name": "惠州惠阳镇隆金晟站",
+        "station_pinyin": "huizhouhuiyangzhenlongjinshengzhan"
+    },
+    {
+        "station_id": "829",
+        "city_name": "惠东",
+        "station_name": "惠东汽车客运总站",
+        "station_pinyin": "huidongqichekeyunzongzhan"
+    },
+    {
+        "station_id": "827",
+        "city_name": "惠东",
+        "station_name": "惠东县吉隆客运站",
+        "station_pinyin": "huidongxianjilongkeyunzhan"
+    },
+    {
+        "station_id": "826",
+        "city_name": "惠东",
+        "station_name": "吉隆镇东线客运站",
+        "station_pinyin": "jilongzhendongxiankeyunzhan"
+    },
+    {
+        "station_id": "816",
+        "city_name": "惠州",
+        "station_name": "惠州城北客运站",
+        "station_pinyin": "huizhouchengbeikeyunzhan"
+    },
+    {
+        "station_id": "825",
+        "city_name": "惠东",
+        "station_name": "惠东县城南客运站",
+        "station_pinyin": "huidongxianchengnankeyunzhan"
+    },
+    {
+        "station_id": "844",
+        "city_name": "惠州",
+        "station_name": "惠州江北客运站",
+        "station_pinyin": "huizhoujiangbeikeyunzhan"
+    },
+    {
+        "station_id": "21266",
+        "city_name": "惠阳",
+        "station_name": "霞涌汽车站",
+        "station_pinyin": "xiayongqichezhan"
+    },
+    {
+        "station_id": "824",
+        "city_name": "惠东",
+        "station_name": "惠东汽车客运站",
+        "station_pinyin": "huidongqichekeyunzhan"
+    },
+    {
+        "station_id": "843",
+        "city_name": "惠州",
+        "station_name": "惠州东平客运站",
+        "station_pinyin": "huizhoudongpingkeyunzhan"
+    }
+],
     "level": 2
-}, {
-    "code": "441301",
-    "sheng": "44",
-    "di": "13",
-    "xian": "01",
-    "name": "辖",
-    "level": 3
-}, {
-    "code": "441302",
-    "sheng": "44",
-    "di": "13",
-    "xian": "02",
-    "name": "惠城",
-    "level": 3
-}, {
-    "code": "441303",
-    "sheng": "44",
-    "di": "13",
-    "xian": "03",
-    "name": "惠阳",
-    "level": 3
-}, {
-    "code": "441322",
-    "sheng": "44",
-    "di": "13",
-    "xian": "22",
-    "name": "博罗",
-    "level": 3
-}, {
-    "code": "441323",
-    "sheng": "44",
-    "di": "13",
-    "xian": "23",
-    "name": "惠东",
-    "level": 3
-}, {
-    "code": "441324",
-    "sheng": "44",
-    "di": "13",
-    "xian": "24",
-    "name": "龙门",
-    "level": 3
 }, {
     "code": "441400",
     "sheng": "44",
     "di": "14",
     "xian": "00",
     "name": "梅州",
+    "station":[
+    {
+        "station_id": "859",
+        "city_name": "五华",
+        "station_name": "五华汽车客运站",
+        "station_pinyin": "wuhuaqichekeyunzhan"
+    },
+    {
+        "station_id": "858",
+        "city_name": "丰顺",
+        "station_name": "丰顺县附城客运站",
+        "station_pinyin": "fengshunxianfuchengkeyunzhan"
+    },
+    {
+        "station_id": "855",
+        "city_name": "大埔",
+        "station_name": "大埔汽车客运站",
+        "station_pinyin": "dapuqichekeyunzhan"
+    },
+    {
+        "station_id": "854",
+        "city_name": "蕉岭",
+        "station_name": "蕉岭汽车客运站",
+        "station_pinyin": "jiaolingqichekeyunzhan"
+    },
+    {
+        "station_id": "860",
+        "city_name": "五华",
+        "station_name": "五华华城客运站",
+        "station_pinyin": "wuhuahuachengkeyunzhan"
+    },
+    {
+        "station_id": "847",
+        "city_name": "梅州",
+        "station_name": "梅州江南客运站",
+        "station_pinyin": "meizhoujiangnankeyunzhan"
+    },
+    {
+        "station_id": "846",
+        "city_name": "梅州",
+        "station_name": "梅州汽车客运站",
+        "station_pinyin": "meizhouqichekeyunzhan"
+    },
+    {
+        "station_id": "852",
+        "city_name": "梅州",
+        "station_name": "梅县新城客运站",
+        "station_pinyin": "meixianxinchengkeyunzhan"
+    },
+    {
+        "station_id": "861",
+        "city_name": "兴宁",
+        "station_name": "兴宁汽车客运站",
+        "station_pinyin": "xingningqichekeyunzhan"
+    },
+    {
+        "station_id": "851",
+        "city_name": "梅州",
+        "station_name": "梅县松源客运站",
+        "station_pinyin": "meixiansongyuankeyunzhan"
+    },
+    {
+        "station_id": "2435",
+        "city_name": "丰顺",
+        "station_name": "丰顺丰良客运站",
+        "station_pinyin": "fengshunfengliangkeyunzhan"
+    },
+    {
+        "station_id": "853",
+        "city_name": "梅州",
+        "station_name": "梅县丙村客运站",
+        "station_pinyin": "meixianbingcunkeyunzhan"
+    },
+    {
+        "station_id": "857",
+        "city_name": "丰顺",
+        "station_name": "丰顺汽车客运站",
+        "station_pinyin": "fengshunqichekeyunzhan"
+    },
+    {
+        "station_id": "849",
+        "city_name": "梅州",
+        "station_name": "梅县松口客运站",
+        "station_pinyin": "meixiansongkoukeyunzhan"
+    },
+    {
+        "station_id": "850",
+        "city_name": "梅州",
+        "station_name": "梅县畲江客运站",
+        "station_pinyin": "meixianshejiangkeyunzhan"
+    },
+    {
+        "station_id": "862",
+        "city_name": "兴宁",
+        "station_name": "兴宁东岳宫客运站",
+        "station_pinyin": "xingningdongyuegongkeyunzhan"
+    },
+    {
+        "station_id": "21230",
+        "city_name": "梅州",
+        "station_name": "五洲城汽车站",
+        "station_pinyin": "wuzhouchengqichezhan"
+    },
+    {
+        "station_id": "864",
+        "city_name": "平远",
+        "station_name": "平远县城西客运站",
+        "station_pinyin": "pingyuanxianchengxikeyunzhan"
+    },
+    {
+        "station_id": "865",
+        "city_name": "五华",
+        "station_name": "五华安流客运站",
+        "station_pinyin": "wuhuaanliukeyunzhan"
+    },
+    {
+        "station_id": "856",
+        "city_name": "大埔",
+        "station_name": "大埔县高陂客运站",
+        "station_pinyin": "dapuxiangaobeikeyunzhan"
+    },
+    {
+        "station_id": "848",
+        "city_name": "梅州",
+        "station_name": "梅州月梅客运站",
+        "station_pinyin": "meizhouyuemeikeyunzhan"
+    },
+    {
+        "station_id": "1775",
+        "city_name": "梅州",
+        "station_name": "梅州锭子桥汽车站",
+        "station_pinyin": "meizhoudingziqiaoqichezhan"
+    },
+    {
+        "station_id": "863",
+        "city_name": "平远",
+        "station_name": "平远汽车客运站",
+        "station_pinyin": "pingyuanqichekeyunzhan"
+    }
+],
     "level": 2
-}, {
-    "code": "441401",
-    "sheng": "44",
-    "di": "14",
-    "xian": "01",
-    "name": "辖",
-    "level": 3
-}, {
-    "code": "441402",
-    "sheng": "44",
-    "di": "14",
-    "xian": "02",
-    "name": "梅江",
-    "level": 3
-}, {
-    "code": "441403",
-    "sheng": "44",
-    "di": "14",
-    "xian": "03",
-    "name": "梅",
-    "level": 3
-}, {
-    "code": "441422",
-    "sheng": "44",
-    "di": "14",
-    "xian": "22",
-    "name": "大埔",
-    "level": 3
-}, {
-    "code": "441423",
-    "sheng": "44",
-    "di": "14",
-    "xian": "23",
-    "name": "丰顺",
-    "level": 3
-}, {
-    "code": "441424",
-    "sheng": "44",
-    "di": "14",
-    "xian": "24",
-    "name": "五华",
-    "level": 3
-}, {
-    "code": "441426",
-    "sheng": "44",
-    "di": "14",
-    "xian": "26",
-    "name": "平远",
-    "level": 3
-}, {
-    "code": "441427",
-    "sheng": "44",
-    "di": "14",
-    "xian": "27",
-    "name": "蕉岭",
-    "level": 3
-}, {
-    "code": "441481",
-    "sheng": "44",
-    "di": "14",
-    "xian": "81",
-    "name": "兴宁",
-    "level": 3
 }, {
     "code": "441500",
     "sheng": "44",
     "di": "15",
     "xian": "00",
     "name": "汕尾",
+    "station":[
+    {
+        "station_id": "870",
+        "city_name": "海丰",
+        "station_name": "海丰汽车客运总站",
+        "station_pinyin": "haifengqichekeyunzongzhan"
+    },
+    {
+        "station_id": "868",
+        "city_name": "海丰",
+        "station_name": "海丰汽车客运站",
+        "station_pinyin": "haifengqichekeyunzhan"
+    },
+    {
+        "station_id": "871",
+        "city_name": "海丰",
+        "station_name": "海丰县云岭客运站",
+        "station_pinyin": "haifengxianyunlingkeyunzhan"
+    },
+    {
+        "station_id": "872",
+        "city_name": "陆河",
+        "station_name": "陆河县汽车客运站",
+        "station_pinyin": "luhexianqichekeyunzhan"
+    },
+    {
+        "station_id": "867",
+        "city_name": "汕尾",
+        "station_name": "汕尾市霞洋客运站",
+        "station_pinyin": "shanweishixiayangkeyunzhan"
+    },
+    {
+        "station_id": "866",
+        "city_name": "汕尾",
+        "station_name": "汕尾汽车客运站",
+        "station_pinyin": "shanweiqichekeyunzhan"
+    },
+    {
+        "station_id": "873",
+        "city_name": "陆丰",
+        "station_name": "陆丰汽车客运站",
+        "station_pinyin": "lufengqichekeyunzhan"
+    },
+    {
+        "station_id": "874",
+        "city_name": "陆丰",
+        "station_name": "陆丰碣石汽车站",
+        "station_pinyin": "lufengjieshiqichezhan"
+    },
+    {
+        "station_id": "869",
+        "city_name": "海丰",
+        "station_name": "海丰南湖客运站",
+        "station_pinyin": "haifengnanhukeyunzhan"
+    },
+    {
+        "station_id": "876",
+        "city_name": "陆丰",
+        "station_name": "陆丰市城北客运站",
+        "station_pinyin": "lufengshichengbeikeyunzhan"
+    },
+    {
+        "station_id": "875",
+        "city_name": "陆丰",
+        "station_name": "陆丰甲子客运站",
+        "station_pinyin": "lufengjiazikeyunzhan"
+    }
+],
     "level": 2
-}, {
-    "code": "441501",
-    "sheng": "44",
-    "di": "15",
-    "xian": "01",
-    "name": "辖",
-    "level": 3
-}, {
-    "code": "441502",
-    "sheng": "44",
-    "di": "15",
-    "xian": "02",
-    "name": "城",
-    "level": 3
-}, {
-    "code": "441521",
-    "sheng": "44",
-    "di": "15",
-    "xian": "21",
-    "name": "海丰",
-    "level": 3
-}, {
-    "code": "441523",
-    "sheng": "44",
-    "di": "15",
-    "xian": "23",
-    "name": "陆河",
-    "level": 3
-}, {
-    "code": "441581",
-    "sheng": "44",
-    "di": "15",
-    "xian": "81",
-    "name": "陆丰",
-    "level": 3
 }, {
     "code": "441600",
     "sheng": "44",
     "di": "16",
     "xian": "00",
     "name": "河源",
+    "station":[
+    {
+        "station_id": "881",
+        "city_name": "东源",
+        "station_name": "东源黄村镇东宝站",
+        "station_pinyin": "dongyuanhuangcunzhendongbaozhan"
+    },
+    {
+        "station_id": "878",
+        "city_name": "河源",
+        "station_name": "河源新城客运站",
+        "station_pinyin": "heyuanxinchengkeyunzhan"
+    },
+    {
+        "station_id": "888",
+        "city_name": "龙川",
+        "station_name": "龙川县老隆客运站",
+        "station_pinyin": "longchuanxianlaolongkeyunzhan"
+    },
+    {
+        "station_id": "891",
+        "city_name": "龙川",
+        "station_name": "龙川县新城客运站",
+        "station_pinyin": "longchuanxianxinchengkeyunzhan"
+    },
+    {
+        "station_id": "899",
+        "city_name": "连平",
+        "station_name": "连平县忠信客运站",
+        "station_pinyin": "lianpingxianzhongxinkeyunzhan"
+    },
+    {
+        "station_id": "884",
+        "city_name": "和平",
+        "station_name": "和平长塘客运站",
+        "station_pinyin": "hepingchangtangkeyunzhan"
+    },
+    {
+        "station_id": "908",
+        "city_name": "紫金",
+        "station_name": "紫金古竹客运站",
+        "station_pinyin": "zijinguzhukeyunzhan"
+    },
+    {
+        "station_id": "883",
+        "city_name": "和平",
+        "station_name": "和平汽车客运站",
+        "station_pinyin": "hepingqichekeyunzhan"
+    },
+    {
+        "station_id": "892",
+        "city_name": "紫金",
+        "station_name": "紫金汽车客运站",
+        "station_pinyin": "zijinqichekeyunzhan"
+    },
+    {
+        "station_id": "900",
+        "city_name": "连平",
+        "station_name": "连平隆街镇客运站",
+        "station_pinyin": "lianpinglongjiezhenkeyunzhan"
+    },
+    {
+        "station_id": "887",
+        "city_name": "龙川",
+        "station_name": "龙川汽车客运站",
+        "station_pinyin": "longchuanqichekeyunzhan"
+    },
+    {
+        "station_id": "906",
+        "city_name": "河源",
+        "station_name": "河源埔前客运站",
+        "station_pinyin": "heyuanpuqiankeyunzhan"
+    },
+    {
+        "station_id": "897",
+        "city_name": "紫金",
+        "station_name": "紫金县蓝塘客运站",
+        "station_pinyin": "zijinxianlantangkeyunzhan"
+    },
+    {
+        "station_id": "902",
+        "city_name": "连平",
+        "station_name": "连平忠信新城客运站",
+        "station_pinyin": "lianpingzhongxinxinchengkeyunzhan"
+    },
+    {
+        "station_id": "894",
+        "city_name": "紫金",
+        "station_name": "紫金敬梓镇客运站",
+        "station_pinyin": "zijinjingzizhenkeyunzhan"
+    },
+    {
+        "station_id": "905",
+        "city_name": "龙川",
+        "station_name": "龙川细坳客运站",
+        "station_pinyin": "longchuanxiaokeyunzhan"
+    },
+    {
+        "station_id": "890",
+        "city_name": "龙川",
+        "station_name": "龙川义都客运站",
+        "station_pinyin": "longchuanyidukeyunzhan"
+    },
+    {
+        "station_id": "916",
+        "city_name": "和平",
+        "station_name": "和平贝墩镇客运站",
+        "station_pinyin": "hepingbeidunzhenkeyunzhan"
+    },
+    {
+        "station_id": "20474",
+        "city_name": "河源",
+        "station_name": "东源汽车客运站",
+        "station_pinyin": "dongyuanqichekeyunzhan"
+    },
+    {
+        "station_id": "889",
+        "city_name": "龙川",
+        "station_name": "龙川车田客运站",
+        "station_pinyin": "longchuanchetiankeyunzhan"
+    },
+    {
+        "station_id": "921",
+        "city_name": "龙川",
+        "station_name": "龙川黄布镇客运站",
+        "station_pinyin": "longchuanhuangbuzhenkeyunzhan"
+    },
+    {
+        "station_id": "903",
+        "city_name": "紫金",
+        "station_name": "紫金上义客运站",
+        "station_pinyin": "zijinshangyikeyunzhan"
+    },
+    {
+        "station_id": "907",
+        "city_name": "和平",
+        "station_name": "和平彭寨客运站",
+        "station_pinyin": "hepingpengzhaikeyunzhan"
+    },
+    {
+        "station_id": "912",
+        "city_name": "和平",
+        "station_name": "和平下车客运站",
+        "station_pinyin": "hepingxiachekeyunzhan"
+    },
+    {
+        "station_id": "915",
+        "city_name": "龙川",
+        "station_name": "龙川通衢镇玳瑁站",
+        "station_pinyin": "longchuantongquzhendaimaozhan"
+    },
+    {
+        "station_id": "922",
+        "city_name": "龙川",
+        "station_name": "龙川迥龙镇客运站",
+        "station_pinyin": "longchuanjionglongzhenkeyunzhan"
+    },
+    {
+        "station_id": "21267",
+        "city_name": "龙川",
+        "station_name": "龙川县车田青云汽车客运站",
+        "station_pinyin": "longchuanxianchetianqingyunqichekeyunzhan"
+    },
+    {
+        "station_id": "918",
+        "city_name": "和平",
+        "station_name": "和平贝墩镇永顺站",
+        "station_pinyin": "hepingbeidunzhenyongshunzhan"
+    },
+    {
+        "station_id": "893",
+        "city_name": "紫金",
+        "station_name": "紫金县二运客运站",
+        "station_pinyin": "zijinxianeryunkeyunzhan"
+    },
+    {
+        "station_id": "885",
+        "city_name": "和平",
+        "station_name": "和平县西郊客运站",
+        "station_pinyin": "hepingxianxijiaokeyunzhan"
+    },
+    {
+        "station_id": "904",
+        "city_name": "龙川",
+        "station_name": "龙川紫市新民客运站",
+        "station_pinyin": "longchuanzishixinminkeyunzhan"
+    },
+    {
+        "station_id": "920",
+        "city_name": "龙川",
+        "station_name": "龙川麻布岗镇站",
+        "station_pinyin": "longchuanmabugangzhenzhan"
+    },
+    {
+        "station_id": "886",
+        "city_name": "和平",
+        "station_name": "和平浰源镇客运站",
+        "station_pinyin": "hepinglianyuanzhenkeyunzhan"
+    },
+    {
+        "station_id": "910",
+        "city_name": "龙川",
+        "station_name": "龙川铁场客运站",
+        "station_pinyin": "longchuantiechangkeyunzhan"
+    },
+    {
+        "station_id": "877",
+        "city_name": "河源",
+        "station_name": "河源汽车客运站",
+        "station_pinyin": "heyuanqichekeyunzhan"
+    },
+    {
+        "station_id": "914",
+        "city_name": "龙川",
+        "station_name": "龙川新田镇客运站",
+        "station_pinyin": "longchuanxintianzhenkeyunzhan"
+    },
+    {
+        "station_id": "923",
+        "city_name": "龙川",
+        "station_name": "龙川田心镇客运站",
+        "station_pinyin": "longchuantianxinzhenkeyunzhan"
+    },
+    {
+        "station_id": "898",
+        "city_name": "连平",
+        "station_name": "连平汽车客运站",
+        "station_pinyin": "lianpingqichekeyunzhan"
+    },
+    {
+        "station_id": "913",
+        "city_name": "龙川",
+        "station_name": "龙川上坪镇客运站",
+        "station_pinyin": "longchuanshangpingzhenkeyunzhan"
+    },
+    {
+        "station_id": "895",
+        "city_name": "紫金",
+        "station_name": "紫金水墩镇客运站",
+        "station_pinyin": "zijinshuidunzhenkeyunzhan"
+    },
+    {
+        "station_id": "20475",
+        "city_name": "河源",
+        "station_name": "连平绣缎汽车客运站",
+        "station_pinyin": "lianpingxiuduanqichekeyunzhan"
+    },
+    {
+        "station_id": "901",
+        "city_name": "连平",
+        "station_name": "连平顺达客运站",
+        "station_pinyin": "lianpingshundakeyunzhan"
+    },
+    {
+        "station_id": "896",
+        "city_name": "紫金",
+        "station_name": "紫金义容镇客运站",
+        "station_pinyin": "zijinyirongzhenkeyunzhan"
+    },
+    {
+        "station_id": "880",
+        "city_name": "河源",
+        "station_name": "河源源城客运站",
+        "station_pinyin": "heyuanyuanchengkeyunzhan"
+    },
+    {
+        "station_id": "879",
+        "city_name": "东源",
+        "station_name": "河源市灯塔车站",
+        "station_pinyin": "heyuanshidengtachezhan"
+    },
+    {
+        "station_id": "909",
+        "city_name": "紫金",
+        "station_name": "紫金南岭客运站",
+        "station_pinyin": "zijinnanlingkeyunzhan"
+    },
+    {
+        "station_id": "917",
+        "city_name": "河源",
+        "station_name": "源城埔前镇南门站",
+        "station_pinyin": "yuanchengpuqianzhennanmenzhan"
+    },
+    {
+        "station_id": "882",
+        "city_name": "东源",
+        "station_name": "河源东源船塘站",
+        "station_pinyin": "heyuandongyuanchuantangzhan"
+    },
+    {
+        "station_id": "919",
+        "city_name": "和平",
+        "station_name": "和平东水镇客运站",
+        "station_pinyin": "hepingdongshuizhenkeyunzhan"
+    },
+    {
+        "station_id": "911",
+        "city_name": "龙川",
+        "station_name": "龙川天云客运站",
+        "station_pinyin": "longchuantianyunkeyunzhan"
+    }
+],
     "level": 2
-}, {
-    "code": "441601",
-    "sheng": "44",
-    "di": "16",
-    "xian": "01",
-    "name": "辖",
-    "level": 3
-}, {
-    "code": "441602",
-    "sheng": "44",
-    "di": "16",
-    "xian": "02",
-    "name": "源城",
-    "level": 3
-}, {
-    "code": "441621",
-    "sheng": "44",
-    "di": "16",
-    "xian": "21",
-    "name": "紫金",
-    "level": 3
-}, {
-    "code": "441622",
-    "sheng": "44",
-    "di": "16",
-    "xian": "22",
-    "name": "龙川",
-    "level": 3
-}, {
-    "code": "441623",
-    "sheng": "44",
-    "di": "16",
-    "xian": "23",
-    "name": "连平",
-    "level": 3
-}, {
-    "code": "441624",
-    "sheng": "44",
-    "di": "16",
-    "xian": "24",
-    "name": "和平",
-    "level": 3
-}, {
-    "code": "441625",
-    "sheng": "44",
-    "di": "16",
-    "xian": "25",
-    "name": "东源",
-    "level": 3
 }, {
     "code": "441700",
     "sheng": "44",
     "di": "17",
     "xian": "00",
     "name": "阳江",
-    "level": 2
-}, {
-    "code": "441701",
-    "sheng": "44",
-    "di": "17",
-    "xian": "01",
-    "name": "辖",
-    "level": 3
-}, {
-    "code": "441702",
-    "sheng": "44",
-    "di": "17",
-    "xian": "02",
-    "name": "江城",
-    "level": 3
-}, {
-    "code": "441721",
-    "sheng": "44",
-    "di": "17",
-    "xian": "21",
-    "name": "阳西",
-    "level": 3
-}, {
-    "code": "441723",
-    "sheng": "44",
-    "di": "17",
-    "xian": "23",
-    "name": "阳东",
-    "level": 3
-}, {
-    "code": "441781",
-    "sheng": "44",
-    "di": "17",
-    "xian": "81",
-    "name": "阳春",
-    "level": 3
-}, {
-    "code": "441800",
-    "sheng": "44",
-    "di": "18",
-    "xian": "00",
-    "name": "清远",
-    "level": 2
-}, {
-    "code": "441801",
-    "sheng": "44",
-    "di": "18",
-    "xian": "01",
-    "name": "辖",
-    "level": 3
-}, {
-    "code": "441802",
-    "sheng": "44",
-    "di": "18",
-    "xian": "02",
-    "name": "清城",
-    "level": 3
-}, {
-    "code": "441803",
-    "sheng": "44",
-    "di": "18",
-    "xian": "03",
-    "name": "清新",
-    "level": 3
-}, {
-    "code": "441821",
-    "sheng": "44",
-    "di": "18",
-    "xian": "21",
-    "name": "佛冈",
-    "level": 3
-}, {
-    "code": "441823",
-    "sheng": "44",
-    "di": "18",
-    "xian": "23",
-    "name": "阳山",
-    "level": 3
-}, {
-    "code": "441825",
-    "sheng": "44",
-    "di": "18",
-    "xian": "25",
-    "name": "连山壮族瑶族自治",
-    "level": 3
-}, {
-    "code": "441826",
-    "sheng": "44",
-    "di": "18",
-    "xian": "26",
-    "name": "连南瑶族自治",
-    "level": 3
-}, {
-    "code": "441881",
-    "sheng": "44",
-    "di": "18",
-    "xian": "81",
-    "name": "英德",
-    "level": 3
-}, {
-    "code": "441882",
-    "sheng": "44",
-    "di": "18",
-    "xian": "82",
-    "name": "连州",
-    "level": 3
-}, {
-    "code": "441900",
-    "sheng": "44",
-    "di": "19",
-    "xian": "00",
-    "name": "东莞",
+    "station":[
+    {
+        "station_id": "1889",
+        "city_name": "阳江",
+        "station_name": "阳东县北惯汽车客运站",
+        "station_pinyin": "yangdongxianbeiguanqichekeyunzhan"
+    },
+    {
+        "station_id": "927",
+        "city_name": "阳江",
+        "station_name": "阳江城南客运站",
+        "station_pinyin": "yangjiangchengnankeyunzhan"
+    },
+    {
+        "station_id": "936",
+        "city_name": "阳春",
+        "station_name": "阳春春湾客运站",
+        "station_pinyin": "yangchunchunwankeyunzhan"
+    },
+    {
+        "station_id": "925",
+        "city_name": "阳江",
+        "station_name": "阳江闸坡客运站",
+        "station_pinyin": "yangjiangzhapokeyunzhan"
+    },
+    {
+        "station_id": "932",
+        "city_name": "阳江",
+        "station_name": "阳东县合山客运站",
+        "station_pinyin": "yangdongxianheshankeyunzhan"
+    },
+    {
+        "station_id": "928",
+        "city_name": "阳江",
+        "station_name": "阳江二运客运站",
+        "station_pinyin": "yangjiangeryunkeyunzhan"
+    },
+    {
+        "station_id": "20469",
+        "city_name": "阳江",
+        "station_name": "阳东东平良洞汽车客运站",
+        "station_pinyin": "yangdongdongpingliangdongqichekeyunzhan"
+    },
+    {
+        "station_id": "20841",
+        "city_name": "阳西",
+        "station_name": "阳江溪头站",
+        "station_pinyin": "yangjiangxitouzhan"
+    },
+    {
+        "station_id": "939",
+        "city_name": "阳春",
+        "station_name": "阳春圭岗客运站",
+        "station_pinyin": "yangchunguigangkeyunzhan"
+    },
+    {
+        "station_id": "20466",
+        "city_name": "阳春",
+        "station_name": "三甲汽车客运站",
+        "station_pinyin": "sanjiaqichekeyunzhan"
+    },
+    {
+        "station_id": "929",
+        "city_name": "阳春",
+        "station_name": "阳春汽车客运站",
+        "station_pinyin": "yangchunqichekeyunzhan"
+    },
+    {
+        "station_id": "20840",
+        "city_name": "阳东",
+        "station_name": "阳江银岭客运站",
+        "station_pinyin": "yangjiangyinlingkeyunzhan"
+    },
+    {
+        "station_id": "933",
+        "city_name": "阳西",
+        "station_name": "阳西汽车客运站",
+        "station_pinyin": "yangxiqichekeyunzhan"
+    },
+    {
+        "station_id": "20861",
+        "city_name": "阳西",
+        "station_name": "儒垌汽车站",
+        "station_pinyin": "rudongqichezhan"
+    },
+    {
+        "station_id": "20477",
+        "city_name": "阳西",
+        "station_name": "阳西沙扒汽车客运站",
+        "station_pinyin": "yangxishabaqichekeyunzhan"
+    },
+    {
+        "station_id": "931",
+        "city_name": "阳江",
+        "station_name": "阳东汽车客运站",
+        "station_pinyin": "yangdongqichekeyunzhan"
+    },
+    {
+        "station_id": "20468",
+        "city_name": "阳西",
+        "station_name": "阳西程村汽车客运站",
+        "station_pinyin": "yangxichengcunqichekeyunzhan"
+    },
+    {
+        "station_id": "934",
+        "city_name": "阳西",
+        "station_name": "阳西织箦客运站",
+        "station_pinyin": "yangxizhizekeyunzhan"
+    },
+    {
+        "station_id": "937",
+        "city_name": "阳春",
+        "station_name": "阳春罗阳客运站",
+        "station_pinyin": "yangchunluoyangkeyunzhan"
+    },
+    {
+        "station_id": "926",
+        "city_name": "阳江",
+        "station_name": "阳江鱿鱼头客运站",
+        "station_pinyin": "yangjiangyouyutoukeyunzhan"
+    },
+    {
+        "station_id": "924",
+        "city_name": "阳江",
+        "station_name": "阳江汽车客运站",
+        "station_pinyin": "yangjiangqichekeyunzhan"
+    },
+    {
+        "station_id": "935",
+        "city_name": "阳春",
+        "station_name": "阳春合水客运站",
+        "station_pinyin": "yangchunheshuikeyunzhan"
+    },
+    {
+        "station_id": "930",
+        "city_name": "阳春",
+        "station_name": "阳春高朗客运站",
+        "station_pinyin": "yangchungaolangkeyunzhan"
+    },
+    {
+        "station_id": "20467",
+        "city_name": "阳江",
+        "station_name": "新墟汽车客运站",
+        "station_pinyin": "xinxuqichekeyunzhan"
+    }
+],
     "level": 2
 }, {
     "code": "442000",
@@ -14892,6 +17270,146 @@ let data = [{
     "di": "20",
     "xian": "00",
     "name": "中山",
+    "station":[
+    {
+        "station_id": "1011",
+        "city_name": "中山",
+        "station_name": "坦洲金斗湾客运站",
+        "station_pinyin": "tanzhoujindouwankeyunzhan"
+    },
+    {
+        "station_id": "999",
+        "city_name": "中山",
+        "station_name": "中山小榄客运站",
+        "station_pinyin": "zhongshanxiaolankeyunzhan"
+    },
+    {
+        "station_id": "997",
+        "city_name": "中山",
+        "station_name": "中山东升镇客运站",
+        "station_pinyin": "zhongshandongshengzhenkeyunzhan"
+    },
+    {
+        "station_id": "1007",
+        "city_name": "中山",
+        "station_name": "中山城南客运站",
+        "station_pinyin": "zhongshanchengnankeyunzhan"
+    },
+    {
+        "station_id": "1009",
+        "city_name": "中山",
+        "station_name": "中山大骏客运站",
+        "station_pinyin": "zhongshandajunkeyunzhan"
+    },
+    {
+        "station_id": "998",
+        "city_name": "中山",
+        "station_name": "中山城东客运站",
+        "station_pinyin": "zhongshanchengdongkeyunzhan"
+    },
+    {
+        "station_id": "996",
+        "city_name": "中山",
+        "station_name": "中山市汽车客运站",
+        "station_pinyin": "zhongshanshiqichekeyunzhan"
+    },
+    {
+        "station_id": "1006",
+        "city_name": "中山",
+        "station_name": "古镇汽车客运站",
+        "station_pinyin": "guzhenqichekeyunzhan"
+    },
+    {
+        "station_id": "1004",
+        "city_name": "中山",
+        "station_name": "中山沙溪客运站",
+        "station_pinyin": "zhongshanshaxikeyunzhan"
+    },
+    {
+        "station_id": "1013",
+        "city_name": "中山",
+        "station_name": "沙溪华都客运站",
+        "station_pinyin": "shaxihuadukeyunzhan"
+    },
+    {
+        "station_id": "1003",
+        "city_name": "中山",
+        "station_name": "中山大涌客运站",
+        "station_pinyin": "zhongshandayongkeyunzhan"
+    },
+    {
+        "station_id": "1014",
+        "city_name": "中山",
+        "station_name": "板芙镇环宇客运站",
+        "station_pinyin": "banfuzhenhuanyukeyunzhan"
+    },
+    {
+        "station_id": "1008",
+        "city_name": "中山",
+        "station_name": "中山通安客运站",
+        "station_pinyin": "zhongshantongankeyunzhan"
+    },
+    {
+        "station_id": "1010",
+        "city_name": "中山",
+        "station_name": "中山南朗镇客运站",
+        "station_pinyin": "zhongshannanlangzhenkeyunzhan"
+    },
+    {
+        "station_id": "1000",
+        "city_name": "中山",
+        "station_name": "中山坦洲客运站",
+        "station_pinyin": "zhongshantanzhoukeyunzhan"
+    },
+    {
+        "station_id": "2410",
+        "city_name": "中山",
+        "station_name": "升茂汽车客运站",
+        "station_pinyin": "shengmaoqichekeyunzhan"
+    },
+    {
+        "station_id": "1017",
+        "city_name": "中山",
+        "station_name": "中山黄圃客运站",
+        "station_pinyin": "zhongshanhuangpukeyunzhan"
+    },
+    {
+        "station_id": "1001",
+        "city_name": "中山",
+        "station_name": "三乡汽车客运站",
+        "station_pinyin": "sanxiangqichekeyunzhan"
+    },
+    {
+        "station_id": "1005",
+        "city_name": "中山",
+        "station_name": "中山西区沙朗车站",
+        "station_pinyin": "zhongshanxiqushalangchezhan"
+    },
+    {
+        "station_id": "1012",
+        "city_name": "中山",
+        "station_name": "中山三角客运站",
+        "station_pinyin": "zhongshansanjiaokeyunzhan"
+    },
+    {
+        "station_id": "1002",
+        "city_name": "中山",
+        "station_name": "三乡平安客运站",
+        "station_pinyin": "sanxiangpingankeyunzhan"
+    },
+    {
+        "station_id": "2411",
+        "city_name": "中山",
+        "station_name": "东凤汽车站",
+        "station_pinyin": "dongfengqichezhan"
+    },
+    {
+        "station_id": "1811",
+        "city_name": "中山",
+        "station_name": "益华客运配客中心",
+        "station_pinyin": "yihuakeyunpeikezhongxin"
+    }
+],
     "level": 2
 }, {
     "code": "445100",
@@ -14899,139 +17417,363 @@ let data = [{
     "di": "51",
     "xian": "00",
     "name": "潮州",
+    "station":[
+    {
+        "station_id": "1021",
+        "city_name": "饶平",
+        "station_name": "饶平汽车客运站",
+        "station_pinyin": "raopingqichekeyunzhan"
+    },
+    {
+        "station_id": "1018",
+        "city_name": "潮州",
+        "station_name": "潮州市汽车客运站",
+        "station_pinyin": "chaozhoushiqichekeyunzhan"
+    },
+    {
+        "station_id": "1022",
+        "city_name": "饶平",
+        "station_name": "饶平黄冈新兴客运站",
+        "station_pinyin": "raopinghuanggangxinxingkeyunzhan"
+    },
+    {
+        "station_id": "1025",
+        "city_name": "潮安",
+        "station_name": "潮安汽车客运站",
+        "station_pinyin": "chaoanqichekeyunzhan"
+    },
+    {
+        "station_id": "1023",
+        "city_name": "饶平",
+        "station_name": "饶平讲洲镇客运站",
+        "station_pinyin": "raopingjiangzhouzhenkeyunzhan"
+    },
+    {
+        "station_id": "1019",
+        "city_name": "潮州",
+        "station_name": "潮州客货运输客运站",
+        "station_pinyin": "chaozhoukehuoyunshukeyunzhan"
+    },
+    {
+        "station_id": "1024",
+        "city_name": "饶平",
+        "station_name": "饶平新丰中心客运站",
+        "station_pinyin": "raopingxinfengzhongxinkeyunzhan"
+    },
+    {
+        "station_id": "1020",
+        "city_name": "潮州",
+        "station_name": "潮州桥东客运站",
+        "station_pinyin": "chaozhouqiaodongkeyunzhan"
+    },
+    {
+        "station_id": "21082",
+        "city_name": "潮州",
+        "station_name": "潮州客运中心枢纽站",
+        "station_pinyin": "chaozhoukeyunzhongxinshuniuzhan"
+    },
+    {
+        "station_id": "21081",
+        "city_name": "饶平",
+        "station_name": "饶平新城区客运站",
+        "station_pinyin": "raopingxinchengqukeyunzhan"
+    },
+    {
+        "station_id": "1026",
+        "city_name": "潮安",
+        "station_name": "潮安潮汕客运站",
+        "station_pinyin": "chaoanchaoshankeyunzhan"
+    }
+],
     "level": 2
-}, {
-    "code": "445101",
-    "sheng": "44",
-    "di": "51",
-    "xian": "01",
-    "name": "辖",
-    "level": 3
-}, {
-    "code": "445102",
-    "sheng": "44",
-    "di": "51",
-    "xian": "02",
-    "name": "湘桥",
-    "level": 3
-}, {
-    "code": "445103",
-    "sheng": "44",
-    "di": "51",
-    "xian": "03",
-    "name": "潮安",
-    "level": 3
-}, {
-    "code": "445122",
-    "sheng": "44",
-    "di": "51",
-    "xian": "22",
-    "name": "饶平",
-    "level": 3
 }, {
     "code": "445200",
     "sheng": "44",
     "di": "52",
     "xian": "00",
     "name": "揭阳",
+    "station":[
+    {
+        "station_id": "1029",
+        "city_name": "揭阳",
+        "station_name": "揭阳岐山客运站",
+        "station_pinyin": "jieyangqishankeyunzhan"
+    },
+    {
+        "station_id": "1032",
+        "city_name": "揭阳",
+        "station_name": "揭东炮台客运站",
+        "station_pinyin": "jiedongpaotaikeyunzhan"
+    },
+    {
+        "station_id": "1030",
+        "city_name": "揭阳",
+        "station_name": "揭阳潮汕机场客运站",
+        "station_pinyin": "jieyangchaoshanjichangkeyunzhan"
+    },
+    {
+        "station_id": "1040",
+        "city_name": "惠来",
+        "station_name": "惠来葵西客运站",
+        "station_pinyin": "huilaikuixikeyunzhan"
+    },
+    {
+        "station_id": "1049",
+        "city_name": "普宁",
+        "station_name": "普宁城东东埔客运站",
+        "station_pinyin": "puningchengdongdongpukeyunzhan"
+    },
+    {
+        "station_id": "1045",
+        "city_name": "揭西",
+        "station_name": "揭西塔头客运站",
+        "station_pinyin": "jiexitatoukeyunzhan"
+    },
+    {
+        "station_id": "1035",
+        "city_name": "普宁",
+        "station_name": "普宁流沙客运站",
+        "station_pinyin": "puningliushakeyunzhan"
+    },
+    {
+        "station_id": "20693",
+        "city_name": "普宁",
+        "station_name": "普宁国际服装城汽车客运站",
+        "station_pinyin": "puningguojifuzhuangchengqichekeyunzhan"
+    },
+    {
+        "station_id": "1027",
+        "city_name": "揭阳",
+        "station_name": "揭阳客运站",
+        "station_pinyin": "jieyangkeyunzhan"
+    },
+    {
+        "station_id": "1041",
+        "city_name": "惠来",
+        "station_name": "惠来葵潭客运站",
+        "station_pinyin": "huilaikuitankeyunzhan"
+    },
+    {
+        "station_id": "1037",
+        "city_name": "普宁",
+        "station_name": "普宁里湖客运站",
+        "station_pinyin": "puninglihukeyunzhan"
+    },
+    {
+        "station_id": "1034",
+        "city_name": "揭阳",
+        "station_name": "揭东曲溪安顺客运站",
+        "station_pinyin": "jiedongquxianshunkeyunzhan"
+    },
+    {
+        "station_id": "1042",
+        "city_name": "揭西",
+        "station_name": "揭西河婆客运站",
+        "station_pinyin": "jiexihepokeyunzhan"
+    },
+    {
+        "station_id": "1046",
+        "city_name": "揭西",
+        "station_name": "揭西五云客运站",
+        "station_pinyin": "jiexiwuyunkeyunzhan"
+    },
+    {
+        "station_id": "1044",
+        "city_name": "揭西",
+        "station_name": "揭西县城客运站",
+        "station_pinyin": "jiexixianchengkeyunzhan"
+    },
+    {
+        "station_id": "1031",
+        "city_name": "揭阳",
+        "station_name": "揭东玉湖客运站",
+        "station_pinyin": "jiedongyuhukeyunzhan"
+    },
+    {
+        "station_id": "1043",
+        "city_name": "揭西",
+        "station_name": "揭西棉湖客运站",
+        "station_pinyin": "jieximianhukeyunzhan"
+    },
+    {
+        "station_id": "1048",
+        "city_name": "揭阳",
+        "station_name": "揭阳高新区客运站",
+        "station_pinyin": "jieyanggaoxinqukeyunzhan"
+    },
+    {
+        "station_id": "1047",
+        "city_name": "揭西",
+        "station_name": "揭西五经富客运站",
+        "station_pinyin": "jiexiwujingfukeyunzhan"
+    },
+    {
+        "station_id": "1033",
+        "city_name": "揭阳",
+        "station_name": "揭东新亨客运站",
+        "station_pinyin": "jiedongxinhengkeyunzhan"
+    },
+    {
+        "station_id": "1036",
+        "city_name": "普宁",
+        "station_name": "普宁洪阳新安客运站",
+        "station_pinyin": "puninghongyangxinankeyunzhan"
+    },
+    {
+        "station_id": "1038",
+        "city_name": "普宁",
+        "station_name": "普宁城西客运站",
+        "station_pinyin": "puningchengxikeyunzhan"
+    },
+    {
+        "station_id": "1039",
+        "city_name": "惠来",
+        "station_name": "惠来汽车客运站",
+        "station_pinyin": "huilaiqichekeyunzhan"
+    },
+    {
+        "station_id": "1028",
+        "city_name": "揭阳",
+        "station_name": "揭阳马牙客运站",
+        "station_pinyin": "jieyangmayakeyunzhan"
+    }
+],
     "level": 2
-}, {
-    "code": "445201",
-    "sheng": "44",
-    "di": "52",
-    "xian": "01",
-    "name": "辖",
-    "level": 3
-}, {
-    "code": "445202",
-    "sheng": "44",
-    "di": "52",
-    "xian": "02",
-    "name": "榕城",
-    "level": 3
-}, {
-    "code": "445203",
-    "sheng": "44",
-    "di": "52",
-    "xian": "03",
-    "name": "揭东",
-    "level": 3
-}, {
-    "code": "445222",
-    "sheng": "44",
-    "di": "52",
-    "xian": "22",
-    "name": "揭西",
-    "level": 3
-}, {
-    "code": "445224",
-    "sheng": "44",
-    "di": "52",
-    "xian": "24",
-    "name": "惠来",
-    "level": 3
-}, {
-    "code": "445281",
-    "sheng": "44",
-    "di": "52",
-    "xian": "81",
-    "name": "普宁",
-    "level": 3
-}, {
+},{
     "code": "445300",
     "sheng": "44",
     "di": "53",
     "xian": "00",
     "name": "云浮",
+    "station":[
+    {
+        "station_id": "1054",
+        "city_name": "罗定",
+        "station_name": "罗定泷州客运站",
+        "station_pinyin": "luodinglongzhoukeyunzhan"
+    },
+    {
+        "station_id": "1055",
+        "city_name": "罗定",
+        "station_name": "罗定罗镜客运站",
+        "station_pinyin": "luodingluojingkeyunzhan"
+    },
+    {
+        "station_id": "1057",
+        "city_name": "新兴",
+        "station_name": "新兴天堂客运站",
+        "station_pinyin": "xinxingtiantangkeyunzhan"
+    },
+    {
+        "station_id": "1051",
+        "city_name": "云浮",
+        "station_name": "云浮城西客运站",
+        "station_pinyin": "yunfuchengxikeyunzhan"
+    },
+    {
+        "station_id": "1062",
+        "city_name": "郁南",
+        "station_name": "郁南连滩客运站",
+        "station_pinyin": "yunanliantankeyunzhan"
+    },
+    {
+        "station_id": "1050",
+        "city_name": "云浮",
+        "station_name": "云浮汽车客运站",
+        "station_pinyin": "yunfuqichekeyunzhan"
+    },
+    {
+        "station_id": "1060",
+        "city_name": "郁南",
+        "station_name": "郁南千官客运站",
+        "station_pinyin": "yunanqianguankeyunzhan"
+    },
+    {
+        "station_id": "1063",
+        "city_name": "郁南",
+        "station_name": "郁南飞凤客运站",
+        "station_pinyin": "yunanfeifengkeyunzhan"
+    },
+    {
+        "station_id": "1052",
+        "city_name": "云浮",
+        "station_name": "云浮城市候机楼",
+        "station_pinyin": "yunfuchengshihoujilou"
+    },
+    {
+        "station_id": "1053",
+        "city_name": "罗定",
+        "station_name": "罗定汽车客运站",
+        "station_pinyin": "luodingqichekeyunzhan"
+    },
+    {
+        "station_id": "1056",
+        "city_name": "罗定",
+        "station_name": "罗定素龙客运站",
+        "station_pinyin": "luodingsulongkeyunzhan"
+    },
+    {
+        "station_id": "1059",
+        "city_name": "郁南",
+        "station_name": "郁南汽车客运站",
+        "station_pinyin": "yunanqichekeyunzhan1"
+    },
+    {
+        "station_id": "1066",
+        "city_name": "郁南",
+        "station_name": "郁南罗顺客运站",
+        "station_pinyin": "yunanluoshunkeyunzhan"
+    },
+    {
+        "station_id": "1058",
+        "city_name": "云浮",
+        "station_name": "云浮新兴客运站",
+        "station_pinyin": "yunfuxinxingkeyunzhan"
+    },
+    {
+        "station_id": "1064",
+        "city_name": "云安",
+        "station_name": "云安汽车客运站",
+        "station_pinyin": "yunanqichekeyunzhan"
+    },
+    {
+        "station_id": "1061",
+        "city_name": "郁南",
+        "station_name": "郁南南江口客运站",
+        "station_pinyin": "yunannanjiangkoukeyunzhan"
+    },
+    {
+        "station_id": "1065",
+        "city_name": "云安",
+        "station_name": "云安白石客运站",
+        "station_pinyin": "yunanbaishikeyunzhan"
+    },
+    {
+        "station_id": "1067",
+        "city_name": "云安",
+        "station_name": "云安石城客运站",
+        "station_pinyin": "yunanshichengkeyunzhan"
+    },
+    {
+        "station_id": "1069",
+        "city_name": "云安",
+        "station_name": "云安富林客运站",
+        "station_pinyin": "yunanfulinkeyunzhan"
+    },
+    {
+        "station_id": "1068",
+        "city_name": "云安",
+        "station_name": "云安高村客运站",
+        "station_pinyin": "yunangaocunkeyunzhan"
+    }
+],
     "level": 2
-}, {
-    "code": "445301",
-    "sheng": "44",
-    "di": "53",
-    "xian": "01",
-    "name": "辖",
-    "level": 3
-}, {
-    "code": "445302",
-    "sheng": "44",
-    "di": "53",
-    "xian": "02",
-    "name": "云城",
-    "level": 3
-}, {
-    "code": "445303",
-    "sheng": "44",
-    "di": "53",
-    "xian": "03",
-    "name": "云安",
-    "level": 3
-}, {
-    "code": "445321",
-    "sheng": "44",
-    "di": "53",
-    "xian": "21",
-    "name": "新兴",
-    "level": 3
-}, {
-    "code": "445322",
-    "sheng": "44",
-    "di": "53",
-    "xian": "22",
-    "name": "郁南",
-    "level": 3
-}, {
-    "code": "445381",
-    "sheng": "44",
-    "di": "53",
-    "xian": "81",
-    "name": "罗定",
-    "level": 3
 }, {
     "code": "450000",
     "sheng": "45",
     "di": "00",
     "xian": "00",
-    "name": "广西壮族自治",
+    "name": "广西",
     "level": 1
 }, {
     "code": "450100",
@@ -15039,972 +17781,873 @@ let data = [{
     "di": "01",
     "xian": "00",
     "name": "南宁",
+    "station":[
+    {
+        "station_id": "8348",
+        "city_name": "上林",
+        "station_name": "上林镇圩客运站",
+        "station_pinyin": "shanglinzhenweikeyunzhan"
+    },
+    {
+        "station_id": "8344",
+        "city_name": "马山",
+        "station_name": "南宁周鹿客运站",
+        "station_pinyin": "nanningzhoulukeyunzhan"
+    },
+    {
+        "station_id": "8342",
+        "city_name": "横县",
+        "station_name": "横县总站",
+        "station_pinyin": "hengxianzongzhan"
+    },
+    {
+        "station_id": "20437",
+        "city_name": "武鸣",
+        "station_name": "武鸣灵马站",
+        "station_pinyin": "wuminglingmazhan"
+    },
+    {
+        "station_id": "8346",
+        "city_name": "上林",
+        "station_name": "上林漫桥客运站",
+        "station_pinyin": "shanglinmanqiaokeyunzhan"
+    },
+    {
+        "station_id": "4881",
+        "city_name": "上林",
+        "station_name": "上林客运总站",
+        "station_pinyin": "shanglinkeyunzongzhan"
+    },
+    {
+        "station_id": "8345",
+        "city_name": "上林",
+        "station_name": "上林白圩客运站",
+        "station_pinyin": "shanglinbaiweikeyunzhan"
+    },
+    {
+        "station_id": "162",
+        "city_name": "南宁",
+        "station_name": "西乡塘客运站",
+        "station_pinyin": "xixiangtangkeyunzhan"
+    },
+    {
+        "station_id": "166",
+        "city_name": "南宁",
+        "station_name": "南宁江南客运站",
+        "station_pinyin": "nanningjiangnankeyunzhan"
+    },
+    {
+        "station_id": "4883",
+        "city_name": "隆安",
+        "station_name": "隆安客运总站",
+        "station_pinyin": "longankeyunzongzhan"
+    },
+    {
+        "station_id": "8347",
+        "city_name": "上林",
+        "station_name": "上林三里客运站",
+        "station_pinyin": "shanglinsanlikeyunzhan"
+    },
+    {
+        "station_id": "1871",
+        "city_name": "南宁",
+        "station_name": "南宁市金桥客运站",
+        "station_pinyin": "nanningshijinqiaokeyunzhan"
+    },
+    {
+        "station_id": "1897",
+        "city_name": "武鸣",
+        "station_name": "武鸣汽车站",
+        "station_pinyin": "wumingqichezhan"
+    },
+    {
+        "station_id": "8343",
+        "city_name": "马山",
+        "station_name": "金钗客运服务站",
+        "station_pinyin": "jinchakeyunfuwuzhan"
+    },
+    {
+        "station_id": "21245",
+        "city_name": "黎塘",
+        "station_name": "黎塘汽车站",
+        "station_pinyin": "litangqichezhan"
+    },
+    {
+        "station_id": "21301",
+        "city_name": "邕宁",
+        "station_name": "邕宁汽车站",
+        "station_pinyin": "yongningqichezhan"
+    },
+    {
+        "station_id": "20859",
+        "city_name": "南宁",
+        "station_name": "埌东客运站",
+        "station_pinyin": "langdongkeyunzhan"
+    },
+    {
+        "station_id": "4882",
+        "city_name": "马山",
+        "station_name": "马山客运总站",
+        "station_pinyin": "mashankeyunzongzhan"
+    },
+    {
+        "station_id": "165",
+        "city_name": "南宁",
+        "station_name": "南宁安吉客运站",
+        "station_pinyin": "nanninganjikeyunzhan"
+    },
+    {
+        "station_id": "20438",
+        "city_name": "武鸣",
+        "station_name": "武鸣里建站",
+        "station_pinyin": "wuminglijianzhan"
+    },
+    {
+        "station_id": "21244",
+        "city_name": "宾阳",
+        "station_name": "宾阳汽车总站",
+        "station_pinyin": "binyangqichezongzhan"
+    },
+    {
+        "station_id": "20439",
+        "city_name": "武鸣",
+        "station_name": "武鸣总站",
+        "station_pinyin": "wumingzongzhan"
+    }
+],
     "level": 2
-}, {
-    "code": "450101",
-    "sheng": "45",
-    "di": "01",
-    "xian": "01",
-    "name": "辖",
-    "level": 3
-}, {
-    "code": "450102",
-    "sheng": "45",
-    "di": "01",
-    "xian": "02",
-    "name": "兴宁",
-    "level": 3
-}, {
-    "code": "450103",
-    "sheng": "45",
-    "di": "01",
-    "xian": "03",
-    "name": "青秀",
-    "level": 3
-}, {
-    "code": "450105",
-    "sheng": "45",
-    "di": "01",
-    "xian": "05",
-    "name": "江南",
-    "level": 3
-}, {
-    "code": "450107",
-    "sheng": "45",
-    "di": "01",
-    "xian": "07",
-    "name": "西乡塘",
-    "level": 3
-}, {
-    "code": "450108",
-    "sheng": "45",
-    "di": "01",
-    "xian": "08",
-    "name": "良庆",
-    "level": 3
-}, {
-    "code": "450109",
-    "sheng": "45",
-    "di": "01",
-    "xian": "09",
-    "name": "邕宁",
-    "level": 3
-}, {
-    "code": "450122",
-    "sheng": "45",
-    "di": "01",
-    "xian": "22",
-    "name": "武鸣",
-    "level": 3
-}, {
-    "code": "450123",
-    "sheng": "45",
-    "di": "01",
-    "xian": "23",
-    "name": "隆安",
-    "level": 3
-}, {
-    "code": "450124",
-    "sheng": "45",
-    "di": "01",
-    "xian": "24",
-    "name": "马山",
-    "level": 3
-}, {
-    "code": "450125",
-    "sheng": "45",
-    "di": "01",
-    "xian": "25",
-    "name": "上林",
-    "level": 3
-}, {
-    "code": "450126",
-    "sheng": "45",
-    "di": "01",
-    "xian": "26",
-    "name": "宾阳",
-    "level": 3
-}, {
-    "code": "450127",
-    "sheng": "45",
-    "di": "01",
-    "xian": "27",
-    "name": "横",
-    "level": 3
-}, {
+},  {
     "code": "450200",
     "sheng": "45",
     "di": "02",
     "xian": "00",
     "name": "柳州",
+    "station":[
+    {
+        "station_id": "20990",
+        "city_name": "三江",
+        "station_name": "三江河西客运站",
+        "station_pinyin": "sanjianghexikeyunzhan"
+    },
+    {
+        "station_id": "5016",
+        "city_name": "融安",
+        "station_name": "融安汽车总站",
+        "station_pinyin": "ronganqichezongzhan"
+    },
+    {
+        "station_id": "168",
+        "city_name": "柳州",
+        "station_name": "柳州汽车总站",
+        "station_pinyin": "liuzhouqichezongzhan"
+    },
+    {
+        "station_id": "8341",
+        "city_name": "融水",
+        "station_name": "融水汽车总站",
+        "station_pinyin": "rongshuiqichezongzhan"
+    },
+    {
+        "station_id": "20905",
+        "city_name": "三江",
+        "station_name": "三江汽车河东客运服务站",
+        "station_pinyin": "sanjiangqichehedongkeyunfuwuzhan"
+    },
+    {
+        "station_id": "4884",
+        "city_name": "鹿寨",
+        "station_name": "鹿寨城南客运站",
+        "station_pinyin": "luzhaichengnankeyunzhan"
+    },
+    {
+        "station_id": "1821",
+        "city_name": "柳州",
+        "station_name": "柳州南站",
+        "station_pinyin": "liuzhounanzhan"
+    },
+    {
+        "station_id": "5017",
+        "city_name": "柳城",
+        "station_name": "柳城汽车总站",
+        "station_pinyin": "liuchengqichezongzhan"
+    }
+],
     "level": 2
-}, {
-    "code": "450201",
-    "sheng": "45",
-    "di": "02",
-    "xian": "01",
-    "name": "辖",
-    "level": 3
-}, {
-    "code": "450202",
-    "sheng": "45",
-    "di": "02",
-    "xian": "02",
-    "name": "城中",
-    "level": 3
-}, {
-    "code": "450203",
-    "sheng": "45",
-    "di": "02",
-    "xian": "03",
-    "name": "鱼峰",
-    "level": 3
-}, {
-    "code": "450204",
-    "sheng": "45",
-    "di": "02",
-    "xian": "04",
-    "name": "柳南",
-    "level": 3
-}, {
-    "code": "450205",
-    "sheng": "45",
-    "di": "02",
-    "xian": "05",
-    "name": "柳北",
-    "level": 3
-}, {
-    "code": "450221",
-    "sheng": "45",
-    "di": "02",
-    "xian": "21",
-    "name": "柳江",
-    "level": 3
-}, {
-    "code": "450222",
-    "sheng": "45",
-    "di": "02",
-    "xian": "22",
-    "name": "柳城",
-    "level": 3
-}, {
-    "code": "450223",
-    "sheng": "45",
-    "di": "02",
-    "xian": "23",
-    "name": "鹿寨",
-    "level": 3
-}, {
-    "code": "450224",
-    "sheng": "45",
-    "di": "02",
-    "xian": "24",
-    "name": "融安",
-    "level": 3
-}, {
-    "code": "450225",
-    "sheng": "45",
-    "di": "02",
-    "xian": "25",
-    "name": "融水苗族自治",
-    "level": 3
-}, {
-    "code": "450226",
-    "sheng": "45",
-    "di": "02",
-    "xian": "26",
-    "name": "三江侗族自治",
-    "level": 3
 }, {
     "code": "450300",
     "sheng": "45",
     "di": "03",
     "xian": "00",
     "name": "桂林",
+    "station":[
+    {
+        "station_id": "2257",
+        "city_name": "灌阳",
+        "station_name": "灌阳汽车总站",
+        "station_pinyin": "guanyangqichezongzhan"
+    },
+    {
+        "station_id": "2260",
+        "city_name": "全州",
+        "station_name": "全州汽车总站",
+        "station_pinyin": "quanzhouqichezongzhan"
+    },
+    {
+        "station_id": "2259",
+        "city_name": "灵川",
+        "station_name": "灵川汽车总站",
+        "station_pinyin": "lingchuanqichezongzhan"
+    },
+    {
+        "station_id": "2261",
+        "city_name": "恭城",
+        "station_name": "恭城汽车总站",
+        "station_pinyin": "gongchengqichezongzhan"
+    },
+    {
+        "station_id": "2313",
+        "city_name": "阳朔",
+        "station_name": "阳朔汽车北站",
+        "station_pinyin": "yangshuoqichebeizhan"
+    },
+    {
+        "station_id": "2263",
+        "city_name": "龙胜",
+        "station_name": "龙胜汽车总站",
+        "station_pinyin": "longshengqichezongzhan"
+    },
+    {
+        "station_id": "2314",
+        "city_name": "平乐",
+        "station_name": "平乐县二塘站",
+        "station_pinyin": "pinglexianertangzhan"
+    },
+    {
+        "station_id": "2267",
+        "city_name": "平乐",
+        "station_name": "平乐汽车总站",
+        "station_pinyin": "pingleqichezongzhan"
+    },
+    {
+        "station_id": "2265",
+        "city_name": "桂林",
+        "station_name": "兴安汽车总站",
+        "station_pinyin": "xinganqichezongzhan"
+    },
+    {
+        "station_id": "2255",
+        "city_name": "桂林",
+        "station_name": "桂林汽车客运北站",
+        "station_pinyin": "guilinqichekeyunbeizhan"
+    },
+    {
+        "station_id": "2256",
+        "city_name": "资源",
+        "station_name": "资源汽车总站",
+        "station_pinyin": "ziyuanqichezongzhan"
+    },
+    {
+        "station_id": "2258",
+        "city_name": "桂林",
+        "station_name": "临桂汽车总站",
+        "station_pinyin": "linguiqichezongzhan"
+    },
+    {
+        "station_id": "167",
+        "city_name": "桂林",
+        "station_name": "桂林汽车客运总站",
+        "station_pinyin": "guilinqichekeyunzongzhan"
+    },
+    {
+        "station_id": "2262",
+        "city_name": "阳朔",
+        "station_name": "阳朔汽车南站",
+        "station_pinyin": "yangshuoqichenanzhan"
+    },
+    {
+        "station_id": "2266",
+        "city_name": "永福",
+        "station_name": "永福汽车总站",
+        "station_pinyin": "yongfuqichezongzhan"
+    },
+    {
+        "station_id": "2315",
+        "city_name": "平乐",
+        "station_name": "平乐县榕津站",
+        "station_pinyin": "pinglexianrongjinzhan"
+    },
+    {
+        "station_id": "2264",
+        "city_name": "荔浦",
+        "station_name": "荔浦汽车总站",
+        "station_pinyin": "lipuqichezongzhan"
+    },
+    {
+        "station_id": "2379",
+        "city_name": "平乐",
+        "station_name": "源头汽车站",
+        "station_pinyin": "yuantouqichezhan"
+    }
+],
     "level": 2
-}, {
-    "code": "450301",
-    "sheng": "45",
-    "di": "03",
-    "xian": "01",
-    "name": "辖",
-    "level": 3
-}, {
-    "code": "450302",
-    "sheng": "45",
-    "di": "03",
-    "xian": "02",
-    "name": "秀峰",
-    "level": 3
-}, {
-    "code": "450303",
-    "sheng": "45",
-    "di": "03",
-    "xian": "03",
-    "name": "叠彩",
-    "level": 3
-}, {
-    "code": "450304",
-    "sheng": "45",
-    "di": "03",
-    "xian": "04",
-    "name": "象山",
-    "level": 3
-}, {
-    "code": "450305",
-    "sheng": "45",
-    "di": "03",
-    "xian": "05",
-    "name": "七星",
-    "level": 3
-}, {
-    "code": "450311",
-    "sheng": "45",
-    "di": "03",
-    "xian": "11",
-    "name": "雁山",
-    "level": 3
-}, {
-    "code": "450312",
-    "sheng": "45",
-    "di": "03",
-    "xian": "12",
-    "name": "临桂",
-    "level": 3
-}, {
-    "code": "450321",
-    "sheng": "45",
-    "di": "03",
-    "xian": "21",
-    "name": "阳朔",
-    "level": 3
-}, {
-    "code": "450323",
-    "sheng": "45",
-    "di": "03",
-    "xian": "23",
-    "name": "灵川",
-    "level": 3
-}, {
-    "code": "450324",
-    "sheng": "45",
-    "di": "03",
-    "xian": "24",
-    "name": "全州",
-    "level": 3
-}, {
-    "code": "450325",
-    "sheng": "45",
-    "di": "03",
-    "xian": "25",
-    "name": "兴安",
-    "level": 3
-}, {
-    "code": "450326",
-    "sheng": "45",
-    "di": "03",
-    "xian": "26",
-    "name": "永福",
-    "level": 3
-}, {
-    "code": "450327",
-    "sheng": "45",
-    "di": "03",
-    "xian": "27",
-    "name": "灌阳",
-    "level": 3
-}, {
-    "code": "450328",
-    "sheng": "45",
-    "di": "03",
-    "xian": "28",
-    "name": "龙胜各族自治",
-    "level": 3
-}, {
-    "code": "450329",
-    "sheng": "45",
-    "di": "03",
-    "xian": "29",
-    "name": "资源",
-    "level": 3
-}, {
-    "code": "450330",
-    "sheng": "45",
-    "di": "03",
-    "xian": "30",
-    "name": "平乐",
-    "level": 3
-}, {
-    "code": "450331",
-    "sheng": "45",
-    "di": "03",
-    "xian": "31",
-    "name": "荔浦",
-    "level": 3
-}, {
-    "code": "450332",
-    "sheng": "45",
-    "di": "03",
-    "xian": "32",
-    "name": "恭城瑶族自治",
-    "level": 3
-}, {
-    "code": "450400",
-    "sheng": "45",
-    "di": "04",
-    "xian": "00",
-    "name": "梧州",
-    "level": 2
-}, {
-    "code": "450401",
-    "sheng": "45",
-    "di": "04",
-    "xian": "01",
-    "name": "辖",
-    "level": 3
-}, {
-    "code": "450403",
-    "sheng": "45",
-    "di": "04",
-    "xian": "03",
-    "name": "万秀",
-    "level": 3
-}, {
-    "code": "450405",
-    "sheng": "45",
-    "di": "04",
-    "xian": "05",
-    "name": "长洲",
-    "level": 3
-}, {
-    "code": "450406",
-    "sheng": "45",
-    "di": "04",
-    "xian": "06",
-    "name": "龙圩",
-    "level": 3
-}, {
-    "code": "450421",
-    "sheng": "45",
-    "di": "04",
-    "xian": "21",
-    "name": "苍梧",
-    "level": 3
-}, {
-    "code": "450422",
-    "sheng": "45",
-    "di": "04",
-    "xian": "22",
-    "name": "藤",
-    "level": 3
-}, {
-    "code": "450423",
-    "sheng": "45",
-    "di": "04",
-    "xian": "23",
-    "name": "蒙山",
-    "level": 3
-}, {
-    "code": "450481",
-    "sheng": "45",
-    "di": "04",
-    "xian": "81",
-    "name": "岑溪",
-    "level": 3
 }, {
     "code": "450500",
     "sheng": "45",
     "di": "05",
     "xian": "00",
     "name": "北海",
+    "station":[
+    {
+        "station_id": "1470",
+        "city_name": "北海",
+        "station_name": "北海市合浦公馆客运站",
+        "station_pinyin": "beihaishihepugongguankeyunzhan"
+    },
+    {
+        "station_id": "1875",
+        "city_name": "北海",
+        "station_name": "北海市西区客运服务站",
+        "station_pinyin": "beihaishixiqukeyunfuwuzhan"
+    },
+    {
+        "station_id": "174",
+        "city_name": "北海",
+        "station_name": "北海市汽车总站",
+        "station_pinyin": "beihaishiqichezongzhan"
+    },
+    {
+        "station_id": "1874",
+        "city_name": "北海",
+        "station_name": "北海市合浦山口汽车站",
+        "station_pinyin": "beihaishihepushankouqichezhan"
+    },
+    {
+        "station_id": "1873",
+        "city_name": "北海",
+        "station_name": "北海市港客运站",
+        "station_pinyin": "beihaishigangkeyunzhan"
+    },
+    {
+        "station_id": "1872",
+        "city_name": "北海",
+        "station_name": "北海和信客运",
+        "station_pinyin": "beihaihexinkeyun"
+    },
+    {
+        "station_id": "169",
+        "city_name": "北海",
+        "station_name": "北海南珠汽车站",
+        "station_pinyin": "beihainanzhuqichezhan"
+    },
+    {
+        "station_id": "8335",
+        "city_name": "合浦",
+        "station_name": "合浦汽车总站",
+        "station_pinyin": "hepuqichezongzhan"
+    },
+    {
+        "station_id": "1877",
+        "city_name": "北海",
+        "station_name": "北海市合浦白沙客运站",
+        "station_pinyin": "beihaishihepubaishakeyunzhan"
+    },
+    {
+        "station_id": "1876",
+        "city_name": "北海",
+        "station_name": "北海二运汽车站",
+        "station_pinyin": "beihaieryunqichezhan"
+    },
+    {
+        "station_id": "1878",
+        "city_name": "北海",
+        "station_name": "北海市合浦西场客运站",
+        "station_pinyin": "beihaishihepuxichangkeyunzhan"
+    }
+],
     "level": 2
-}, {
-    "code": "450501",
-    "sheng": "45",
-    "di": "05",
-    "xian": "01",
-    "name": "辖",
-    "level": 3
-}, {
-    "code": "450502",
-    "sheng": "45",
-    "di": "05",
-    "xian": "02",
-    "name": "海城",
-    "level": 3
-}, {
-    "code": "450503",
-    "sheng": "45",
-    "di": "05",
-    "xian": "03",
-    "name": "银海",
-    "level": 3
-}, {
-    "code": "450512",
-    "sheng": "45",
-    "di": "05",
-    "xian": "12",
-    "name": "铁山港",
-    "level": 3
-}, {
-    "code": "450521",
-    "sheng": "45",
-    "di": "05",
-    "xian": "21",
-    "name": "合浦",
-    "level": 3
-}, {
+},{
     "code": "450600",
     "sheng": "45",
     "di": "06",
     "xian": "00",
     "name": "防城港",
+    "station":[
+    {
+        "station_id": "20457",
+        "city_name": "东兴",
+        "station_name": "东兴汽车客运服务站",
+        "station_pinyin": "dongxingqichekeyunfuwuzhan"
+    },
+    {
+        "station_id": "21236",
+        "city_name": "上思",
+        "station_name": "上思汽车站",
+        "station_pinyin": "shangsiqichezhan"
+    },
+    {
+        "station_id": "20458",
+        "city_name": "防城港",
+        "station_name": "防城港客运中心",
+        "station_pinyin": "fangchenggangkeyunzhongxin"
+    },
+    {
+        "station_id": "1277",
+        "city_name": "防城港",
+        "station_name": "防城一运中心",
+        "station_pinyin": "fangchengyiyunzhongxin"
+    },
+    {
+        "station_id": "21288",
+        "city_name": "防城港",
+        "station_name": "防城港港口汽车站",
+        "station_pinyin": "fangchengganggangkouqichezhan"
+    }
+],
     "level": 2
-}, {
-    "code": "450601",
-    "sheng": "45",
-    "di": "06",
-    "xian": "01",
-    "name": "辖",
-    "level": 3
-}, {
-    "code": "450602",
-    "sheng": "45",
-    "di": "06",
-    "xian": "02",
-    "name": "港口",
-    "level": 3
-}, {
-    "code": "450603",
-    "sheng": "45",
-    "di": "06",
-    "xian": "03",
-    "name": "防城",
-    "level": 3
-}, {
-    "code": "450621",
-    "sheng": "45",
-    "di": "06",
-    "xian": "21",
-    "name": "上思",
-    "level": 3
-}, {
-    "code": "450681",
-    "sheng": "45",
-    "di": "06",
-    "xian": "81",
-    "name": "东兴",
-    "level": 3
 }, {
     "code": "450700",
     "sheng": "45",
     "di": "07",
     "xian": "00",
     "name": "钦州",
+    "station":[
+    {
+        "station_id": "1891",
+        "city_name": "钦州",
+        "station_name": "钦州总站",
+        "station_pinyin": "qinzhouzongzhan"
+    },
+    {
+        "station_id": "1893",
+        "city_name": "钦州",
+        "station_name": "钦州北站",
+        "station_pinyin": "qinzhoubeizhan"
+    },
+    {
+        "station_id": "1892",
+        "city_name": "钦州",
+        "station_name": "钦州南站",
+        "station_pinyin": "qinzhounanzhan"
+    },
+    {
+        "station_id": "1895",
+        "city_name": "灵山",
+        "station_name": "灵山总站",
+        "station_pinyin": "lingshanzongzhan"
+    },
+    {
+        "station_id": "1894",
+        "city_name": "浦北",
+        "station_name": "浦北总站",
+        "station_pinyin": "pubeizongzhan"
+    },
+    {
+        "station_id": "1896",
+        "city_name": "灵山",
+        "station_name": "灵山南站",
+        "station_pinyin": "lingshannanzhan"
+    },
+    {
+        "station_id": "1900",
+        "city_name": "钦州",
+        "station_name": "钦州港站",
+        "station_pinyin": "qinzhougangzhan"
+    }
+],
     "level": 2
-}, {
-    "code": "450701",
-    "sheng": "45",
-    "di": "07",
-    "xian": "01",
-    "name": "辖",
-    "level": 3
-}, {
-    "code": "450702",
-    "sheng": "45",
-    "di": "07",
-    "xian": "02",
-    "name": "钦南",
-    "level": 3
-}, {
-    "code": "450703",
-    "sheng": "45",
-    "di": "07",
-    "xian": "03",
-    "name": "钦北",
-    "level": 3
-}, {
-    "code": "450721",
-    "sheng": "45",
-    "di": "07",
-    "xian": "21",
-    "name": "灵山",
-    "level": 3
-}, {
-    "code": "450722",
-    "sheng": "45",
-    "di": "07",
-    "xian": "22",
-    "name": "浦北",
-    "level": 3
-}, {
+},{
     "code": "450800",
     "sheng": "45",
     "di": "08",
     "xian": "00",
     "name": "贵港",
+    "station":[
+    {
+        "station_id": "1286",
+        "city_name": "贵港",
+        "station_name": "贵港西站",
+        "station_pinyin": "guigangxizhan"
+    },
+    {
+        "station_id": "170",
+        "city_name": "贵港",
+        "station_name": "贵港汽车总站",
+        "station_pinyin": "guigangqichezongzhan"
+    },
+    {
+        "station_id": "2513",
+        "city_name": "贵港",
+        "station_name": "贵港汽车东站",
+        "station_pinyin": "guigangqichedongzhan"
+    },
+    {
+        "station_id": "2516",
+        "city_name": "平南",
+        "station_name": "平南汽车总站",
+        "station_pinyin": "pingnanqichezongzhan"
+    },
+    {
+        "station_id": "2515",
+        "city_name": "桂平",
+        "station_name": "桂平汽车总站",
+        "station_pinyin": "guipingqichezongzhan"
+    },
+    {
+        "station_id": "2514",
+        "city_name": "贵港",
+        "station_name": "贵港汽车南站",
+        "station_pinyin": "guigangqichenanzhan"
+    },
+    {
+        "station_id": "20734",
+        "city_name": "贵港",
+        "station_name": "爱丽舍服务点",
+        "station_pinyin": "ailishefuwudian"
+    }
+],
     "level": 2
-}, {
-    "code": "450801",
-    "sheng": "45",
-    "di": "08",
-    "xian": "01",
-    "name": "辖",
-    "level": 3
-}, {
-    "code": "450802",
-    "sheng": "45",
-    "di": "08",
-    "xian": "02",
-    "name": "港北",
-    "level": 3
-}, {
-    "code": "450803",
-    "sheng": "45",
-    "di": "08",
-    "xian": "03",
-    "name": "港南",
-    "level": 3
-}, {
-    "code": "450804",
-    "sheng": "45",
-    "di": "08",
-    "xian": "04",
-    "name": "覃塘",
-    "level": 3
-}, {
-    "code": "450821",
-    "sheng": "45",
-    "di": "08",
-    "xian": "21",
-    "name": "平南",
-    "level": 3
-}, {
-    "code": "450881",
-    "sheng": "45",
-    "di": "08",
-    "xian": "81",
-    "name": "桂平",
-    "level": 3
 }, {
     "code": "450900",
     "sheng": "45",
     "di": "09",
     "xian": "00",
     "name": "玉林",
+    "station":[
+    {
+        "station_id": "5062",
+        "city_name": "博白",
+        "station_name": "博白汽车总站",
+        "station_pinyin": "bobaiqichezongzhan"
+    },
+    {
+        "station_id": "20745",
+        "city_name": "玉林",
+        "station_name": "旅游集团",
+        "station_pinyin": "lvyoujituan"
+    },
+    {
+        "station_id": "172",
+        "city_name": "玉林",
+        "station_name": "玉林总站",
+        "station_pinyin": "yulinzongzhan"
+    },
+    {
+        "station_id": "5061",
+        "city_name": "北流",
+        "station_name": "北流汽车总站",
+        "station_pinyin": "beiliuqichezongzhan"
+    },
+    {
+        "station_id": "5063",
+        "city_name": "陆川",
+        "station_name": "陆川汽车总站",
+        "station_pinyin": "luchuanqichezongzhan"
+    },
+    {
+        "station_id": "5064",
+        "city_name": "玉林",
+        "station_name": "玉林旅游汽车客运站",
+        "station_pinyin": "yulinlvyouqichekeyunzhan"
+    },
+    {
+        "station_id": "5065",
+        "city_name": "容县",
+        "station_name": "容县汽车总站",
+        "station_pinyin": "rongxianqichezongzhan"
+    },
+    {
+        "station_id": "21027",
+        "city_name": "北流",
+        "station_name": "北流城南汽车客运站",
+        "station_pinyin": "beiliuchengnanqichekeyunzhan"
+    },
+    {
+        "station_id": "21289",
+        "city_name": "玉林",
+        "station_name": "玉林西城客运站",
+        "station_pinyin": "yulinxichengkeyunzhan"
+    },
+    {
+        "station_id": "5066",
+        "city_name": "兴业",
+        "station_name": "兴业客运站",
+        "station_pinyin": "xingyekeyunzhan"
+    },
+    {
+        "station_id": "21235",
+        "city_name": "容县",
+        "station_name": "容县城南客运站",
+        "station_pinyin": "rongxianchengnankeyunzhan"
+    }
+],
     "level": 2
-}, {
-    "code": "450901",
-    "sheng": "45",
-    "di": "09",
-    "xian": "01",
-    "name": "辖",
-    "level": 3
-}, {
-    "code": "450902",
-    "sheng": "45",
-    "di": "09",
-    "xian": "02",
-    "name": "玉州",
-    "level": 3
-}, {
-    "code": "450903",
-    "sheng": "45",
-    "di": "09",
-    "xian": "03",
-    "name": "福绵",
-    "level": 3
-}, {
-    "code": "450921",
-    "sheng": "45",
-    "di": "09",
-    "xian": "21",
-    "name": "容",
-    "level": 3
-}, {
-    "code": "450922",
-    "sheng": "45",
-    "di": "09",
-    "xian": "22",
-    "name": "陆川",
-    "level": 3
-}, {
-    "code": "450923",
-    "sheng": "45",
-    "di": "09",
-    "xian": "23",
-    "name": "博白",
-    "level": 3
-}, {
-    "code": "450924",
-    "sheng": "45",
-    "di": "09",
-    "xian": "24",
-    "name": "兴业",
-    "level": 3
-}, {
-    "code": "450981",
-    "sheng": "45",
-    "di": "09",
-    "xian": "81",
-    "name": "北流",
-    "level": 3
 }, {
     "code": "451000",
     "sheng": "45",
     "di": "10",
     "xian": "00",
     "name": "百色",
+    "station":[
+    {
+        "station_id": "1442",
+        "city_name": "德保",
+        "station_name": "德保客运站",
+        "station_pinyin": "debaokeyunzhan"
+    },
+    {
+        "station_id": "1446",
+        "city_name": "那坡",
+        "station_name": "那坡客运站",
+        "station_pinyin": "napokeyunzhan"
+    },
+    {
+        "station_id": "1441",
+        "city_name": "平果",
+        "station_name": "平果客运站",
+        "station_pinyin": "pingguokeyunzhan"
+    },
+    {
+        "station_id": "1452",
+        "city_name": "乐业",
+        "station_name": "乐业客运站",
+        "station_pinyin": "leyekeyunzhan"
+    },
+    {
+        "station_id": "1438",
+        "city_name": "百色",
+        "station_name": "百色客运站",
+        "station_pinyin": "baisekeyunzhan"
+    },
+    {
+        "station_id": "1447",
+        "city_name": "田林",
+        "station_name": "田林客运站",
+        "station_pinyin": "tianlinkeyunzhan"
+    },
+    {
+        "station_id": "1449",
+        "city_name": "隆林",
+        "station_name": "隆林客运站",
+        "station_pinyin": "longlinkeyunzhan"
+    },
+    {
+        "station_id": "1450",
+        "city_name": "西林",
+        "station_name": "西林客运站",
+        "station_pinyin": "xilinkeyunzhan"
+    },
+    {
+        "station_id": "1439",
+        "city_name": "田阳",
+        "station_name": "田阳客运站",
+        "station_pinyin": "tianyangkeyunzhan"
+    },
+    {
+        "station_id": "1440",
+        "city_name": "田东",
+        "station_name": "田东客运站",
+        "station_pinyin": "tiandongkeyunzhan"
+    },
+    {
+        "station_id": "1443",
+        "city_name": "靖西",
+        "station_name": "靖西客运站",
+        "station_pinyin": "jingxikeyunzhan"
+    },
+    {
+        "station_id": "1451",
+        "city_name": "凌云",
+        "station_name": "凌云客运站",
+        "station_pinyin": "lingyunkeyunzhan"
+    }
+],
     "level": 2
-}, {
-    "code": "451001",
-    "sheng": "45",
-    "di": "10",
-    "xian": "01",
-    "name": "辖",
-    "level": 3
-}, {
-    "code": "451002",
-    "sheng": "45",
-    "di": "10",
-    "xian": "02",
-    "name": "右江",
-    "level": 3
-}, {
-    "code": "451021",
-    "sheng": "45",
-    "di": "10",
-    "xian": "21",
-    "name": "田阳",
-    "level": 3
-}, {
-    "code": "451022",
-    "sheng": "45",
-    "di": "10",
-    "xian": "22",
-    "name": "田东",
-    "level": 3
-}, {
-    "code": "451023",
-    "sheng": "45",
-    "di": "10",
-    "xian": "23",
-    "name": "平果",
-    "level": 3
-}, {
-    "code": "451024",
-    "sheng": "45",
-    "di": "10",
-    "xian": "24",
-    "name": "德保",
-    "level": 3
-}, {
-    "code": "451025",
-    "sheng": "45",
-    "di": "10",
-    "xian": "25",
-    "name": "靖西",
-    "level": 3
-}, {
-    "code": "451026",
-    "sheng": "45",
-    "di": "10",
-    "xian": "26",
-    "name": "那坡",
-    "level": 3
-}, {
-    "code": "451027",
-    "sheng": "45",
-    "di": "10",
-    "xian": "27",
-    "name": "凌云",
-    "level": 3
-}, {
-    "code": "451028",
-    "sheng": "45",
-    "di": "10",
-    "xian": "28",
-    "name": "乐业",
-    "level": 3
-}, {
-    "code": "451029",
-    "sheng": "45",
-    "di": "10",
-    "xian": "29",
-    "name": "田林",
-    "level": 3
-}, {
-    "code": "451030",
-    "sheng": "45",
-    "di": "10",
-    "xian": "30",
-    "name": "西林",
-    "level": 3
-}, {
-    "code": "451031",
-    "sheng": "45",
-    "di": "10",
-    "xian": "31",
-    "name": "隆林各族自治",
-    "level": 3
-}, {
+},{
     "code": "451100",
     "sheng": "45",
     "di": "11",
     "xian": "00",
     "name": "贺州",
+    "station":[
+    {
+        "station_id": "4888",
+        "city_name": "富川",
+        "station_name": "富川汽车站",
+        "station_pinyin": "fuchuanqichezhan"
+    },
+    {
+        "station_id": "21290",
+        "city_name": "钟山",
+        "station_name": "钟山汽车站",
+        "station_pinyin": "zhongshanqichezhan"
+    },
+    {
+        "station_id": "8338",
+        "city_name": "贺州",
+        "station_name": "贺州客运中心站",
+        "station_pinyin": "hezhoukeyunzhongxinzhan"
+    },
+    {
+        "station_id": "8339",
+        "city_name": "昭平",
+        "station_name": "昭平汽车站",
+        "station_pinyin": "zhaopingqichezhan"
+    }
+],
     "level": 2
-}, {
-    "code": "451101",
-    "sheng": "45",
-    "di": "11",
-    "xian": "01",
-    "name": "辖",
-    "level": 3
-}, {
-    "code": "451102",
-    "sheng": "45",
-    "di": "11",
-    "xian": "02",
-    "name": "八步",
-    "level": 3
-}, {
-    "code": "451121",
-    "sheng": "45",
-    "di": "11",
-    "xian": "21",
-    "name": "昭平",
-    "level": 3
-}, {
-    "code": "451122",
-    "sheng": "45",
-    "di": "11",
-    "xian": "22",
-    "name": "钟山",
-    "level": 3
-}, {
-    "code": "451123",
-    "sheng": "45",
-    "di": "11",
-    "xian": "23",
-    "name": "富川瑶族自治",
-    "level": 3
 }, {
     "code": "451200",
     "sheng": "45",
     "di": "12",
     "xian": "00",
     "name": "河池",
+    "station":[
+    {
+        "station_id": "21026",
+        "city_name": "河池",
+        "station_name": "金城江城北汽车站",
+        "station_pinyin": "jinchengjiangchengbeiqichezhan"
+    },
+    {
+        "station_id": "21025",
+        "city_name": "河池",
+        "station_name": "金城江城东汽车站",
+        "station_pinyin": "jinchengjiangchengdongqichezhan"
+    },
+    {
+        "station_id": "21024",
+        "city_name": "河池",
+        "station_name": "金城江城西汽车站",
+        "station_pinyin": "jinchengjiangchengxiqichezhan"
+    },
+    {
+        "station_id": "20860",
+        "city_name": "宜州",
+        "station_name": "宜州客运站",
+        "station_pinyin": "yizhoukeyunzhan"
+    }
+],
     "level": 2
-}, {
-    "code": "451201",
-    "sheng": "45",
-    "di": "12",
-    "xian": "01",
-    "name": "辖",
-    "level": 3
-}, {
-    "code": "451202",
-    "sheng": "45",
-    "di": "12",
-    "xian": "02",
-    "name": "金城江",
-    "level": 3
-}, {
-    "code": "451221",
-    "sheng": "45",
-    "di": "12",
-    "xian": "21",
-    "name": "南丹",
-    "level": 3
-}, {
-    "code": "451222",
-    "sheng": "45",
-    "di": "12",
-    "xian": "22",
-    "name": "天峨",
-    "level": 3
-}, {
-    "code": "451223",
-    "sheng": "45",
-    "di": "12",
-    "xian": "23",
-    "name": "凤山",
-    "level": 3
-}, {
-    "code": "451224",
-    "sheng": "45",
-    "di": "12",
-    "xian": "24",
-    "name": "东兰",
-    "level": 3
-}, {
-    "code": "451225",
-    "sheng": "45",
-    "di": "12",
-    "xian": "25",
-    "name": "罗城仫佬族自治",
-    "level": 3
-}, {
-    "code": "451226",
-    "sheng": "45",
-    "di": "12",
-    "xian": "26",
-    "name": "环江毛南族自治",
-    "level": 3
-}, {
-    "code": "451227",
-    "sheng": "45",
-    "di": "12",
-    "xian": "27",
-    "name": "巴马瑶族自治",
-    "level": 3
-}, {
-    "code": "451228",
-    "sheng": "45",
-    "di": "12",
-    "xian": "28",
-    "name": "都安瑶族自治",
-    "level": 3
-}, {
-    "code": "451229",
-    "sheng": "45",
-    "di": "12",
-    "xian": "29",
-    "name": "大化瑶族自治",
-    "level": 3
-}, {
-    "code": "451281",
-    "sheng": "45",
-    "di": "12",
-    "xian": "81",
-    "name": "宜州",
-    "level": 3
 }, {
     "code": "451300",
     "sheng": "45",
     "di": "13",
     "xian": "00",
     "name": "来宾",
+    "station":[
+    {
+        "station_id": "1820",
+        "city_name": "来宾",
+        "station_name": "来宾汽车客运服务站",
+        "station_pinyin": "laibinqichekeyunfuwuzhan"
+    },
+    {
+        "station_id": "4887",
+        "city_name": "合山",
+        "station_name": "合山汽车站",
+        "station_pinyin": "heshanqichezhan"
+    },
+    {
+        "station_id": "21250",
+        "city_name": "桐木",
+        "station_name": "桐木客运站",
+        "station_pinyin": "tongmukeyunzhan"
+    },
+    {
+        "station_id": "8340",
+        "city_name": "象州",
+        "station_name": "象州汽车客运服务站",
+        "station_pinyin": "xiangzhouqichekeyunfuwuzhan"
+    },
+    {
+        "station_id": "5015",
+        "city_name": "金秀",
+        "station_name": "金秀客运服务站",
+        "station_pinyin": "jinxiukeyunfuwuzhan"
+    },
+    {
+        "station_id": "4886",
+        "city_name": "武宣",
+        "station_name": "武宣汽车站",
+        "station_pinyin": "wuxuanqichezhan"
+    },
+    {
+        "station_id": "4885",
+        "city_name": "忻城",
+        "station_name": "忻城汽车站",
+        "station_pinyin": "xinchengqichezhan"
+    }
+],
     "level": 2
-}, {
-    "code": "451301",
-    "sheng": "45",
-    "di": "13",
-    "xian": "01",
-    "name": "辖",
-    "level": 3
-}, {
-    "code": "451302",
-    "sheng": "45",
-    "di": "13",
-    "xian": "02",
-    "name": "兴宾",
-    "level": 3
-}, {
-    "code": "451321",
-    "sheng": "45",
-    "di": "13",
-    "xian": "21",
-    "name": "忻城",
-    "level": 3
-}, {
-    "code": "451322",
-    "sheng": "45",
-    "di": "13",
-    "xian": "22",
-    "name": "象州",
-    "level": 3
-}, {
-    "code": "451323",
-    "sheng": "45",
-    "di": "13",
-    "xian": "23",
-    "name": "武宣",
-    "level": 3
-}, {
-    "code": "451324",
-    "sheng": "45",
-    "di": "13",
-    "xian": "24",
-    "name": "金秀瑶族自治",
-    "level": 3
-}, {
-    "code": "451381",
-    "sheng": "45",
-    "di": "13",
-    "xian": "81",
-    "name": "合山",
-    "level": 3
 }, {
     "code": "451400",
     "sheng": "45",
     "di": "14",
     "xian": "00",
     "name": "崇左",
+    "station":[
+    {
+        "station_id": "4892",
+        "city_name": "大新",
+        "station_name": "大新客运总站",
+        "station_pinyin": "daxinkeyunzongzhan"
+    },
+    {
+        "station_id": "1818",
+        "city_name": "崇左",
+        "station_name": "崇左国际客运中心",
+        "station_pinyin": "chongzuoguojikeyunzhongxin"
+    },
+    {
+        "station_id": "8336",
+        "city_name": "扶绥",
+        "station_name": "扶绥东门汽车站",
+        "station_pinyin": "fusuidongmenqichezhan"
+    },
+    {
+        "station_id": "8337",
+        "city_name": "龙州",
+        "station_name": "龙州汽车总站",
+        "station_pinyin": "longzhouqichezongzhan"
+    },
+    {
+        "station_id": "5049",
+        "city_name": "扶绥",
+        "station_name": "扶绥汽车总站",
+        "station_pinyin": "fusuiqichezongzhan"
+    },
+    {
+        "station_id": "4889",
+        "city_name": "天等",
+        "station_name": "天等客运总站",
+        "station_pinyin": "tiandengkeyunzongzhan"
+    },
+    {
+        "station_id": "4891",
+        "city_name": "宁明",
+        "station_name": "宁明客运总站",
+        "station_pinyin": "ningmingkeyunzongzhan"
+    },
+    {
+        "station_id": "4890",
+        "city_name": "凭祥",
+        "station_name": "凭祥客运总站",
+        "station_pinyin": "pingxiangkeyunzongzhan"
+    },
+    {
+        "station_id": "20688",
+        "city_name": "扶绥",
+        "station_name": "东门客运站",
+        "station_pinyin": "dongmenkeyunzhan"
+    }
+],
     "level": 2
-}, {
-    "code": "451401",
-    "sheng": "45",
-    "di": "14",
-    "xian": "01",
-    "name": "辖",
-    "level": 3
-}, {
-    "code": "451402",
-    "sheng": "45",
-    "di": "14",
-    "xian": "02",
-    "name": "江州",
-    "level": 3
-}, {
-    "code": "451421",
-    "sheng": "45",
-    "di": "14",
-    "xian": "21",
-    "name": "扶绥",
-    "level": 3
-}, {
-    "code": "451422",
-    "sheng": "45",
-    "di": "14",
-    "xian": "22",
-    "name": "宁明",
-    "level": 3
-}, {
-    "code": "451423",
-    "sheng": "45",
-    "di": "14",
-    "xian": "23",
-    "name": "龙州",
-    "level": 3
-}, {
-    "code": "451424",
-    "sheng": "45",
-    "di": "14",
-    "xian": "24",
-    "name": "大新",
-    "level": 3
-}, {
-    "code": "451425",
-    "sheng": "45",
-    "di": "14",
-    "xian": "25",
-    "name": "天等",
-    "level": 3
-}, {
-    "code": "451481",
-    "sheng": "45",
-    "di": "14",
-    "xian": "81",
-    "name": "凭祥",
-    "level": 3
 }, {
     "code": "460000",
     "sheng": "46",
     "di": "00",
     "xian": "00",
-    "name": "海南省",
+    "name": "海南",
     "level": 1
 }, {
     "code": "460100",
