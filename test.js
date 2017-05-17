@@ -7,7 +7,7 @@ let fs = require('fs');
 let PY = require('./py.js');
 let citys = require('./citys.js');
 
-let utils = require('./utils.js')
+let utils = require('./utils.js');
 
 let city_list = citys.data.map((item) => {
     // item.stations = [];
